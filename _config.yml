@@ -20,6 +20,9 @@ analytics :
   google :
       tracking_id : # 'UA-70616211-1'
 
+
+
+
 # Build settings
 markdown: kramdown
 #markdown: redcarpet
@@ -38,3 +41,4 @@ enable_mermaid: True
 #google_analytics: ""
 
 # in page.html, we can enable the share.html. Now I mute it.
+share-page: False 
