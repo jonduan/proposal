@@ -36,3 +36,5 @@ enable_mathjax: True
 enable_mermaid: True
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
+
+# in page.html, we can enable the share.html. Now I mute it.
