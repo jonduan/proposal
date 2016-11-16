@@ -1,0 +1,38 @@
+# Site settings
+title: Evergreen
+header-img: img/home-bg2.jpg
+email: #hanjo.odendaal@eighty20.co.za
+description: "Another Note"
+baseurl: "/note"
+url:  "http://jonduan.github.io/note"
+twitter_username: #safactaday
+github_username:  #Eighty20
+facebook_username:  #Eighty20-291937880846403
+future: TRUE
+gems:
+  - jekyll-feed
+comments :
+  provider : disqus
+  disqus :
+    short_name : jonduan
+analytics :
+  provider : #google
+  google :
+      tracking_id : # 'UA-70616211-1'
+
+# Build settings
+markdown: kramdown
+#markdown: redcarpet
+highlighter: rouge
+permalink: pretty
+paginate: 5
+# https://jekyllrb.com/docs/configuration/
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "_rmd", "slides", "other"]
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: "snowdj"
+
+enable_mathjax: True
+enable_mermaid: True
+# Fill in your Google Analytics ID to track your website using GA
+#google_analytics: ""
