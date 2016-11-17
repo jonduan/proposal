@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The Wind Energy
 category: background
@@ -28,13 +28,4 @@ tags:
  
  
  
-- 
-
-
-
-
-
-
-
-
-
+-
