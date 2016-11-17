@@ -67,3 +67,8 @@ On the other hand, undeveloped countries have to work an extreme number of hours
 
 The countries with the least number of minutes required are all countries with higher high minimum wage or vast oil and gas resources. On the other hand, undeveloped nations with little to no oil and gas resources must work an extreme number of hours at minimum wage in order to afford one gallon of petrol.
 
+China - 3 hours.
+
+
+
+
