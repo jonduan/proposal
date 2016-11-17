@@ -9,7 +9,7 @@ tags: energy usage
 
 
 
-### [】Petrol Sweat Index: How Many Hours Do People Have to Work to Buy a Gallon of Petrol?](https://howmuch.net/articles/the-petrol-sweat-index)
+### [Petrol Sweat Index: How Many Hours Do People Have to Work to Buy a Gallon of Petrol?](https://howmuch.net/articles/the-petrol-sweat-index)
 
 Oil is the most important commodity in the world. Oil leads to petrol, the vital fuel that runs our economy, including our personal vehicles. Wages and petrol prices across the globe vary significantly, leading to a large difference in the number of hours worked at minimum wage required to afford one gallon of petrol. Below you can see our map of each country by how many minutes or hours at work required to afford one gallon of petrol.
 
