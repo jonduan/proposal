@@ -16,5 +16,12 @@ tags:
 ![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inxfzpoUjTzo/v0/800x-1.jpg)
 
 
-The 30-megwawatt development to go into service in November
-Europe has more than 10,000 megawatts of offshore wind
+ - The 30-megwawatt development to go into service in November
+ - Europe has more than 10,000 megawatts of offshore wind
+
+
+
+
+
+
+
