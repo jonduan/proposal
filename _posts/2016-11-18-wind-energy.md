@@ -18,8 +18,17 @@ tags:
 
  - The 30-megwawatt development to go into service in November
  - Europe has more than 10,000 megawatts of offshore wind
-
-
+ - developers have already installed nearly 10,000 megawatts in Germany, the U.K. and Denmark alone. On Tuesday, the U.K. approved what will be the world’s largest offshore wind farm: an 1,800 megawatt development off the Yorkshire Coast that will cost 6 billion pounds ($7.8 billion).
+ 
+ 
+ ![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLfu6qrsssQo/v2/-1x-1.png)
+ 
+ 
+ 
+ 
+ 
+ 
+- 
 
 
 
