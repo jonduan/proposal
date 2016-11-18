@@ -86,7 +86,7 @@ Identify the energy carriers in the following graph
 
 ## 1.4 Energy use in transportation
 
-Globally transportation is responsible for around 25% of our energy use.
+**Globally transportation is responsible for around 25% of our energy use.**
 
 Transportation mode
 Energy use per passenger-km [ kWh/p-km]
@@ -114,6 +114,14 @@ A cargo ship can carry 1500 containers, each with 17 000 kgs of kiwi. One kilogr
 
 
 ## 1.5 Energy use in buildings
+
+
+**Residential and commercial buildings together account for 20 percent of the global energy demand.**
+
+
+ - space heating/cooling: conduction  Q-c  / convection/  C-p  Q-v  ventilation  
+ - cooking
+ - 
 
 
 
