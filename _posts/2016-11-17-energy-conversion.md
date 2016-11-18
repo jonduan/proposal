@@ -123,6 +123,36 @@ A cargo ship can carry 1500 containers, each with 17 000 kgs of kiwi. One kilogr
  - cooking
  - 
 
+## 1.6 Energy use in industry
+
+**54% of the total energy used in the world today is associated to industry.**
+
+
+<script src="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.min.js"></script>
+<link rel="stylesheet" href="//cdn.rawgit.com/knsv/mermaid/master/dist/mermaid.css">
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+
+<div class="mermaid">
+ graph LR
+     Energy-->tr(transportation: 25%)
+     Energy-->bu(building: 25%)
+     Energy-->in[industry:　５４％]
+</div>
+
+
+Steel production is an energy intensive industry. Shandong Iron and Steel Group, from China, is the 12th producer of steel in the world.
+
+In 2014 they produced 23.3 million tonnes of steel. Most of the energy required for the production of steel is used in the blast furnace. 
+
+
+
+！［］（https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/0e95519558c5e1aece5870215f30a9ff/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/blast_furnace.jpg）
+
+In the blast furnace, steel has to heat up to 1000∘C. If the initial temperature is 25∘C, and the heating capacity of steel is approximately 0.49 kJkg∘C.　　$\frac{kJ}{kg^\circ C}$
+
+
+
 
 
 
