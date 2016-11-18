@@ -99,4 +99,16 @@ Aircraft    0.55
 
 
 
+**The transportation of goods** requires a lot of energy. 
+
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/a96c933a28076cee43203b0636b9b7a0/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/kiwi.jpg)
+
+To transport kiwis from Chile to the port of Rotterdam in the Netherlands, 50 tons (1 ton = 1000 kg) of fuel per day is used. The sea freight time from Chile to the Netherlands is approximately 24 days. Bunker fuel used has an energy content of 40 MJ/kg. 
+
+A cargo ship can carry 1500 containers, each with 17 000 kgs of kiwi. One kilogram of kiwis is approximately 12 kiwis. 
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/6087897f66fe438b1d9e6a6e9e4889e3/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/cargo_ship.jpg)
 
