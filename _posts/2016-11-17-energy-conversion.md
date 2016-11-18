@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: energy use
+title: Energy use
 categories: Background
 tags:
   - Background
@@ -85,3 +85,18 @@ Identify the energy carriers in the following graph
   - Gasoline  #3
 
 ## 1.4 Energy use in transportation
+
+Globally transportation is responsible for around 25% of our energy use.
+
+Transportation mode
+Energy use per passenger-km [ kWh/p-km]
+Passenger car     0.44
+City bus    0.27
+Local train/tram  0.23
+Intercity train   0.14
+High-speed train   0.3
+Aircraft    0.55
+
+
+
+
