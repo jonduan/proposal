@@ -112,3 +112,12 @@ A cargo ship can carry 1500 containers, each with 17 000 kgs of kiwi. One kilogr
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/6087897f66fe438b1d9e6a6e9e4889e3/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/cargo_ship.jpg)
 
+
+## 1.5 Energy use in buildings
+
+
+
+
+
+
+
