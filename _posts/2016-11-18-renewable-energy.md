@@ -126,4 +126,17 @@ Wind Energy is one of the biggest contributors of renewable energy and can be us
 
 How much energy can a wind turbine produce? What is the power density of wind energy? 
 
+Global  installed capacity:283GW
+
+
+Global producAon: 521 TWh
+
+0.19 kWh/person/day 0.07 Units
+
+2.3% of total electricity demand
+
+
+10% renewable energy producAon
+
+
 
