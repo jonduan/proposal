@@ -30,3 +30,5 @@ Renewable energy is energy that is collected from resources which are naturally 
 cf : 80%   coal 100%
 
 wind: 20%
+
+catchment
