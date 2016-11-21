@@ -32,3 +32,10 @@ cf : 80%   coal 100%
 wind: 20%
 
 catchment
+
+
+3975 twh
+
+16.6%  demand
+
+70% renewable 
