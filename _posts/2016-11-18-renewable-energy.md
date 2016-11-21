@@ -26,3 +26,7 @@ Renewable energy is energy that is collected from resources which are naturally 
 
 ### How to calculate the physical potential for Hydroelectricity
 
+
+cf : 80%   coal 100%
+
+wind: 20%
