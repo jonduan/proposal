@@ -167,3 +167,31 @@ Length of suitable coast-line: 5700 (km) * 0.3 = 1710 km,
 width of zone to put shallow offshore wind farms is 2 km,
 
 Total area for wind farm is: 1710 (km) × 2 (km) = 3420 km²
+
+
+The wind power per land area (m²) generated P is expressed by the following equation:
+
+windpower per area
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/6fd0a7b8349cfa6fb2674fe8c65f9ee0/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/windpower_per_area.png)
+
+where ρ is the mass density of the air (=1.3 kg/m3), C is the conversion efficiency of the windturbine, and v is the averaged wind speed. 
+
+
+Using the windmap, we estimate that the average windspeed is v = 6 m/s.
+
+How much windpower can be collected per m² of shallow water in Japan?
+
+Explanation
+conversion factor C = 0.5
+
+density = 1.3 kgm-3
+
+From the map we estimate that v= 6 m/s.
+
+filling in formula gives 2.205 W/m²
+
+other answers use v= 4.5 , 5 or 7 m/s
+
+
+
