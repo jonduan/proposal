@@ -139,4 +139,28 @@ Global producAon: 521 TWh
 10% renewable energy producAon
 
 
+### Wind energy potential in Japan
 
+In this exercise only shallow offshore wind will be considered (due to the high Japanese population density). The coast-line in Japan is rather steep. For distances larger than 2 km out of the coastline, the depth of the Pacific and Japanese Sea, is on average deeper than 25 meters. This we will consider unsuitable for affordable construction of wind turbines. 
+
+The figure below shows a map with the averaged wind speeds around Japan.
+
+The Japanese coast-line as depicted in the figure has a total length of 5700 km. 
+Consider that 30% of the Japanese coast-line would be covered with shallow offshore wind farms. 
+The wind turbines have a conversion efficiency of C=50%. 
+Inhabitants of Japan: 127 million
+In this exercise we do not take the indeterminacy of wind energy into account. So this means that we assume that all energy that is produced can be consumed immediately and there is no mismatch in demand and supply of electricity so storage will not be needed. 
+
+windspeeds in japan
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4fe82f1475eb5bf175d1b582590a1234/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/wind_japan.png)
+
+#### 
+
+What is the total land area for installation of wind farms expressed in km², considering that only 30% of the Japanese coast-line suitable for shallow offshore wind farms.
+
+Explanation
+Length of suitable coast-line: 5700 (km) * 0.3 = 1710 km,
+width of zone to put shallow offshore wind farms is 2 km,
+Total area for wind farm is: 1710 (km) × 2 (km) = 3420 km²
