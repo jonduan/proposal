@@ -161,6 +161,9 @@ windspeeds in japan
 What is the total land area for installation of wind farms expressed in km², considering that only 30% of the Japanese coast-line suitable for shallow offshore wind farms.
 
 Explanation
+
 Length of suitable coast-line: 5700 (km) * 0.3 = 1710 km,
+
 width of zone to put shallow offshore wind farms is 2 km,
+
 Total area for wind farm is: 1710 (km) × 2 (km) = 3420 km²
