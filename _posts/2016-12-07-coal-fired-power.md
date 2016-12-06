@@ -67,9 +67,23 @@ France is already a world leader in low-carbon energy. The country has invested 
 ## Finland plans to completely phase out coal by 2030
 Renewable sources accounted for 40 per cent of all energy consumption in [Finland](http://www.independent.co.uk/news/world/europe/finland-plans-completely-phase-out-coal-2030-a7438731.html) last year
 
+Finland has announced plans to phase out coal by 2030 in a bid to drastically cut greenhouse gas emissions. 
 
+The government announced the goal on Thursday in its "Energy and Climate Strategy for 2030 and Beyond", which details plans to stop producing energy from coal within 14 years, make energy production carbon-neutral by 2050 and replace traditional power sources with bio-fuels and renewable energy. 
 
+The Nordic country has been steadily reducing its coal use since 2011, with coal-fired power generation accounted for seven per cent of all electricity production last year, according to Reuters.  
 
+Last year, renewable sources accounted for 40 per cent of all energy consumption in Finland and is estimated to reach 47 per cent by 2030 under the proposed measures - just shy of the government target of 50 per cent. 
+
+"Utilising the potential of Finnish renewable energy to produce electricity at an industrial level is one of the central questions in achieving long-term energy and climate goals," Finland's Economic Affairs Minister Oli Rehn said on Thursday.
+
+"The national climate and energy strategy decided today in the Cabinet meets the tough targets from a Finnish standpoint."
+
+The Nordic country currently uses a quarter of its electricity on heating homes, and is required by the European Union to cut emissions from housing, transport and agriculture by 39 percent by 2030. This means increasing biofuels and renewable sources, such as leftover products from the forest industry and wind power. 
+
+The targets will be partly met by increasing the number of electric cars on Finnish roads from 1,000 to 250,000 by 2030 and the number biogas-driven cars from a current negligible number to 50,000, goals Transport and Communications Minister Anne Berner has described as "demanding". 
+
+Although the government wants to phase out coal, it will continue to in the near-term to burn peat, largely due to the fact it is produced domestically. 
 
 
 ## 2,500 new coal plants will thwart any Paris pledges
