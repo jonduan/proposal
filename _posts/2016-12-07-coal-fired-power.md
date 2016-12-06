@@ -26,6 +26,8 @@ Two years before the UK has pledged to stop burning the fossil fuel
 
 Canada will close its coal-fired power plants by 2030 as part of its strategy to cut greenhouse gas emission under the Paris climate accord, Environment Minister Catherine McKenna announced on Monday.
 
+The plants, located in four provinces, produce about 10 per cent of Canada's total CO2 emissions, and closing them will remove the equivalent in emissions of 1.3 million cars from roads, or five megatons of greenhouse gas emissions, she told a press conference.
+
 ![Coal is now a 'relatively small' provider of power in Canada as renewable energy sources replace ageing power stations Getty](https://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/11/21/17/canada-power-station.jpg)
 
 
