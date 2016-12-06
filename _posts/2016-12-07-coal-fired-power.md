@@ -78,7 +78,27 @@ Rich countries are also planning new coal plants. The nuclear disaster at Fukush
 
 ![](https://i0.wp.com/www.thetimes.co.uk/tto/multimedia/archive/01021/inline_e358737c-98_1021170a.jpg?zoom=2)
 
+
+
+Britain pledged before the Paris summit to close its 12 coal plants by 2025 and restrict their use from 2023. Some are being converted to burn American wood pellets.
+
+
 ## cut  greenhouse gas emissions
+
+Nearly 50 countries vow to use 100% renewable energy by 2050
+The signatories are countries who are disproportionately affected by global warming such as Ethiopia and the Maldives
+
+
+![Greenpeace stage a protest outside the UN Climate Change Conference 2016 (COP22) in Marrakech, Morocco Reuters](https://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/11/18/16/reuters-marrakech-greenpeace-stage.jpg)
+
+Nearly 50 countries vulnerable to climate change have agreed to use only renewable energy by 2050.
+
+The 48 members of the Climate Vulnerable Forum made the decision while attending the United Nations Climate Change Conference in Marrakech, Morocco.
+
+The Climate Vulnerable Forum was set up in 2009 and is made up of countries that are disproportionately affected by climate change.
+
+Members, including the likes of Ethiopia, Marshall Islands and Bangladesh, agreed to make their energy production 100 per cent renewable "as rapidly as possible" and by between 2030 and 2050 at the latest.
+
 
 Germany has said it is to cut its greenhouse gas emissions by up to 95 percent by 2050, the UK has pledged to wipe out coal power by 2025, and Chinese president Xi Jinping said China would continue its fight against global warming “whatever the circumstances", although it stressed the importance of cooperation with the US.
 
