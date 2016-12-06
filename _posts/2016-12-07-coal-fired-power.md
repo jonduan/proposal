@@ -64,6 +64,14 @@ France is already a world leader in low-carbon energy. The country has invested 
 
 
 
+## Finland plans to completely phase out coal by 2030
+Renewable sources accounted for 40 per cent of all energy consumption in [Finland](http://www.independent.co.uk/news/world/europe/finland-plans-completely-phase-out-coal-2030-a7438731.html) last year
+
+
+
+
+
+
 ## 2,500 new coal plants will thwart any Paris pledges
 
 
