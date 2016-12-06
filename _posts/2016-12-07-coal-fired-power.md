@@ -69,7 +69,12 @@ France is already a world leader in low-carbon energy. The country has invested 
 
 ![The new plants will emit 6.5 billion tonnes of carbon dioxide a year](http://www.thetimes.co.uk/tto/multimedia/archive/01021/c7870954-9865-11e5_1021154c.jpg)
 
-More than 2,400 coal-fired power stations are under construction or being planned around the world, a study has revealed two weeks after Britain pledged to stop burning coal. The new plants will emit 6.5 billion tonnes of carbon dioxide a year and undermine the efforts at the Paris climate conference to limit global warming to 2C. China is building 368 plants and planning a further 803, according to the study by four climate change research bodies, including Ecofys and the Potsdam Institute for Climate Impact Research. India is building 297 and planning 149. Rich countries are also planning new coal plants. The nuclear disaster at Fukushima has prompted Japan to turn back to coal, with 40 plants in the pipeline and five under construction. –Ben Webster, [The Times, 2 December 2015](http://www.thetimes.co.uk/tto/environment/article4629455.ece)
+**More than 2,400 coal-fired power stations are under construction or being planned around the world, a study has revealed two weeks after Britain pledged to stop burning coal.**
+
+The new plants will emit 6.5 billion tonnes of carbon dioxide a year and undermine the efforts at the Paris climate conference to limit global warming to 2C. China is building 368 plants and planning a further 803, according to the study by [four climate change research bodies](http://climateactiontracker.org/assets/publications/briefing_papers/CAT_Coal_Gap_Briefing_COP21.pdf), including Ecofys and the Potsdam Institute for Climate Impact Research. India is building 297 and planning 149. 
+
+
+Rich countries are also planning new coal plants. The nuclear disaster at Fukushima has prompted Japan to turn back to coal, with 40 plants in the pipeline and five under construction. –Ben Webster, [The Times, 2 December 2015](http://www.thetimes.co.uk/tto/environment/article4629455.ece)
 
 ![](https://i0.wp.com/www.thetimes.co.uk/tto/multimedia/archive/01021/inline_e358737c-98_1021170a.jpg?zoom=2)
 
