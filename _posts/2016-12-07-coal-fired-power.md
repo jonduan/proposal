@@ -19,6 +19,7 @@ Two years before the UK has pledged to stop burning the fossil fuel
 “We need carbon neutrality by 2050,” the French President continued, promising that coal will no longer form part of France's energy mix in six to seven years’ time.
 
 
+France is already a world leader in low-carbon energy. The country has invested heavily in nuclear power over the past few decades and now derives more than 75 per cent of its electricity from nuclear fission. It produces so much nuclear energy, in fact, that it exports much of it to nearby nations, making around £2.5 billion each year.
 
 
 ## Canada set to phase out coal-fired power by 2030
@@ -28,14 +29,15 @@ Canada will close its coal-fired power plants by 2030 as part of its strategy to
 
 The plants, located in four provinces, produce about 10 per cent of Canada's total CO2 emissions, and closing them will remove the equivalent in emissions of 1.3 million cars from roads, or five megatons of greenhouse gas emissions, she told a press conference.
 
+“As part of our government's vision for a clean growth economy, we will be accelerating the transition from traditional coal power to clean energy by 2030,” she said
+
 ![Coal is now a 'relatively small' provider of power in Canada as renewable energy sources replace ageing power stations Getty](https://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/11/21/17/canada-power-station.jpg)
 
+With an abundance of hydroelectric power, as well as nuclear, solar and wind power, 80 per cent of Canada's electricity production emits no air pollution.
 
 
 
 
-
-France is already a world leader in low-carbon energy. The country has invested heavily in nuclear power over the past few decades and now derives more than 75 per cent of its electricity from nuclear fission. It produces so much nuclear energy, in fact, that it exports much of it to nearby nations, making around £2.5 billion each year.
 
 
 Germany has said it is to cut its greenhouse gas emissions by up to 95 percent by 2050, the UK has pledged to wipe out coal power by 2025, and Chinese president Xi Jinping said China would continue its fight against global warming “whatever the circumstances", although it stressed the importance of cooperation with the US.
