@@ -35,10 +35,10 @@ The plants, located in four provinces, produce about 10 per cent of Canada's tot
 
 With an abundance of hydroelectric power, as well as nuclear, solar and wind power, 80 per cent of Canada's electricity production emits no air pollution.
 
+McKenna said she aims to ramp that up to 90 per cent by 2030. Citing National Energy Board figures, she noted that wind power-generating capacity increased twenty-fold in the past decade while solar capacity rose 125 per cent.
 
 
-
-
+## cut  greenhouse gas emissions
 
 Germany has said it is to cut its greenhouse gas emissions by up to 95 percent by 2050, the UK has pledged to wipe out coal power by 2025, and Chinese president Xi Jinping said China would continue its fight against global warming “whatever the circumstances", although it stressed the importance of cooperation with the US.
 
