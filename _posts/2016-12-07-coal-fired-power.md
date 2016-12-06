@@ -23,6 +23,25 @@ With an abundance of hydroelectric power, as well as nuclear, solar and wind pow
 
 McKenna said she aims to ramp that up to 90 per cent by 2030. Citing National Energy Board figures, she noted that wind power-generating capacity increased twenty-fold in the past decade while solar capacity rose 125 per cent.
 
+The minister, however, added that carbon capture would be an acceptable substitute to closing a plant if Alberta, New Brunswick, Nova Scotia or Saskatchewan province wished to continue burning coal.
+
+Saskatchewan has resisted strong climate action, which it says would harm its vast agricultural and burgeoning oil sectors.
+
+It is testing the world's first large-scale carbon capture and storage, built into a SaskPower coal-fired plant in the Canadian prairies.
+
+Ottawa economics professor and energy policy expert Jean-Thomas Bernard, however, said efforts to capture and store coal have proven to be costly - Can$1.4 billion for the SaskPower Boundary Dam pilot project to produce 115 megawatts of electricity.
+
+“We've been talking about clean coal for 20 years and it's not yet realized commercially so there must be major difficulties with the technology,” he said.
+
+“Coal is a relatively small part” of Canada's energy mix, he added.
+
+Most of the coal plants in Canada are “quite old” and could be replaced with clean alternatives at “very reasonable costs,” he told AFP.
+
+Ms McKenna also set a new more ambitious goal of reducing total greenhouse gas (GHG) emissions by 80 per cent by 2050, from 2005 levels.
+
+
+
+
 
 
 ## France to shut down all coal-fired power plants by 2023
