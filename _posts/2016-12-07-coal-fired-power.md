@@ -67,8 +67,9 @@ France is already a world leader in low-carbon energy. The country has invested 
 ## 2,500 new coal plants will thwart any Paris pledges
 
 
-![](http://www.thetimes.co.uk/tto/multimedia/archive/01021/c7870954-9865-11e5_1021154c.jpg)
+![The new plants will emit 6.5 billion tonnes of carbon dioxide a year](http://www.thetimes.co.uk/tto/multimedia/archive/01021/c7870954-9865-11e5_1021154c.jpg)
 
+More than 2,400 coal-fired power stations are under construction or being planned around the world, a study has revealed two weeks after Britain pledged to stop burning coal.
 
 
 
