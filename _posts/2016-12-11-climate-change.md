@@ -24,12 +24,18 @@ About Climate Change: The Science: Course Information
 
 #### Module 1: Course Introduction and State of the ScienceClick ↓
 
-      1.1 Course Introductions - introduce yourself on the map. Meet other participants.
-      1.2 State of the science. By the end of this section, you will be able to:
 
-            Describe sources of information about climate science, including both observations and modeling.
-            List aspects of Earth's climate that scientists understand very well, and others that are less well-understood.
-            Express an opinion about how future work in climate science can best inform decision-making.
+1.2 State of the science. By the end of this section, you will be able to:
+
+Describe sources of information about climate science, including both observations and modeling.
+List aspects of Earth's climate that scientists understand very well, and others that are less well-understood.
+Express an opinion about how future work in climate science can best inform decision-making.
+            
+            
+            
+            
+            
+            
 
 #### Module 2: Introduction to the Climate SystemClick ↓
 
