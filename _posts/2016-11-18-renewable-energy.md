@@ -19,6 +19,15 @@ His proposed hydraulic hydro storage system gives us a chance to store thousands
 Please find the slides at http://de.slideshare.net/EduardHeindl... and an alternative version of the video (slides + audio only) at http://youtu.be/m3p_daUDvI8
 
 
+Most energy storage methods, including batteries, are expensive and difficult to scale. Danielle Fong saw the opportunity to reinvent a classic technology - compressed air - to solve hi-tech energy problems. She developed a method to improve the efficiency of compressed air as an energy storage medium that could radically reduce cost and complexity.
+
+BLOG: http://daniellefong.com/
+
+
+Cofounder and chief scientist of LightSail Energy, Danielle Fong was featured in Forbes’ 30 under 30 list of people who aren’t waiting to reinvent the world in 2012. Fong dropped out of junior high school at age 12 to attend Dalhousie University, then dropped out of Princeton University’s Plasma Physics Department to start LightSail Energy. The company develops a form of compressed air energy storage, called ‘regenerative air energy storage’, which may be the missing link in the plan to make the world’s electrical grid green.
+
+
+
 
 # Renewable Energy Generation
 
