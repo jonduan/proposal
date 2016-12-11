@@ -22,7 +22,22 @@ tags:
 About Climate Change: The Science: Course Information
 
 
+THE PARIs agreement, December 2015 (Optional reading)*
+
+In December 2015, representatives from across the world met in Paris for "COP21", the 21st Conference of the Parties, which is an annual meeting about climate change under the United Nations Framework Convention on Climate Change.  The "Paris Agreement" (links to English version) emerged from these talks.  Contained within this document is an agreement, in principle, to
+
+"...[hold] the increase in the global average temperature to well below 2 °C above pre-industrial levels and [pursue] efforts to limit the temperature increase to 1.5 °C above pre-industrial levels..."
+
+The document acknowledges, however, that there is a significant gap between the sum of all commitments made to reduce carbon emissions, and the reductions in carbon emissions necessary to reach the goal quoted above.  In this course, you will have a chance to investigate what it will take for us to collectively reach that goal, in terms of physical processes in the climate system.  The decisions it will take to get there involve much more than the science. 
+
+On 22 April 2016, more than 170 countries signed the Paris Agreement.  On 5 October 2016, the threshold for the agreement to come into force was reached.  That threshold was that at least 55 parties representing at least 55% of global emissions ratify it.  The agreement came into force on 4 November 2016, 30 days after enough countries had ratified it to meet the threshold.  
+
+You can read more about the talks here and about the status of ratification here.  And the agreement itself is available in languages other than English here. 
+
+
 #### Module 1: Course Introduction and State of the ScienceClick ↓
+
+
 
 
 1.2 State of the science. By the end of this section, you will be able to:
