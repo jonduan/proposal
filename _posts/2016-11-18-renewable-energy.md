@@ -10,6 +10,16 @@ tags:
 ---
 
 
+
+
+The next few decades will herald a global change in energy production. The age of renewables requires more than just photovoltaics and windmills: it needs storage systems in an unprecedented volume. However, conventional techniques of storage fail due to the high investments or the low efficiency. This appears to be a stumbling block for the desired change to renewable energy.
+
+His proposed hydraulic hydro storage system gives us a chance to store thousands of GWh at low cost and low environmental impact. The simple yet riveting idea is to lift a rock the size of a soccer stadium using established technologies thereby storing energy. Due to the fact that underground rocks are practically unlimited, the global change to solar power can continue.
+
+Please find the slides at http://de.slideshare.net/EduardHeindl... and an alternative version of the video (slides + audio only) at http://youtu.be/m3p_daUDvI8
+
+
+
 # Renewable Energy Generation
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/35ed0d3e3da1311b8be9eb221a250c72/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/generation_renewable_energy.png)
@@ -192,6 +202,3 @@ From the map we estimate that v= 6 m/s.
 filling in formula gives 2.205 W/m²
 
 other answers use v= 4.5 , 5 or 7 m/s
-
-
-
