@@ -26,6 +26,9 @@ BLOG: http://daniellefong.com/
 
 Cofounder and chief scientist of LightSail Energy, Danielle Fong was featured in Forbes’ 30 under 30 list of people who aren’t waiting to reinvent the world in 2012. Fong dropped out of junior high school at age 12 to attend Dalhousie University, then dropped out of Princeton University’s Plasma Physics Department to start LightSail Energy. The company develops a form of compressed air energy storage, called ‘regenerative air energy storage’, which may be the missing link in the plan to make the world’s electrical grid green.
 
+Danielle Fong is passionate about finding a solution to energy sustainability. "I have patience with people but not with systems" and her life choices proves this. With guidance and advice from fellow contemporary innovators like Steve Jobs she continued to follow her vision of finding the missing technology -something she instinctively felt- to conserve energy.
+
+Self-described as ‘a girl from the future’, the 27-year-old Canadian innovator, entrepreneur and eco-pragmatist has been featured in Forbes' 30 under 30 in the category of Energy & Industry, as well as interviewed by Forbes.com in a video entitled "Danielle Fong May Save the World". She has also been named as one of the “Top 35 Innovators under 35” by the MIT Technology Review. Left junior high school at the age of 12 to attend Dalhousie University, graduated with first class honors in computer science and physics, then entered the Plasma Physics Department at Princeton University as a PhD student. She went on to co-found LightSail Energy, where she currently works as “Chief Science Officer” developing a form of compressed air energy storage. Danielle works actively to mentor and inspire entrepreneurship and invention in hard technology, working as a mentor. She tours extensively, speaking on behalf of invention and the environment, and publishes essays at www.daniellefong.com.
 
 
 
