@@ -19,10 +19,10 @@ tags:
 -         Express an informed opinion on the scope and urgency of the efforts needed to both mitigate and adapt to climate change.
 
 ### Course Outline
-About Climate Change: The Science: Course Information and Start of Term SurveysClick ↓
+About Climate Change: The Science: Course Information
 
-In this section, you can learn about the course structure, the people involved, how to do well, and learn other information about the course. There are two Start-of-Term Surveys. Survey participation goes toward your marks in the course. Thank you for completing these - you are helping us improve the course for the future.
-Module 1: Course Introduction and State of the ScienceClick ↓
+
+#### Module 1: Course Introduction and State of the ScienceClick ↓
 
       1.1 Course Introductions - introduce yourself on the map. Meet other participants.
       1.2 State of the science. By the end of this section, you will be able to:
@@ -31,7 +31,7 @@ Module 1: Course Introduction and State of the ScienceClick ↓
             List aspects of Earth's climate that scientists understand very well, and others that are less well-understood.
             Express an opinion about how future work in climate science can best inform decision-making.
 
-Module 2: Introduction to the Climate SystemClick ↓
+#### Module 2: Introduction to the Climate SystemClick ↓
 
       2.1 Earth's Climate System. By the end of this section, you will be able to:
 
