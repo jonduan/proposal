@@ -8,9 +8,7 @@ tags:
   - climate change
   - global warming
 ---
-## A New Post
-
-Enter text in [Markdown](https://courses.edx.org/courses/course-v1:UBCx+Climate1x+3T2016/courseware/6525a2d9e64b46f5ac383337c47fa49e/b5c6d3be51ec4cdaa858c1753dc9690f/?child=first). 
+## [ UBCx: Climate1x Climate Change: The Science ](https://courses.edx.org/courses/course-v1:UBCx+Climate1x+3T2016/courseware/6525a2d9e64b46f5ac383337c47fa49e/b5c6d3be51ec4cdaa858c1753dc9690f/?child=first). 
 
 
 - Tell the story of our climate, describing how interactions among atmosphere, ocean, land, and life lead to climatic changes at all timescales.
