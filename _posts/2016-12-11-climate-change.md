@@ -184,7 +184,50 @@ Module 6: Future ClimateClick ↓
 
             Compare your own mental model of the climate system today to your mental model of the climate system a few weeks ago (no, there won’t be a quiz question on this one).
             Describe possible future climate changes, involving some particular aspect of the climate system, of interest to you.
+            
+            
+#### State of the Science > 1.2. State of the Science
 
 
 
 
+What is the general relationship between temperature (blue line) and carbon dioxide (red line) over time, according to these data?
+
+
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/76dc5d89b49b103d5ed3dbb99c7cb206/asset-v1:UBCx+Climate1x+3T2016+type@asset+block/time_vs_co2_temp.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
