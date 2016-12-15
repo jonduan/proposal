@@ -19,3 +19,7 @@ tags:
 ## Total investment
 
 First of all, global energy investment declined last year by 8% (in real terms) to $1.8 trillion, mainly due to “a sharp fall in upstream oil and gas investment”. China “retook” the number one position from the US as top investor: whereas US investment in oil and gas production fell sharply, Chinese investment in the electricity sector rose to a “record level”.  China increased its investment both in renewable energy and in nuclear power.
+
+
+
+![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-1.png)
