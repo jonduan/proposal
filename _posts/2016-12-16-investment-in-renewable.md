@@ -56,7 +56,7 @@ Renewable energy investments of $313 billion “accounted for nearly a fifth of 
 
 ![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-3.png)
 
-
+So while the money spent on renewables is not going up (or down), the amount of electricity produced by renewables is rising substantially, thanks to lower cost. Notably solar PV and electricity storage saw much lower cost, as a result of technology improvements and “learning by doing effects”. The cost of onshore wind fell 3%.
 
 
 
