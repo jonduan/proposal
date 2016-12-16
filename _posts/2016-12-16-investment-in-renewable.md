@@ -35,3 +35,16 @@ It will come as no surprise, then, that “fossil fuels continue to dominate ene
 
 Oil, “the largest primary energy source, slightly increased its share of the global energy mix”. Gas demand growth on the other hand remained “subdued”, as a result of a slowdown of electricity demand and the expansion of renewables.
 
+#### Looming collapse in LNG
+
+Gas-fired power generation has a problem competing with coal, particularly in Asia, as a result of “higher fuel transportation costs and infrastructure bottlenecks”. This is not a new point either (the Golden Age of Gas is currently nowhere in sight), but it is brough home once again by the IEA: “Global gas-fired power generation investment declined by nearly 40% [in 2015 compared to 2014]. Asian markets continued to favour investment in coal power. Investment activity in European gas power remained muted despite large retirements anticipated in the next decade.”
+
+A big bottleneck for gas are the high costs of LNG: “In most importing countries, LNG infrastructure to a gas-fired power plant requires twice as much investment as the plant itself”, notes the report. “Coal-to-power supply chains are considerably less capital-intensive. Coal mining and transportation infrastructure absorbs only 4% of global energy investment, yet coal meets 28% of global primary energy demand.”
+
+Elsewhere the report speaks of “the looming collapse in investment in LNG from 2017 on”.
+
+Interestingly, “upstream oil investment remained robust in Russia and the Middle East, helping to push up the share of national oil companies (which dominate production in those regions) in oil and gas upstream investment to an all-time high of 44%.” In Russia, capital spending even increased in ruble terms, helping to stabilise Russian production at a post-Soviet high.
+
+
+
+
