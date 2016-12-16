@@ -23,3 +23,10 @@ First of all, global energy investment declined last year by 8% (in real terms) 
 
 
 ![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-1.png)
+
+
+
+Oil and gas still represent the largest single category of global energy investment, reports the IEA, accounting for over 45% of the total. Investment in the electricity sector rose to a record $690 billion, or over 37% of the total, “despite a marked slowdown in demand growth, driven primarily by the expansion of renewables and networks”.
+
+
+![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-2.png)
