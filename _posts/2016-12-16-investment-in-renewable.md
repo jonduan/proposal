@@ -67,7 +67,9 @@ The World Energy Investment Report notes that the nature of investment in power 
 
 With regard to electricity storage, investment is growing, but at $10 billion in 2015, “remains nowhere near big enough to allay fears of a shortfall in dispatchable capacity.”
 
+#### Investment in conventional 
 
+In non-OECD countries, “investment in conventional generation generally remains strong, dominated by state-owned utilities and independent power producers contracting with them. The growth in coal-fired capacity remained strong in developing Asia, with over 75 GW starting operation in 2015 – as much as all renewable capacity additions in the region combined.”
 
 
 
