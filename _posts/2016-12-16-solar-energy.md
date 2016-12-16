@@ -24,6 +24,5 @@ Solar made up 6 per cent of the UK's electricity in May, while coal made up only
 
 ![](https://static.independent.co.uk/s3fs-public/styles/story_medium/public/thumbnails/image/2016/06/10/14/solar-coal.jpeg)
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+## More Solar Energy
+[Solar just made more power than coal in the UK for the first month ever](http://www.independent.co.uk/news/business/news/solar-just-made-more-power-than-coal-in-the-uk-for-the-first-month-ever-a7074621.html). 
