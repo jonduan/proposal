@@ -46,5 +46,17 @@ Elsewhere the report speaks of “the looming collapse in investment in LNG from
 Interestingly, “upstream oil investment remained robust in Russia and the Middle East, helping to push up the share of national oil companies (which dominate production in those regions) in oil and gas upstream investment to an all-time high of 44%.” In Russia, capital spending even increased in ruble terms, helping to stabilise Russian production at a post-Soviet high.
 
 
+#### Solar heat
+
+Investment in energy efficiency increased by 6% in 2015 despite falling energy prices. Nevertheless, the IEA warns that “low oil prices risk derailing fuel efficiency improvements in the transport sector, especially in countries with low taxes.” In the US the rate of fuel economy improvement slowed down by two-thirds last year. Despite lower oil prices, “sales of electric cars (and investment in recharging infrastructure) continue to increase rapidly, driven by government policies in a growing number of countries.”
+
+Renewables “are expanding rapidly”, notes the IEA, “but asymmetrically”. Whereas “wind, solar and hydropower are reshaping the electricity system”, with the exception of solar heat in China, “the investment in biofuels and renewable heat remains minor”.
+
+Renewable energy investments of $313 billion “accounted for nearly a fifth of total energy spending last year, establishing renewables as the largest source of power investment”. Nevertheless, in US dollar terms renewable investment has remained “relatively stable” since 2011. Spending on renewable power capacity “was flat between 2011 and 2015”. However, electricity generation from this new capacity rose by one third, reflecting “the steep cost declines in wind turbines and solar PV”. The investment in renewable power capacity in 2015 generated “more than enough to cover global electricity demand growth”.
+
+![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-3.png)
+
+
+
 
 
