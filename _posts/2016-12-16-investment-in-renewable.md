@@ -59,7 +59,9 @@ Renewable energy investments of $313 billion “accounted for nearly a fifth of 
 So while the money spent on renewables is not going up (or down), the amount of electricity produced by renewables is rising substantially, thanks to lower cost. Notably solar PV and electricity storage saw much lower cost, as a result of technology improvements and “learning by doing effects”. The cost of onshore wind fell 3%.
 
 
+How the power market is changing 
 
+The World Energy Investment Report notes that the nature of investment in power markets is changing. “Around 95% of power generation investments rely on vertical integration, long-term contracts or price regulation to manage risks”, says the IEA. “The role of wholesale price signals in driving investment in power generation is declining. Utility-scale renewables benefiting from long-term fixed-price contracts or regulated pricing is the largest and fastest-growing component of power generation investment worldwide, representing over half of the total.”
 
 
 
