@@ -71,6 +71,13 @@ With regard to electricity storage, investment is growing, but at $10 billion in
 
 In non-OECD countries, “investment in conventional generation generally remains strong, dominated by state-owned utilities and independent power producers contracting with them. The growth in coal-fired capacity remained strong in developing Asia, with over 75 GW starting operation in 2015 – as much as all renewable capacity additions in the region combined.”
 
+#### Investment in Network
+
+
+Given “the limited prospects for large-scale electricity storage in the medium term”, continued investment in the electricity networks will be needed. In fact, the growing role of renewables “often requires additional network investments in order for it to be integrated effectively into the system. The over $260 billion invested in electricity networks globally in 2015 is a crucial component of energy security. Almost all of this is subject to regulation, reinforcing the importance of a stable and transparent regulatory environment to maintain adequate investment.”
+
+
+
 
 
 
