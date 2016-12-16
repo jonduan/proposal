@@ -30,3 +30,8 @@ Oil and gas still represent the largest single category of global energy investm
 
 
 ![](http://www.energypost.eu/wp-content/uploads/2016/09/IEA-investment-2.png)
+
+It will come as no surprise, then, that “fossil fuels continue to dominate energy supply”, but “the composition of investment flows points towards a reorientation of the energy system”.
+
+Oil, “the largest primary energy source, slightly increased its share of the global energy mix”. Gas demand growth on the other hand remained “subdued”, as a result of a slowdown of electricity demand and the expansion of renewables.
+
