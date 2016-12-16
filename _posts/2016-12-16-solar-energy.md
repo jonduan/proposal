@@ -16,7 +16,7 @@ Solar generated around 1,336 gigawatt hours (GWh) of electricy in May, 50 per ce
 Carbon brief had previously said that solar power beat two "largely symbolic" milestones in May when it beat coal for the first full day on April 9 and for the first week on May 3.
 
 
-READ MORE
+
 The day coal power dropped out of the national grid
 The increase in solar-powered electricity comes as the amount of coal in the national grid fell to zero several times in May, thought to be the first time this had happened for more than 100 years.
 
@@ -27,3 +27,18 @@ Solar made up 6 per cent of the UK's electricity in May, while coal made up only
 ## More Solar Energy
 
 [Solar just made more power than coal in the UK for the first month ever](http://www.independent.co.uk/news/business/news/solar-just-made-more-power-than-coal-in-the-uk-for-the-first-month-ever-a7074621.html). 
+
+
+
+
+#### Cost
+1/26 Solar power becoming world's cheapest form of electricity production - Thursday December 15
+
+Solar power is becoming the cheapest way to generate electricity, according to leading analysts.
+ 
+ Data produced by Bloomberg New Energy Finance (BNEF) showed the cost of solar in 58 lower-income countries – including China, Brazil and India – had fallen to about a third of levels in 2010 and was now slightly cheaper than wind energy.
+
+![](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/05/31/19/solar-farm-china.jpg)
+
+
+Jungle Herbs & Spices/Facebook
