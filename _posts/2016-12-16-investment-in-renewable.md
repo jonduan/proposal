@@ -77,7 +77,14 @@ In non-OECD countries, “investment in conventional generation generally remain
 Given “the limited prospects for large-scale electricity storage in the medium term”, continued investment in the electricity networks will be needed. In fact, the growing role of renewables “often requires additional network investments in order for it to be integrated effectively into the system. The over $260 billion invested in electricity networks globally in 2015 is a crucial component of energy security. Almost all of this is subject to regulation, reinforcing the importance of a stable and transparent regulatory environment to maintain adequate investment.”
 
 
+#### Investment in Nuclear
 
+Nuclear power investment reached its highest level for two decades in 2015, largely due to  expansion in China, “where new nuclear capacity is reducing the need for coal-fired generation”. But in Europe and North America, “low wholesale prices, weak carbon price signals and project management problems continue to hinder nuclear investment”.
+
+
+#### Shift in investment
+
+For the electricity sector the IEA concludes that “a major shift in investment towards low-carbon sources of power generation is underway. New low-carbon generation – renewables and nuclear – from capacity coming online in 2015 exceeds the entire growth of global power demand in that year. Renewables investment, primarily in wind, solar PV and hydropower was almost USD $290 billion. Technological progress and economies of scale are driving down the cost of renewables.”
 
 
 
