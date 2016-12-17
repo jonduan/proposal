@@ -111,6 +111,19 @@ Total ~ 14561490/4087 TWh/year is 3562.9 times electricity consumption/year.
 
 
 
+Let's make an estimation on how much land is required to produce the electricity needs in the USA using Solar energy.
+
+
+    The solar farms are uniformly distributed over the country.
+    Assume PV modules with a conversion efficiency of 20%,
+    75% of the area of the solar farms is covered with PV modules.
+
+
+
+
+
+
+
 
 
 
