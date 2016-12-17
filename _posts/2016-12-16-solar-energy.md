@@ -80,6 +80,6 @@ Solar energy has by far the biggest energy potential and also is the fastest gro
 
 Solar Energy is one of the fastest growing industries in the USA. In some states it has become competitive with other energy sources. In this excercise we will find out what the  potential for solar power is. The image below illustrates the average annual irradiation in the USA. You can immediately see the advantage the USA has over Germany in terms of solar energy yield. 
 
-
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/db9e142bb87854b69005fddd3d4a40f6/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/US_Solar_Irradiation.png)
 
 
