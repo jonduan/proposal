@@ -83,3 +83,11 @@ Solar Energy is one of the fastest growing industries in the USA. In some states
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/db9e142bb87854b69005fddd3d4a40f6/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/US_Solar_Irradiation.png)
 
 
+
+
+
+
+
+
+
+
