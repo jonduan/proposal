@@ -71,8 +71,4 @@ Jungle Herbs & Spices/Facebook
 
 ![](https://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/11/28/11/tau-island.jpg)
 
-#### 
-
-
-
-
+####
