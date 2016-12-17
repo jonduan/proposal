@@ -92,7 +92,7 @@ Electricity consumption: 4087 TWh/year
 
 
 
-
+What is the average solar power per area in the mainland of the USA (excluding Alaska) expressed in W/m²
 
 
 
