@@ -94,7 +94,8 @@ Electricity consumption: 4087 TWh/year
 
 What is the average solar power per area in the mainland of the USA (excluding Alaska) expressed in W/m²
 
-
+1900 (kWh/m²/y) /365 (d) /24 (h) * 1000 = 217 W/m²;
+Other answers are of 1700, 2100 and 2200 kWh/m²/y
 
 
 
