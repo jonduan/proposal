@@ -72,3 +72,4 @@ Jungle Herbs & Spices/Facebook
 ![](https://static.independent.co.uk/s3fs-public/styles/story_large/public/thumbnails/image/2016/11/28/11/tau-island.jpg)
 
 ####
+Solar energy has by far the biggest energy potential and also is the fastest growing source of energy. Some of the questions we will answer with this video are: How much electricity can photovoltaic (PV) cells, solar thermal and Concentrated Solar Power (CSP) towers produce? What is the power density of solar energy and what are the pros and cons.
