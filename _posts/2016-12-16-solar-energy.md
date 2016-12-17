@@ -98,7 +98,7 @@ What is the average solar power per area in the mainland of the USA (excluding A
 Other answers are of 1700, 2100 and 2200 kWh/m²/y
 
 
-
+the total solar irradiation in mainland USA expressed in TWh/year
 
 
 
