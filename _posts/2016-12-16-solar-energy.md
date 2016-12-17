@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The solar energy
 category: solar
@@ -102,6 +102,11 @@ the total solar irradiation in mainland USA expressed in TWh/year
 
 
 How many times larger is the yearly solar irradiation in the mainland of the USA in reference to the total electricity consumption of the USA?
+
+
+main land USA take average: =1900 kWh/m2/year
+area times irradiation: 7,663,942 *10⁶ m² *1900 kWh/m2 = 14561490 TWh/year
+Total ~ 14561490/4087 TWh/year is 3562.9 times electricity consumption/year.
 
 
 
