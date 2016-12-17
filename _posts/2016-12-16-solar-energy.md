@@ -84,7 +84,11 @@ Solar Energy is one of the fastest growing industries in the USA. In some states
 
 
 
+Facts about the USA in 2016:
 
+Mainland land area: 7,663,942 km²
+Population: 319 million
+Electricity consumption: 4087 TWh/year
 
 
 
