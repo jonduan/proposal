@@ -113,3 +113,7 @@ What is the average solar power per area in the mainland of the USA (excluding A
 
 
 
+
+
+
+
