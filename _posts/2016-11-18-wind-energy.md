@@ -71,13 +71,17 @@ How much windpower can be collected per m² of shallow water in Japan?
 
 
 conversion factor C = 0.5
-density = 1.3 kgm-3
+density = 1.3 kg/m3
 From the map we estimate that v= 6 m/s.
 filling in formula gives 2.205 W/m²
 other answers use v= 4.5 , 5 or 7 m/s
 
 
+In this case, how much energy expressed in kWh/day per person could be produced using windpower in shallow water? Assume a 100% capacity factor.
 
+Total power: 3.42⋅10⁹ (m²) x 2.2 (Wm⁻²) =7.52⋅10⁹ (W) = 7.524⋅10⁶ kW.
+Energy per person per day:
+7.524⋅10⁶ (kW) × 24 (h) / 127⋅10⁶ (persons) = 1.42 kWh/p/d
 
 
 
