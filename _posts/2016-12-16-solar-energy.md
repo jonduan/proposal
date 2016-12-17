@@ -101,6 +101,9 @@ Other answers are of 1700, 2100 and 2200 kWh/m²/y
 the total solar irradiation in mainland USA expressed in TWh/year
 
 
+How many times larger is the yearly solar irradiation in the mainland of the USA in reference to the total electricity consumption of the USA?
+
+
 
 
 
