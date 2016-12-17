@@ -65,8 +65,16 @@ windpower per area
 where ρ is the mass density of the air (=1.3 kg/m3), C is the conversion efficiency of the windturbine, and v is the averaged wind speed. 
 
 
+Using the windmap, we estimate that the average windspeed is v = 6 m/s.
+
+How much windpower can be collected per m² of shallow water in Japan?
 
 
+conversion factor C = 0.5
+density = 1.3 kgm-3
+From the map we estimate that v= 6 m/s.
+filling in formula gives 2.205 W/m²
+other answers use v= 4.5 , 5 or 7 m/s
 
 
 
