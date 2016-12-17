@@ -44,7 +44,7 @@ In this exercise we do not take the indeterminacy of wind energy into account. S
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4fe82f1475eb5bf175d1b582590a1234/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/wind_japan.png)
 
 
-What is the total land area for installation of wind farms expressed in km², considering that only 30% of the Japanese coast-line suitable for shallow offshore wind farms.
+##### What is the total land area for installation of wind farms expressed in km², considering that only 30% of the Japanese coast-line suitable for shallow offshore wind farms.
 
 
 Length of suitable coast-line: 5700 (km) * 0.3 = 1710 km,
@@ -56,7 +56,13 @@ Total area for wind farm is: 1710 (km) × 2 (km) = 3420 km²
 
 
 
+The wind power per land area (m²) generated P is expressed by the following equation:
 
+windpower per area
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/6fd0a7b8349cfa6fb2674fe8c65f9ee0/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/windpower_per_area.png)
+
+where ρ is the mass density of the air (=1.3 kg/m3), C is the conversion efficiency of the windturbine, and v is the averaged wind speed. 
 
 
 
