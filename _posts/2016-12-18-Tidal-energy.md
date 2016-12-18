@@ -55,7 +55,12 @@ E = 13.88 *10^6 (kWh/day) *365 (days) = 5.0662 10^9 (kWh/year) = 5.0662 Twh/year
 % = 5.0662 (TWh) / 835 (TWh) * 100% = 0.607%
 
 
+## Renewable Energy Generation > 2.7 Ocean Current and Wave Energy 
 
+
+The ocean is a giant source of energy. Although it is mainly in the experimental phase wave and ocean current energy can contribute a substantial part of the sustainable energy mix.
+
+How much can an underwater turbine produce and what is the power potential?
 
 
 
