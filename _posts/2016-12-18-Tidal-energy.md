@@ -114,7 +114,14 @@ Epot= m * g * ĥ. where ĥ is the displacement of the center of mass of the elev
 
 Now first express the mass of the elevated part of the wave geometrically.
 
-(multiple answers are be correct)
+$$P_{tot}=\frac{\frac{1}{2} \cdot \rho \cdot h \cdot \frac{\lambda}{2} \cdot g \cdot h}{T}$$
+
+$$P_{tot}=\frac{\frac{1}{4} \cdot \rho \cdot \lambda \cdot g \cdot h^2}{T}$$
+
+
+
+
+
 
 What is the formula for potential Power per unit length in the wave expressed in ρ, λ, g and h?
 
