@@ -168,10 +168,12 @@ Indonesia is an island nation in the Oceania. Because it has a lot of shoreline 
 Let’s assume that Indonesia will convert the wave-energy in areas indicated by the red lines in the figure below. The numbers in the figure represent the averaged wave power in kW/m. 
 
 The red lines have a total length of 6000 km. 
+
 Assume that wave energy is converted in to electricity over 40% of this length 
+
 The losses from wave power to electricity are 35%. 
 
-
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/78583d4d12339406be3306e6100de51d/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/wavepowerCorrected.png)
 
 
 
