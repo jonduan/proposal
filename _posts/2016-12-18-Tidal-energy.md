@@ -27,7 +27,7 @@ Assume a water density of 1000 kg/m3
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/2c36dab9ddf336bb7f4e1fbd71ff1357/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/tidal_world.png)
 
 
-
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/7f8d67c1f1c6dd148c3cbe2532160486/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/india_tides.JPG)
 
 
 
