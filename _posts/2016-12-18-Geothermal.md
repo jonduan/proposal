@@ -1,6 +1,14 @@
 ---
-published: false
+published: true
+layout: Geothermal
+title: Geothermal energy
+category: Geothermal
+tags:
+  - Geothermal
 ---
-## A New Post
+## Geothermal
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+Geothermal is being used more and more as it can provide a baseload to the electricity grid.
+
+How much electricity can a geothermal power station provide? What is the power density of geothermal energy and what are the pros and cons?
