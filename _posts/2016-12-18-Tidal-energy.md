@@ -32,6 +32,16 @@ Assume a water density of 1000 kg/m3
 Excluding south tip of the country tidal heigh is between 30-70 cm average is 50 cm
 
 
+E=m*g*H = mass * 10 (m/s^2) * 0,5 (m)
+mass/m^2= rho*H =1000 (kg/m^3) * 0,5 (m)
+2 times per day
+E per day= 2* 1000 (kg/m^3)*10 (m/s^2) * 0.5^2 (m^2) =5000 J/m^2/day
+
+
+
+
+How much electricity expressed in KWh/person/day can be generated using pools with the above indicated area?
+
 
 
 
