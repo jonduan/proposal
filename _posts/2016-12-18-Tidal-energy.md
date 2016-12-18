@@ -104,10 +104,10 @@ The density of water is ρ ( =1000 kg/m3)
 
 The gravity constant is g (=10 m/s2). 
 
+What is the potential Power of the wave?,
 
 
-
-
+Epot= m * g * ĥ. where ĥ is the displacement of the center of mass of the elevated part of the wave. As stated ĥ can be assumed equal to h, the height of the wave. The displacement of h happens every period T so to get to Potential Power one divides the Potential Energy by the period T.
 
 
 
