@@ -51,3 +51,6 @@ Area of reservoir: 1450 (m) x 6000 (m) = 8.7 * 10^6 m^2
 
 Power density: 17.7 * 10^6 (W) / 8.7 * 10^6 (m^2) = 2.0345 W/m2
 
+
+
+
