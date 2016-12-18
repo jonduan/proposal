@@ -50,8 +50,12 @@ E per day = E/A * A = 0.001388 * 10,000*10^6 = 13.88 *10^6 kWh/day
 E per person per day = 13.88 *10^6 (kWh/day) / 1241*10^6 (persons) = 0.0112 kWh/person/day
 
 What is the the contribution expressed in percentage of tidal pools to the total electricity generation in India? 
+
 E = 13.88 *10^6 (kWh/day) *365 (days) = 5.0662 10^9 (kWh/year) = 5.0662 Twh/year
 % = 5.0662 (TWh) / 835 (TWh) * 100% = 0.607%
+
+
+
 
 
 
