@@ -195,6 +195,11 @@ Filling in Etot = 0.25 * ρ * λ * g *h² / T
 v = 4 m/s and h = 1 m
 
 
+How much electricity can be generated with wavepower in Indonesia expressed in kWh/person/day with two decimals
+
+Assume that the averaged wave power in the region is 10 kW/m
+
+
 
 
 
