@@ -175,7 +175,12 @@ The losses from wave power to electricity are 35%.
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/78583d4d12339406be3306e6100de51d/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/wavepowerCorrected.png)
 
+Facts about Indonesia:
 
+
+Population: 256 million
+Electricity generation: 198 TWh/year
+Coastline: 54716 km
 
 
 
