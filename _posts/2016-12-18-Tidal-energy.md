@@ -200,7 +200,8 @@ How much electricity can be generated with wavepower in Indonesia expressed in k
 Assume that the averaged wave power in the region is 10 kW/m
 
 
-
+Total power: 0.4 × 0.65 × 6000x10^3 (m) × 10 (kW/m) = 15.6×10^6 kW
+Energy/p/day: 15.6×10^6 (kW) × 24 (h)/ 256×10^6 (person) = 1.46 kWh/p/day
 
 
 
