@@ -185,6 +185,11 @@ Electricity generation: 198 TWh/year
 Coastline: 54716 km
 
 
+Using the formula we have just learned what would be the average wave height and speed in this region?
+
+Assume that the averaged wave power in the region is 10 kW/m
+
+
 
 
 
