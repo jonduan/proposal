@@ -44,6 +44,11 @@ How much electricity expressed in KWh/person/day can be generated using pools wi
 
 
 
+E per day per m2= 2*1000*10*0.5^2=5000 J/m^2/day
+E in kWh per area = 5000/3600/1000=0.001388 Kwh/m^2/day
+E per day = E/A * A = 0.001388 * 10,000*10^6 = 13.88 *10^6 kWh/day
+E per person per day = 13.88 *10^6 (kWh/day) / 1241*10^6 (persons) = 0.0112 kWh/person/day
+
 
 
 
