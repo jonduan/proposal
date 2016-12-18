@@ -44,6 +44,9 @@ What will be the thermal power of the installation if we do not take into accoun
 Energy per kilo of working fluid: 3.8 (KJ/Kg/K) x 55.2 (K) = 209.76 (KJ/kg) = 0.210 MJ/kg
 Power in working fluid: 0.210 (MJ/kg) x 84.4 (kg/s) = 17.724 (MJ/s) = 17.7 MW
 
+Assume the full width of the reservoir will be used. What will the power density of the heat reservoir then be?
+
+
 
 
 
