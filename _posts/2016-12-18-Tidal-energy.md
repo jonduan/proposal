@@ -179,3 +179,11 @@ The losses from wave power to electricity are 35%.
 
 
 
+
+
+
+
+
+
+
+
