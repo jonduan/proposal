@@ -20,6 +20,6 @@ In the lecture we showed you an average heat flux through the earth of 50 mW/m2.
 
 The Westland area in the Netherlands is known for its horticulture. One of the horticulture companies situated in The Westland has recently installed a geothermal system to provide heat for its 47 hectares of greenhouses. It is situated on top of sandstone which is very suitable for geothermal power generation because it is very permeable. The company uses heat that is stored in a heat reservoir in the sandstone 2500 meters under the ground.
 
-
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/664fb55b72471e67c427d0886040c452/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/greenhouses.jpg)
 
 
