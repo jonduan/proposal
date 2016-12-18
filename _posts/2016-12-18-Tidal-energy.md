@@ -83,3 +83,10 @@ The energy in a wave consists of Potential energy because the water moves up and
 
 
 
+
+
+
+
+
+
+
