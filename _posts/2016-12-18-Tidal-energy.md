@@ -161,6 +161,19 @@ If the wave has a speed v = 15 m/s and h = 1 m, what is the power in kW/m?
 
 37.5
 
+##### Wave power potential in Indonesia
+
+Indonesia is an island nation in the Oceania. Because it has a lot of shoreline it is interesting to estimate its wave power potential. To do so we will only consider the deep-water waves for which we just derived the formula last exercise.
+
+Let’s assume that Indonesia will convert the wave-energy in areas indicated by the red lines in the figure below. The numbers in the figure represent the averaged wave power in kW/m. 
+
+The red lines have a total length of 6000 km. 
+Assume that wave energy is converted in to electricity over 40% of this length 
+The losses from wave power to electricity are 35%. 
+
+
+
+
 
 
 
