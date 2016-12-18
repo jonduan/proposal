@@ -70,6 +70,8 @@ To calculate the power in waves we will only consider the deep-water waves. Thes
 The energy in a wave consists of Potential energy because the water moves up and down by the wave. It also contains a kinetic energy part because the water molecules move in a circular motion shown by the arrows in the figure.
 
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/1349472c61e9afe8af9b94eaab301ab8/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/wave.png)
+
 
 
 
