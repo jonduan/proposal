@@ -190,6 +190,13 @@ Using the formula we have just learned what would be the average wave height and
 Assume that the averaged wave power in the region is 10 kW/m
 
 
+Filling in Etot = 0.25 * ρ * λ * g *h² / T
+
+
+
+
+
+
 
 
 
