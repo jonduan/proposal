@@ -157,6 +157,9 @@ Ppot = 0.125*ρ*g*h²*v
 Adding these two gives: Ptotal = 0.25*ρ*g*h²*v
 
 
+If the wave has a speed v = 15 m/s and h = 1 m, what is the power in kW/m?
+
+37.5
 
 
 
