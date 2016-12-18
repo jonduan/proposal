@@ -22,4 +22,15 @@ The Westland area in the Netherlands is known for its horticulture. One of the h
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/664fb55b72471e67c427d0886040c452/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/greenhouses.jpg)
 
+Average operating values of the geothermal installation:
+
+Inflow temperature: 87.5 ∘C
+Outflow temperature: 32.3 ∘C
+Flow rate:  0.0814  m3/s
+Density of working fluid: 1037 kg/m3
+Heat capacity working fluid: 3.8 kJ/(kg⋅K)
+Distance between wells: 1450 m
+Width of the thermal reservoir: 6000 m 
+There is one inlet well and one outlet well. The area of the thermal reservoir is defined by the distance between the wells and the width of the thermal reservoir.
+
 
