@@ -47,7 +47,7 @@ Power in working fluid: 0.210 (MJ/kg) x 84.4 (kg/s) = 17.724 (MJ/s) = 17.7 MW
 Assume the full width of the reservoir will be used. What will the power density of the heat reservoir then be?
 
 
+Area of reservoir: 1450 (m) x 6000 (m) = 8.7 * 10^6 m^2
 
-
-
+Power density: 17.7 * 10^6 (W) / 8.7 * 10^6 (m^2) = 2.0345 W/m2
 
