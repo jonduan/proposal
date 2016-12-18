@@ -41,3 +41,10 @@ massflow: 1037 (kg/m3) * 0.0814 (m3/s) = 84.400 kg/s
 What will be the thermal power of the installation if we do not take into account losses of heat exchangers ?
 
 
+Energy per kilo of working fluid: 3.8 (KJ/Kg/K) x 55.2 (K) = 209.76 (KJ/kg) = 0.210 MJ/kg
+Power in working fluid: 0.210 (MJ/kg) x 84.4 (kg/s) = 17.724 (MJ/s) = 17.7 MW
+
+
+
+
+
