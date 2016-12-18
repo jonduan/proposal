@@ -63,6 +63,13 @@ The ocean is a giant source of energy. Although it is mainly in the experimental
 How much can an underwater turbine produce and what is the power potential?
 
 
+### The power in waves
+
+To calculate the power in waves we will only consider the deep-water waves. These waves can be modeled with a wavelength λ and amplitude of h as indicated in the figure below. Waves are caused mainly by wind. The wavelength λ and period T depend on the speed of the wind. The height, h of the wave crest depends on the duration of a certain wind speed. 
+
+The energy in a wave consists of Potential energy because the water moves up and down by the wave. It also contains a kinetic energy part because the water molecules move in a circular motion shown by the arrows in the figure.
+
+
 
 
 
