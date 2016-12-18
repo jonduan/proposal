@@ -179,7 +179,9 @@ Facts about Indonesia:
 
 
 Population: 256 million
+
 Electricity generation: 198 TWh/year
+
 Coastline: 54716 km
 
 
