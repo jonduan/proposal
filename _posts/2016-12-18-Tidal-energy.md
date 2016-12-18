@@ -24,6 +24,10 @@ Assume a gravitational constant of 10 m/s2
 Assume a water density of 1000 kg/m3
 
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/2c36dab9ddf336bb7f4e1fbd71ff1357/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/tidal_world.png)
+
+
+
 
 
 
