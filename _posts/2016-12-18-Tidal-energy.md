@@ -112,9 +112,19 @@ Epot= m * g * ĥ. where ĥ is the displacement of the center of mass of the elev
 
 
 
+Now first express the mass of the elevated part of the wave geometrically.
 
+(multiple answers are be correct)
 
+What is the formula for potential Power per unit length in the wave expressed in ρ, λ, g and h?
 
+- As stated in the Exercise discription the elevated wave part can be approximated by a triangle.
+
+- This triangle has a horizontal side with a length of λ/2 is and a height of h. It can also be seen as two triangles with a horizontal side with a length of λ/4 and a vertical side with a length of h.
+
+- The mass of the triangle per unit length is then the area, which is 0.5* λ/2 * h or 0.25 * λ * h, times the density ρ.
+
+- Fitting this in the formula of exercise 1a gets A: 0.5 * ρ * h * λ/2 * g * h / T and B: 0.25 * ρ * λ * g *h² / T
 
 
 
