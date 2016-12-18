@@ -29,6 +29,9 @@ Assume a water density of 1000 kg/m3
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/7f8d67c1f1c6dd148c3cbe2532160486/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/india_tides.JPG)
 
+Excluding south tip of the country tidal heigh is between 30-70 cm average is 50 cm
+
+
 
 
 
