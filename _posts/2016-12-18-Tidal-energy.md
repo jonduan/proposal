@@ -142,6 +142,20 @@ What is the formula for potential Power per unit length in the wave expressed in
 What is the formula for the total Power per unit length of wave?
 
 
+$$P_{tot}=\frac{1}{4} \cdot \rho \cdot g \cdot h^2 \cdot v$$
+
+
+- The speed of the wave v is the same as λ/T, as stated in the description.
+
+So Ppot = 0.25*ρ*g*h²*v
+
+- However as stated in the description the speed of the energy in the wave is only half of the speed of the wave.
+
+Ppot = 0.125*ρ*g*h²*v
+
+- The kinetic energy in the wave is the same as the potential energy.
+Adding these two gives: Ptotal = 0.25*ρ*g*h²*v
+
 
 
 
