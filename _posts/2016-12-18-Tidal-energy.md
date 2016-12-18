@@ -127,6 +127,9 @@ What is the formula for potential Power per unit length in the wave expressed in
 - Fitting this in the formula of exercise 1a gets A: 0.5 * ρ * h * λ/2 * g * h / T and B: 0.25 * ρ * λ * g *h² / T
 
 
+What is the formula for the total Power per unit length of wave?
+
+
 
 
 
