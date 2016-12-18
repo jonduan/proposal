@@ -74,6 +74,19 @@ The energy in a wave consists of Potential energy because the water moves up and
 
 
 
+We will derive the formula of total power in the wave in steps. For the following questions you can use these assumptions: 
+
+The periodic displacement of the center of mass of the elevated part of the wave is approximately the same as the height of each crest and depth of each crest: h. 
+Approximate the area of the crest as a triangle.
+take into account that the potential energy of a wave is equal to its kinetic energy.
+The energy in a wave does not travel at the same speed as the wave itself in the figure. The energy travels at the group velocity, which for deep-water waves is half of the speed v.
+The typical relation between velocity of the wave, period T and wavelength of waves is given by: λ=vT
+The density of water is ρ ( =1000 kg/m3) 
+The gravity constant is g (=10 m/s2). 
+
+
+
+
 
 
 
