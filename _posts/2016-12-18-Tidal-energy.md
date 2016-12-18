@@ -216,3 +216,8 @@ Energy/p/day: 15.6×10^6 (kW) × 24 (h)/ 256×10^6 (person) = 1.46 kWh/p/day
 
 
 
+
+
+
+
+
