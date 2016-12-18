@@ -33,4 +33,10 @@ Distance between wells: 1450 m
 Width of the thermal reservoir: 6000 m 
 There is one inlet well and one outlet well. The area of the thermal reservoir is defined by the distance between the wells and the width of the thermal reservoir.
 
+Temperature: 87.5-32.3=55.2
+massflow: 1037 (kg/m3) * 0.0814 (m3/s) = 84.400 kg/s
+
+
+What will be the thermal power of the installation if we do not take into account losses of heat exchangers ?
+
 
