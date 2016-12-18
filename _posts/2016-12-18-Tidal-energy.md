@@ -192,6 +192,10 @@ Assume that the averaged wave power in the region is 10 kW/m
 
 Filling in Etot = 0.25 * ρ * λ * g *h² / T
 
+v = 4 m/s and h = 1 m
+
+
+
 
 
 
