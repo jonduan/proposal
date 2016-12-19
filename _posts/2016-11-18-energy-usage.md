@@ -75,6 +75,10 @@ What is the entire potential of all sustainable energy resourses?
 
 How much land area do we need to produce a significant part of the world energy need with sustainable energy?
 
+
+Solar
+23,000 TW
+
 Average Global Power Demand 16 TW
 
 Wind 25-75 TW
