@@ -23,5 +23,16 @@ What is an energy system and what is final and primary energy use? What are the 
 
 
 
+##### The energy system: from source to use
 
+
+Winning
+
+Conversion Transport,
+
+Storage and DistribuCon
+
+Conversion at the end-­‐ user
+
+End-­‐use
 
