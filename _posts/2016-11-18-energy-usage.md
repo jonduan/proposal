@@ -79,4 +79,5 @@ Average Global Power Demand 16 TW
 
 Wind 25-75 TW
 
+OTEC 3-11 TW (ocean tidal )
 
