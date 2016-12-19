@@ -85,7 +85,7 @@ Bio 2-6 TW
 
 Hydro 3-4 TW
 
-
+Geothermal 0.3-2 TW
 
 
 
