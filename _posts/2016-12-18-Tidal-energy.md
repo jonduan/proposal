@@ -212,10 +212,10 @@ Energy/year: 15.6×10^6 (kW) × 24 (h) * 365 (d) = 136.66 * 10^9 kWh/year = 136.
 
 fraction total electricty generation: 136.66 (TWh/year) / 198 (TWh/year) = 0.69 = 69%
 
-
-##
+ 
+## sustainable energy resourses
 What is the entire potential of all sustainable energy resourses? 
 
 How much land area do we need to produce a significant part of the world energy need with sustainable energy?
 
-
+Average Global Power Demand 16 TW
