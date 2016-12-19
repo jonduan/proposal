@@ -82,7 +82,7 @@ Average Global Power Demand 16 TW
 
 Wind 25-75 TW
 
-OTEC 3-11 TW (ocean tidal )
+OTEC 3-11 TW (ocean tidal current  )
 
 Bio 2-6 TW 
 
@@ -113,3 +113,7 @@ Geo 0.005-­‐0.015
 Tidal 2.5-­‐3.5
 
 Wave 20-­‐30kW/m
+
+
+
+Solar Energy renewable energy source has a very low capacity factor but does have the highest power density
