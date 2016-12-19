@@ -68,3 +68,15 @@ On the other hand, undeveloped countries have to work an extreme number of hours
 The countries with the least number of minutes required are all countries with higher high minimum wage or vast oil and gas resources. On the other hand, undeveloped nations with little to no oil and gas resources must work an extreme number of hours at minimum wage in order to afford one gallon of petrol.
 
 China - 3 hours.
+
+
+## sustainable energy resourses
+What is the entire potential of all sustainable energy resourses? 
+
+How much land area do we need to produce a significant part of the world energy need with sustainable energy?
+
+Average Global Power Demand 16 TW
+
+Wind 25-75 TW
+
+
