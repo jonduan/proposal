@@ -87,7 +87,7 @@ Hydro 3-4 TW
 
 Geothermal 0.3-2 TW
 
-
+Wave 0.2-2TW
 
 
 
