@@ -94,4 +94,22 @@ Wave 0.2-2TW
 
 Tidal 0.3 TW
 
+##### Surface Power Density
+Source W/m2
 
+Hydro 8-­‐10(0.1-­‐0.2)
+
+Wind 2-­‐3
+
+Solar 20-­‐30
+
+
+Bio 0.1-­‐0.3
+
+
+Geo 0.005-­‐0.015
+
+
+Tidal 2.5-­‐3.5
+
+Wave 20-­‐30kW/m
