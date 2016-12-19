@@ -89,6 +89,6 @@ Geothermal 0.3-2 TW
 
 Wave 0.2-2TW
 
-
+Tidal 0.3 TW
 
 
