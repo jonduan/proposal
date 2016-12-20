@@ -114,10 +114,16 @@ The Government of Coronie wants to have a good understanding of the energy syste
 What you know about Coronie, is that all coal is imported and all gas is produced in Coronie. No electricity is imported or exported, as there are no interconnectors with the neighbouring countries. Furthermore, in 2015 there was no electricity generation from renewable sources like wind, solar, bio or hydro. 
 
 
+You get this answer by first subtracting the TPES of electricity from the TFC of electricity.
+Subsequently, you subtract from the previously found value, the value in the electricity column and the other conversions row.
+In this case:
+1) 730 - 0 = 730
+2) 730 - (-70) = 800
 
 
+In Coronie, 50% of the electricity is generated in coal fired power plants with an efficiency of 40%. The rest of the electricity is generated in gas fired power plants with an efficiency of 50%.
 
-
+How much coal and gas is used for the electricity production? Which answer indicates te values to be filled in the "electricity plants" row?
 
 
 
