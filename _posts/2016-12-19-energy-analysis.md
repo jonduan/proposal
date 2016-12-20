@@ -100,10 +100,10 @@ In the table below you find the incomplete energy balance for the country Coroni
 | Imports                 |      | 0           |             |       |
 | Exports                 | 0    | 0           |             | 0     |
 | Stock changes           | 0    | 0           | 0           | 0     |
-| **TPES**                | 1100 |             |             |       |
+| **TPES**                | 1230 |  1672       |    0        | 2902  |
 | Electricity Plants      |-1000 |  -800       |     800     |       |
 | Other energy conversion | -100 | -200        | -70         | -370  |
-| **TFC**                 |   130|  672        |    730         |    1532   |
+| **TFC**                 |   130|  672        |    730      |1532   |
 | Industry                | 115  | 250         | 220         | 585   |
 | Transport               | 0    | 22          | 10          | 32    |
 | Other sectors           | 15   | 400         | 500         | 915   |
