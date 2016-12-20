@@ -261,3 +261,8 @@ Energy efficiency
 the amount of energy required per unit of ac3vity of the various structure types 
 • Doing more with less 
 • Helps to stabilize or reduce energy use
+
+
+What are the main drivers behind our Global energy use?
+Structure - Volume - Time
+Volume - Structure - Efficiency
