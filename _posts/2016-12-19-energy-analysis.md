@@ -268,3 +268,5 @@ What are the main drivers behind our Global energy use?
 Volume - Structure - Efficiency
 
 The energy demand and the Economic growth measured by for instance the Gross Domestic Product (GDP), especially for Industrialized countries, are  decoupled
+
+In many Industrialized countries the energy demand has been decreasing, mainly due to improving energy efficiency
