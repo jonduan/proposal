@@ -63,3 +63,14 @@ What is the full chain efficiency, in %, from primary energy to useful energy en
  %   6
 
 
+#### Energy Analysis > 3.2 Constructing the energy balance of a country 
+
+
+
+
+
+
+
+
+
+
