@@ -149,3 +149,18 @@ General efficiency of the German power plants
 
 𝑎𝑣𝑒𝑟𝑎𝑔𝑒 𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑖𝑜𝑛 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦= Total electricity output/Total energy input =
 1,836,629 TJ /4,298,034 TJ  =43% 
+
+
+
+#### Efficiency of the conversion sector
+
+
+
+
+
+
+
+
+
+
+
