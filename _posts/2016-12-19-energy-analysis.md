@@ -223,6 +223,14 @@ Our energy demand and subsequently our energy use is dependent on a multitude of
 
 In this lecture we will look at the three main factors which are determining our energy use. What are these factors? How do they determine our energy use?
 
+###### Structure: what we do
+
+
+Services
+Transporta?on
+Industry
+Household
+Food
 
 
 
