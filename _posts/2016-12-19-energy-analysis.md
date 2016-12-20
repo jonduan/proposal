@@ -136,5 +136,10 @@ TPES total = TPES coal + TPES gas + TPES electricity = 2902
 
 
 
+#### actual energy balances in a simplified form.
+
+How do we read and compare these balances? And what can we learn from them?
+
+
 
 
