@@ -171,6 +171,10 @@ calculate the conversion efficiency of the power plants for several fuels and fo
 
 Calculate (for Europe EU28) the conversion efficiency of public electricity plants by fuel. (You can find the numbers at the bottom of the table)
 
+
+1 TWh = 3.6 PJ
+
+
 What is the generation efficiency for the coal plants? 
 
 
