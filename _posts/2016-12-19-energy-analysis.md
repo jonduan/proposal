@@ -43,3 +43,10 @@ End-­‐use
 𝒄𝒉𝒂𝒊𝒏 𝒆𝒇𝒇𝒊𝒄𝒊𝒆𝒏𝒄𝒚 𝑐𝑎𝑛 𝑏𝑒 𝑎𝑠 𝑙𝑜𝑤 𝑎𝑠 2%!
 
 
+Heating the water and the eggs costs 200 kJ of useful energy. The natural gas-fired cooker has an efficiency of 40%. In the natural-gas production chain, the energy losses associated to the winning and transport equal 5%.
+
+Final energy demand = useful energy input / energy efficiency = 200 kJ / 40 % = 500 kJ
+
+
+Primary energy demand = Final energy demand /chain efficiency = 500 kJ / 95% = 526 kJ (rounded)
+Chain efficiency natural gas production = 100% - 5% (energy losses for winning and transport) = 95%
