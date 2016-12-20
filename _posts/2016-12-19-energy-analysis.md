@@ -100,13 +100,19 @@ In the table below you find the incomplete energy balance for the country Coroni
 | Imports                 |      | 0           |             |       |
 | Exports                 | 0    | 0           |             | 0     |
 | Stock changes           | 0    | 0           | 0           | 0     |
-| TPES                    |      |             |             |       |
-| Electricity Plants      |      |             |             |       |
+| **TPES**                |      |             |             |       |
+| Electricity Plants      |      |             |     800     |       |
 | Other energy conversion | -100 | -200        | -70         | -370  |
-| TFC                     |      |             |             |       |
+| **TFC**                 |   130|  672        |    730         |    1532   |
 | Industry                | 115  | 250         | 220         | 585   |
 | Transport               | 0    | 22          | 10          | 32    |
 | Other sectors           | 15   | 400         | 500         | 915   |
+
+
+The Government of Coronie wants to have a good understanding of the energy system and wants a completed energy balance for policy purposes. As an energy analyst, your task is to complete this energy balance for the Government.  
+
+What you know about Coronie, is that all coal is imported and all gas is produced in Coronie. No electricity is imported or exported, as there are no interconnectors with the neighbouring countries. Furthermore, in 2015 there was no electricity generation from renewable sources like wind, solar, bio or hydro. 
+
 
 
 
