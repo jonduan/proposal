@@ -141,5 +141,5 @@ TPES total = TPES coal + TPES gas + TPES electricity = 2902
 How do we read and compare these balances? And what can we learn from them?
 
 
-
+###### How to read the energy balance of a country?
 
