@@ -161,6 +161,15 @@ The energy balance, provided by the International Energy Agency (IEA), can be fo
 [energy_balance_of_EU28.pdf](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/51b91b369bf1c9d968c82e98ae091fdb/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/energy_balance_of_EU28.pdf)
 
 
+The energy conversion efficiency of an activity can be calculated as the total energy output, divided by the total energy input.
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/cd4daa1697c6f7e1861ee0489d3f681e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/efficiency.png)
+
+In the following exercises you have to calculate the conversion efficiency of the power plants for several fuels and for Combined Heat and Power (CHP) plants.
+
+
+
+
 
 
 
