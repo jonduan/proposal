@@ -175,3 +175,10 @@ In the following exercises you have to calculate the conversion efficiency of th
 
 
 
+
+
+
+
+
+
+
