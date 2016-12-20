@@ -256,4 +256,31 @@ sector.
 
 
 
-
+Decoupling of the GDP and energy use II: efficiency
+Energy
+efficiency
+the
+amount
+of
+energy
+required
+per
+unit
+of
+ac3vity
+of
+the
+various
+structure
+types
+• Doing
+more
+with
+less
+• Helps
+to
+stabilize
+or
+reduce
+energy
+use
