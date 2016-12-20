@@ -313,3 +313,18 @@ e.g. shared steam network
 • More efficient boilers, furnaces, engines, pumps 
 etc. 
 • Op3mize the use of technology
+
+
+
+The steel industry has been one of the largest contributors to the energy use in the country for decades. For the steel industry in particular the energy use is expected to increase, together with the increase in the steal production. But to guarantee the security of the energy suply in Surimaribo, the steel industry must improve their energy efficiency in order to minimize the increase in their energy use.
+
+As an engineer you are asked what measures the steel industry can implement to further improve their efficiency, while maintaining a profitable business.
+
+Choose three efficiency improvement measures for the steel industry, with the highest likelihood of having a big impact?
+
+
+
+
+
+
+
