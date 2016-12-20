@@ -52,6 +52,14 @@ Primary energy demand = Final energy demand /chain efficiency = 500 kJ / 95% = 5
 Chain efficiency natural gas production = 100% - 5% (energy losses for winning and transport) = 95%
 
 
+The electric cooker on the other hand has an efficiency of 80%. In the electricity production chain, the overall losses occurring are assumed to be 64%.
 
+
+The useful energy, energy that goes into the eggs, is even lower than the useful energy from the previous parts of this assignment. Assume that you boil 2 eggs (50 g each) in 0.4 liter water, and that the specific heat capacity of eggs is the same as that of water.
+
+
+What is the full chain efficiency, in %, from primary energy to useful energy ending up in the eggs when using the electric cooker? 
+
+ %   6
 
 
