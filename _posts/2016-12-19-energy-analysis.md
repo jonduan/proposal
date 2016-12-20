@@ -181,18 +181,34 @@ What is the efficiency for the petroleum-based electricity plants?
 
 What is the efficiency for the gas fired electricity plants?
 
-
+fuel input = 1949PJ
+electricity output = 1003 PJ
+efficiency = (1003/1949) x 100% = 52%
 
 What is the efficiency for the biofuel electricity plants? 
 
-
+fuel input = 770 PJ
+electricity output = 232 PJ
+efficiency = (232/770) x 100% = 30%
 
 Calculate (for Europe EU28) the general conversion efficiency of the public electricity plants.
+
+total fuel input = 21694 PJ
+electricity output = 9269 PJ
+efficiency = (9269/21694) x 100% = 43%
+
+
 
 
 Calculate (for Europe EU28) the conversion efficiency of public Combined Heat and Power (CHP) plants.
 
-
+Total fuel input (from row ‘CHP Plants’):
+2671 + 6 + 402 + 2536 + 127 + 1240 = 6982 PJ
+Electricity output: 2484 PJ
+Electricity generation efficiency = (2484 PJ /6982 PJ) x 100% = 36%
+Heat output: 1761 PJ
+Heat generation efficiency = (1761 PJ /6982 PJ) x 100% = 25%
+Total efficiency: 36% + 25% = 61%
 
 
 
