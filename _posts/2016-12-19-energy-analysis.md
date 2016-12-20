@@ -178,6 +178,9 @@ What is the generation efficiency for the coal plants?
 
 What is the efficiency for the petroleum-based electricity plants?
 
+fuel input (oil + oil products) = 487 PJ
+electricity output (oil + oil products) = 173 PJ
+efficiency = (173/487) x 100% = 36%
 
 What is the efficiency for the gas fired electricity plants?
 
