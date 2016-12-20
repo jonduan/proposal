@@ -232,5 +232,28 @@ Industry
 Household
 Food
 
+###### Volume: how much we do
+
+Decoupling of the GDP
+and energy use I: structure
+• Dominant
+sectors
+in
+the
+economy
+• Developing
+countries:
+energy
+intensive
+industry
+• Developed
+countries:
+less
+energy
+intensive
+service
+sector.
+
+
 
 
