@@ -314,3 +314,18 @@ efficient
 e.g. shared steam network
 
 
+4. Technological
+improvement
+• Fuel
+to
+power
+conversion
+efficiency
+• Power
+to
+mo3on
+conversion
+efficiency
+• More efficient boilers, furnaces, engines, pumps 
+etc. 
+• Op3mize the use of technology
