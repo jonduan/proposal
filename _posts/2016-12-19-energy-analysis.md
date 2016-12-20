@@ -338,6 +338,10 @@ If this policy package is actually implemented, how high (TJ) will the energy us
 (1-0.02)^5 x (20 TJ/Mt) x 15 Mt = 271.18 TJ
 
 
+#### Energy Analysis > 3.6 Trends and scenarios in the global energy use
 
+Until now you have encountered various energy carriers in this course, both fossil-based like coal and oil, but also renewable energy carriers such as wind and biomass.
+
+This subsection contains two lectures. In the first lecture you will get a concise introduction to the global trends, both historic and expected, for these energy carriers. The next lecture is about the use of scenarios.
 
 
