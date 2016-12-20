@@ -329,10 +329,12 @@ Choose three efficiency improvement measures for the steel industry, with the hi
  - heat recovery
 
 
+SEC = Energy Use/Steel production SEC 2015 = 240 TJ/12 Mt = 20 TJ/Mt
 
+A newly proposed energy efficiency improvement package by the government of Surimaribo is expected to lead to an annual efficiency improvement of 2% from 2015 to 2020.
 
+If this policy package is actually implemented, how high (TJ) will the energy use by the steel industry be in 2020?
 
-
-
+(1-0.02)^5 x (20 TJ/Mt) x 15 Mt = 271.18 TJ
 
 
