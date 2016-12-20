@@ -176,10 +176,10 @@ What is the generation efficiency for the coal plants?
 
 
 
+What is the efficiency for the petroleum-based electricity plants?
 
 
-
-
+What is the efficiency for the gas fired electricity plants?
 
 
 
