@@ -100,7 +100,11 @@ In the table below you find the incomplete energy balance for the country Coroni
 | Imports                 |      | 0           |             |       |
 | Exports                 | 0    | 0           |             | 0     |
 | Stock changes           | 0    | 0           | 0           | 0     |
-| **TPES**                |      |             |             |       |
+| **TPES**                | 1100TPES = TFC - conversions
+TPES coal = 130 - (-100 + -1000) = 1230
+TPES gas = 672 - (-200 + -800) = 1672
+TPES electricity = 730 - (-70 + 800) = 0
+TPES total = TPES coal + TPES gas + TPES electricity = 2902 |             |             |       |
 | Electricity Plants      |-1000 |  -800       |     800     |       |
 | Other energy conversion | -100 | -200        | -70         | -370  |
 | **TFC**                 |   130|  672        |    730         |    1532   |
@@ -129,5 +133,9 @@ coal required = -( (0.5 x 800) / 0.4 ) = -1000
 gas required = -( (0.5 x 800) / 0.5 ) = -800
 
 
-
+TPES = TFC - conversions
+TPES coal = 130 - (-100 + -1000) = 1230
+TPES gas = 672 - (-200 + -800) = 1672
+TPES electricity = 730 - (-70 + 800) = 0
+TPES total = TPES coal + TPES gas + TPES electricity = 2902
 
