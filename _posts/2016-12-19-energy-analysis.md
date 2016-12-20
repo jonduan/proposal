@@ -90,6 +90,28 @@ What are the energy flows of a household and how can we translate these to an en
 𝑇𝐹𝐶=𝑇𝑃𝐸𝑆 −𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑖𝑜𝑛 𝑖𝑛𝑝𝑢𝑡+𝑐𝑜𝑛𝑣𝑒𝑟𝑠𝑖𝑜𝑛 𝑜𝑢𝑡𝑝𝑢𝑡
 
 
+In the table below you find the incomplete energy balance for the country Coronie. 
+
+##### 2015 Energy Balance Coronie (in PJ)
+
+|                         | Coal | Natural Gas | Electricity | Total |
+|-------------------------|------|-------------|-------------|-------|
+| Production              | 0    |             | 0           |       |
+| Imports                 |      | 0           |             |       |
+| Exports                 | 0    | 0           |             | 0     |
+| Stock changes           | 0    | 0           | 0           | 0     |
+| TPES                    |      |             |             |       |
+| Electricity Plants      |      |             |             |       |
+| Other energy conversion | -100 | -200        | -70         | -370  |
+| TFC                     |      |             |             |       |
+| Industry                | 115  | 250         | 220         | 585   |
+| Transport               | 0    | 22          | 10          | 32    |
+| Other sectors           | 15   | 400         | 500         | 915   |
+
+
+
+
+
 
 
 
