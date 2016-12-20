@@ -101,7 +101,7 @@ In the table below you find the incomplete energy balance for the country Coroni
 | Exports                 | 0    | 0           |             | 0     |
 | Stock changes           | 0    | 0           | 0           | 0     |
 | **TPES**                |      |             |             |       |
-| Electricity Plants      |      |             |     800     |       |
+| Electricity Plants      |-1000 |  -800       |     800     |       |
 | Other energy conversion | -100 | -200        | -70         | -370  |
 | **TFC**                 |   130|  672        |    730         |    1532   |
 | Industry                | 115  | 250         | 220         | 585   |
@@ -124,6 +124,10 @@ In this case:
 In Coronie, 50% of the electricity is generated in coal fired power plants with an efficiency of 40%. The rest of the electricity is generated in gas fired power plants with an efficiency of 50%.
 
 How much coal and gas is used for the electricity production? Which answer indicates te values to be filled in the "electricity plants" row?
+
+coal required = -( (0.5 x 800) / 0.4 ) = -1000
+gas required = -( (0.5 x 800) / 0.5 ) = -800
+
 
 
 
