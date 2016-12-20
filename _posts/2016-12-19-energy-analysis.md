@@ -264,5 +264,5 @@ the amount of energy required per unit of ac3vity of the various structure types
 
 
 What are the main drivers behind our Global energy use?
-Structure - Volume - Time
+
 Volume - Structure - Efficiency
