@@ -217,9 +217,11 @@ Heat output: 1761 PJ
 Heat generation efficiency = (1761 PJ /6982 PJ) x 100% = 25%
 Total efficiency: 36% + 25% = 61%
 
+#### Energy Analysis > 3.4 Factors determining our energy us
 
+Our energy demand and subsequently our energy use is dependent on a multitude of factors.
 
-
+In this lecture we will look at the three main factors which are determining our energy use. What are these factors? How do they determine our energy use?
 
 
 
