@@ -183,7 +183,7 @@ What is the generation efficiency for the coal plants?
 What is the efficiency for the petroleum-based electricity plants?
 
 fuel input (oil + oil products) = 487 PJ
-electricity output (oil + oil products) = 173 PJ
+electricity output (oil + oil products) = 173 PJ 1 TWh = 3.6 PJ
 efficiency = (173/487) x 100% = 36%
 
 What is the efficiency for the gas fired electricity plants?
@@ -195,7 +195,7 @@ efficiency = (1003/1949) x 100% = 52%
 What is the efficiency for the biofuel electricity plants? 
 
 fuel input = 770 PJ
-electricity output = 232 PJ
+electricity output = 232 PJ 1 TWh = 3.6 PJ
 efficiency = (232/770) x 100% = 30%
 
 Calculate (for Europe EU28) the general conversion efficiency of the public electricity plants.
@@ -211,7 +211,7 @@ Calculate (for Europe EU28) the conversion efficiency of public Combined Heat an
 
 Total fuel input (from row ‘CHP Plants’):
 2671 + 6 + 402 + 2536 + 127 + 1240 = 6982 PJ
-Electricity output: 2484 PJ
+Electricity output: 2484 PJ 1 TWh = 3.6 PJ
 Electricity generation efficiency = (2484 PJ /6982 PJ) x 100% = 36%
 Heat output: 1761 PJ
 Heat generation efficiency = (1761 PJ /6982 PJ) x 100% = 25%
