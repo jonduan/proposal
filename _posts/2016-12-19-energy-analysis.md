@@ -295,19 +295,12 @@ SEC of a car = 𝑓𝑢𝑒𝑙 𝑖𝑛𝑝𝑢𝑡 [𝑙]/𝑑𝑖𝑠𝑡𝑎
 • Invest in energy efficiency
 
 
-• Controlled
-chemical
-processes
+• Controlled chemical processes 
 –
-“The
-perfect
-reactor”
-§ Fully
-sustainable
-§ Waste
-free
-§ Thermodynamically
-efficient
+“The perfect reactor” 
+§ Fully sustainable 
+§ Waste free 
+§ Thermodynamically efficient 
 
 • **Process intensification**
 
