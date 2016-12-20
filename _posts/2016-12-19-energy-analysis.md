@@ -277,3 +277,4 @@ In many Industrialized countries the energy demand has been decreasing, mainly d
 But how can energy efficiency contribute in limiting our future energy use? We will take a look at possible applications of measures to improve energy efficiency in the various sectors. We will explore measures for homes, office buildings, cars, and industry.
 
 
+𝑒𝑛𝑒𝑟𝑔𝑦 𝑒𝑓𝑓𝑖𝑐𝑖𝑒𝑛𝑐𝑦 = ƞ [%] = 𝑒𝑛𝑒𝑟𝑔𝑦 𝑜𝑢𝑡𝑝𝑢𝑡/𝑒𝑛𝑒𝑟𝑔𝑦 𝑖𝑛𝑝𝑢𝑡 
