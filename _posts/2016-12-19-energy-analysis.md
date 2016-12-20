@@ -73,6 +73,9 @@ What are the energy flows of a household and how can we translate these to an en
 
 
 
+####### Setting up the energy balance
 
+
+𝑇𝑃𝐸𝑆= 𝑒𝑛𝑒𝑟𝑔𝑦 𝑤𝑖𝑛𝑛𝑖𝑛𝑔+𝑖𝑚𝑝𝑜𝑟𝑡𝑠−𝑒𝑥𝑝𝑜𝑟𝑡𝑠
 
 
