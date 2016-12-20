@@ -67,7 +67,9 @@ What is the full chain efficiency, in %, from primary energy to useful energy en
 
 
 
+###### energy balances.
 
+What are the energy flows of a household and how can we translate these to an energy balance? This will be the basis for the next step: energy balances of countries. Which elements do these balances consist of?
 
 
 
