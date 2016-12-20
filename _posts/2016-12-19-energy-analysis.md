@@ -288,20 +288,10 @@ Specific Energy Consumption (SEC) = 𝑒𝑛𝑒𝑟𝑔𝑦 𝑖𝑛𝑝𝑢�
 SEC of a car = 𝑓𝑢𝑒𝑙 𝑖𝑛𝑝𝑢𝑡 [𝑙]/𝑑𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑐𝑜𝑣𝑒𝑟𝑒𝑑 [𝑘𝑚] →[𝑙/𝑘𝑚]
 
 
-• Poor
-insula3on
-• Inefficient
-lights
-• Inefficient
-appliances
-• Inefficient
-hea3ng
-and
-cooling
-equipment
-• Invest
-in
-energy
-efficiency
+• Poor insula3on
+• Inefficient lights
+• Inefficient appliances
+• Inefficient hea3ng and cooling equipment
+• Invest in energy efficiency
 
 
