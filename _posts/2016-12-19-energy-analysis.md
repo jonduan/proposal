@@ -322,7 +322,11 @@ As an engineer you are asked what measures the steel industry can implement to f
 
 Choose three efficiency improvement measures for the steel industry, with the highest likelihood of having a big impact?
 
+heat integration
 
+more efficient equipment e.g. furnaces, pumps etc.
+
+heat recovery
 
 
 
