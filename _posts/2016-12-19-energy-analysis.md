@@ -154,9 +154,11 @@ General efficiency of the German power plants
 
 #### Efficiency of the conversion sector
 
+calculate the efficiency of the conversion sector for the 28 EU memberstates, using 2012 data. You are provided with the cumulative energy balance for the 28 EU memberstates in 2012. 
 
+The energy balance, provided by the International Energy Agency (IEA), can be found by clicking on the link below: 
 
-
+[energy_balance_of_EU28.pdf](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/51b91b369bf1c9d968c82e98ae091fdb/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/energy_balance_of_EU28.pdf)
 
 
 
