@@ -190,6 +190,10 @@ What is the efficiency for the biofuel electricity plants?
 Calculate (for Europe EU28) the general conversion efficiency of the public electricity plants.
 
 
+Calculate (for Europe EU28) the conversion efficiency of public Combined Heat and Power (CHP) plants.
+
+
+
 
 
 
