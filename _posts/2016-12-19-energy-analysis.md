@@ -344,4 +344,4 @@ Until now you have encountered various energy carriers in this course, both foss
 
 This subsection contains two lectures. In the first lecture you will get a concise introduction to the global trends, both historic and expected, for these energy carriers. The next lecture is about the use of scenarios.
 
-
+2014: 81% of our energy supply is fossil based (IEA, 2016) 
