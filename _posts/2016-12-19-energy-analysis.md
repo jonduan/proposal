@@ -169,6 +169,14 @@ In the following exercises you have to calculate the conversion efficiency of th
 
 calculate the conversion efficiency of the power plants for several fuels and for Combined Heat and Power (CHP) plants.
 
+Calculate (for Europe EU28) the conversion efficiency of public electricity plants by fuel. (You can find the numbers at the bottom of the table)
+
+What is the generation efficiency for the coal plants? 
+
+
+
+
+
 
 
 
