@@ -266,3 +266,5 @@ the amount of energy required per unit of ac3vity of the various structure types
 What are the main drivers behind our Global energy use?
 
 Volume - Structure - Efficiency
+
+The energy demand and the Economic growth measured by for instance the Gross Domestic Product (GDP), especially for Industrialized countries, are  decoupled
