@@ -338,3 +338,6 @@ If this policy package is actually implemented, how high (TJ) will the energy us
 (1-0.02)^5 x (20 TJ/Mt) x 15 Mt = 271.18 TJ
 
 
+
+
+
