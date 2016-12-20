@@ -50,3 +50,8 @@ Final energy demand = useful energy input / energy efficiency = 200 kJ / 40 % = 
 
 Primary energy demand = Final energy demand /chain efficiency = 500 kJ / 95% = 526 kJ (rounded)
 Chain efficiency natural gas production = 100% - 5% (energy losses for winning and transport) = 95%
+
+
+
+
+
