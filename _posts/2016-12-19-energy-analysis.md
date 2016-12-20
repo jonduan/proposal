@@ -270,3 +270,10 @@ Volume - Structure - Efficiency
 The energy demand and the Economic growth measured by for instance the Gross Domestic Product (GDP), especially for Industrialized countries, are  decoupled
 
 In many Industrialized countries the energy demand has been decreasing, mainly due to improving energy efficiency
+
+
+#### Energy efficiency can be considered as the main driver to limit our future energy use. 
+
+But how can energy efficiency contribute in limiting our future energy use? We will take a look at possible applications of measures to improve energy efficiency in the various sectors. We will explore measures for homes, office buildings, cars, and industry.
+
+
