@@ -183,6 +183,13 @@ What is the efficiency for the gas fired electricity plants?
 
 
 
+What is the efficiency for the biofuel electricity plants? 
+
+
+
+Calculate (for Europe EU28) the general conversion efficiency of the public electricity plants.
+
+
 
 
 
