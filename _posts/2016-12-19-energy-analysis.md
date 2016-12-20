@@ -308,4 +308,9 @@ sustainable
 free
 § Thermodynamically
 efficient
+
 • **Process intensification**
+
+e.g. shared steam network
+
+
