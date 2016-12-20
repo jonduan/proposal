@@ -167,7 +167,7 @@ The energy conversion efficiency of an activity can be calculated as the total e
 
 In the following exercises you have to calculate the conversion efficiency of the power plants for several fuels and for Combined Heat and Power (CHP) plants.
 
-
+calculate the conversion efficiency of the power plants for several fuels and for Combined Heat and Power (CHP) plants.
 
 
 
