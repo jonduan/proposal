@@ -15,11 +15,14 @@ $1000 production using 0.19 ton of oil  /190 kilograms of oil use
 
 average 2.4 CO2 emission.
 
+Hydro
 Nuclear 0.
 
 coal highest 4 tons
 
-gas 
+oil 3 
+gas 2.4 
+
 
 
 
