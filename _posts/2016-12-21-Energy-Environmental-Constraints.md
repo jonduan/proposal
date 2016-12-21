@@ -98,4 +98,4 @@ Each calorie is 4.18 joules of energy. 600 food calories becomes 600,000 regular
 
 1ac= 4046.856m²
 
-
+$$\frac{10 \ acres}{1 \ year} \cdot \frac{1 \ year}{365 \ days} \cdot \frac{4046.86 \ m^2}{1 \ acre} =  110.9 \ m^2 / day$$
