@@ -18,7 +18,7 @@ using 0.19 ton of oil  ,190 kilograms of oil use
 
 0.19 ton of oil average 2.4 CO2 emission.
 
-Hydro
+Hydro 0
 Nuclear 0.
 
 coal highest 4 tons
