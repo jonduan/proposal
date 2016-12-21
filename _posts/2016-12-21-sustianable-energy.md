@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Energy and the sustainable development
 category: sustainable
@@ -32,8 +32,3 @@ eath ton of CO2.
 0.46 stay in the air. 
 
 Natural sink 0.56
-
-
-
-
-
