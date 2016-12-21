@@ -115,3 +115,34 @@ Which particles appear in equal numbers in all uncharged atoms?
 Proton
 
 Electron
+
+Protons and neutrons are very similar in mass; electrons are about 2000 times lighter than either of them. Uncharged atoms have equal numbers of protons and electrons. Heavier atoms generally have a greater number of neutrons than protons.
+ 
+**Electric Grid Efficiency**
+
+What is the average efficiency of electric grids in developed countries? That is, what percentage of the electrical power generated at power plants actually makes it to end users in countries like Australia, the UK, and the US?
+
+94%
+
+
+
+**Coal Power Efficiency**
+
+What is the efficiency of a typical coal-fired power plant? That is, what percentage of the thermal energy from burning the coal is successfully turned into electricity?
+
+Around 35%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
