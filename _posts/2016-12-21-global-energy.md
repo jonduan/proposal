@@ -26,6 +26,6 @@ price instrument, 500 euros. show carbon prices
 
 share the burden 
 
-historical resposbility. 
+historical resposibility. 
 
 
