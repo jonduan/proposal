@@ -42,7 +42,7 @@ non-OECD grow
 
 phase out fossil fuel
 
-ccs carbon storage
+ccs carbon  storage
 
 coal to gas
 
@@ -64,3 +64,12 @@ Nuclear will be needed and reliable.
 
 2050 goal to keep only 2 degree increasing 
 energy mix of renewable 
+
+
+[COP21: What does the Paris climate agreement mean for me?](http://www.bbc.com/news/science-environment-35092127)
+
+
+
+
+
+
