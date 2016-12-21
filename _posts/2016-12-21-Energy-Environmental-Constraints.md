@@ -132,14 +132,19 @@ What is the efficiency of a typical coal-fired power plant? That is, what percen
 
 Around 35%
 
+**First Climate Change Treaty**
+
+
+In what year did the first global treaty regarding climate change enter into force? Please answer with a number, e.g. '2016'
 
 
 
+It's hard to estimate premature deaths from energy-related water pollution, but as we'll discuss later in the course it's almost certainly less than 100,000 per year, if not far less. Water pollution is a serious problem, but most mortality is from water-borne diseases causing diarrhea.
+Energy-related air pollution is much worse, causing approximately 7 million premature deaths each year. Roughly half are from indoor cooking fires (especially in Africa and Asia), and the other half are from power plants and vehicles.
+Attributing deaths to climate change is difficult, but it currently causes very few deaths per year. By 2050, the World Health Organization estimates it will cause a few hundred thousand premature deaths per year.
 
 
-
-
-
+It will only take a few days for most of the air pollution to fall out of the atmosphere and stop affecting peoples' lungs and cardiovascular systems. There is some residual mortality that would last longer. However, carbon dioxide lingers in the atmosphere for much longer, and the resulting temperature change will be with us for thousands of years.
 
 
 
