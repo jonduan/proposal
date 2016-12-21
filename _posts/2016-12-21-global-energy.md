@@ -77,3 +77,12 @@ energy mix of renewable
 
 
 ![](http://ichef.bbci.co.uk/news/624/cpsprodpb/15F3D/production/_87071998_climate_change_fallbacks-05.png)
+
+
+Number of people without access to electricity in rural areas
+in the New Policies Scenario
+
+
+
+
+
