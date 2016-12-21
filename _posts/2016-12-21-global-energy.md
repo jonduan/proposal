@@ -20,6 +20,7 @@ energy choice.
 coal
 1900
 oil
+1960
 
 
 decarbonize
