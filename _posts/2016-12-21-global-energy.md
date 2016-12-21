@@ -19,6 +19,7 @@ energy choice.
 #### energy transition
 coal
 1900
+oil
 
 
 decarbonize
