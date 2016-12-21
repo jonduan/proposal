@@ -28,4 +28,6 @@ share the burden of decarbonize
 
 historical resposibility. 
 
+50% coal consumption in china increasing in last 10 year. 
+
 
