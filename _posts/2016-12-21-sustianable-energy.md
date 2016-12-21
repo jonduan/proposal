@@ -17,7 +17,9 @@ average 2.4 CO2 emission.
 
 Nuclear 0.
 
-coal 
+coal highest 4 tons
+
+gas 
 
 
 
