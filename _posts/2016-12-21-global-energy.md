@@ -62,5 +62,5 @@ economics incentive, regulative incentive. education.
 
 Nuclear will be needed and reliable. 
 
-2050 
+2050 goal to keep only 2 degree increasing 
 energy mix of renewable 
