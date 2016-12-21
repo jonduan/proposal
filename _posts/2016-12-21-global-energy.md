@@ -24,7 +24,7 @@ oil density
 gas rapid
 
 nuclear
-renrewable
+rerewable
 
 
 
