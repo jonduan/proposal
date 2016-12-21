@@ -85,8 +85,8 @@ Section 10: Conclusion
 
 Wrap-up and review.
 
-Some important topics we exclude.
 
-We hope to cover many of these in a future, expanded version of the course: details on fossil fuels and the electric grid; details on end uses (transportation, buildings, industry); carbon capture and storage; biofuels; renewables other than solar (wind, hydro, etc.)
+## Introduction >> Background Questions
 
 
+Food Calories (capital-C) are equal to 1000 regular calories.
