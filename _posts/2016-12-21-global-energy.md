@@ -21,11 +21,19 @@ coal
 1900
 oil density
 1960
-gas
+gas rapid
+
+nuclear
+renrewable
+
+
 
 OECD stable
 
 non-OECD grow
+
+
+
 
 
 decarbonize
