@@ -15,11 +15,15 @@ consumption increase with GDP.
 
 energy choice. 
 
+
+
 decarbonize
 
 phase out fossil fuel
 
 ccs carbon storage
+
+coal to gas
 
 nuclear
 
