@@ -16,7 +16,7 @@ decarbonize
 
 phase out fossil fuel
 
-ccs
+ccs carbon storage
 nuclear
 efficiency
 
