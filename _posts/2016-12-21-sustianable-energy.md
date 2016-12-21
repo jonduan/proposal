@@ -11,9 +11,11 @@ tags:
 
 [growth-and-planetary-boundaries-the-case-of-energy](https://www.coursera.org/learn/sustainable-development/lecture/SBW6u/growth-and-planetary-boundaries-the-case-of-energy-22-04). 
 
-0.19 ton of oil 
+$1000 production using 0.19 ton of oil  /190 kilograms of oil use
 
-190 kilograms of oil use
+
+
+
 
 
 
