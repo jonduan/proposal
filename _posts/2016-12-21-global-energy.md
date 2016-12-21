@@ -73,3 +73,7 @@ energy mix of renewable
 
 
 ![](http://ichef-1.bbci.co.uk/news/624/cpsprodpb/1111D/production/_87071996_climate_change_fallbacks-06.png)
+
+
+
+![](http://ichef.bbci.co.uk/news/624/cpsprodpb/15F3D/production/_87071998_climate_change_fallbacks-05.png)
