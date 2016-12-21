@@ -23,6 +23,10 @@ oil density
 1960
 gas
 
+OECD stable
+
+non-OECD 
+
 
 decarbonize
 
