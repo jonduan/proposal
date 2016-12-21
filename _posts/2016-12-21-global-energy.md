@@ -19,6 +19,8 @@ phase out fossil fuel
 ccs carbon storage
 nuclear
 efficiency
-price instrument
+price instrument, 500 euros. show prices
+
+
 
 
