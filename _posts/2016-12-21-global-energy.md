@@ -25,6 +25,7 @@ gas rapid
 
 nuclear
 rerewable
+hydro
 
 
 
