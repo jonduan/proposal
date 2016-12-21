@@ -23,8 +23,8 @@ Nuclear 0.
 
 coal highest 4 tons
 
-oil 3 
-gas 2.4 
+oil 3 tons
+gas 2.4 tons
 
 
 
