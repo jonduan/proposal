@@ -19,8 +19,9 @@ energy choice.
 #### energy transition
 coal
 1900
-oil
+oil density
 1960
+
 
 
 decarbonize
