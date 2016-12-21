@@ -58,4 +58,4 @@ historical resposibility.
 
 50% coal consumption in china increasing in last 10 year. 
 
-
+economics incentive, regulative incentive. education. 
