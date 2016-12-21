@@ -17,6 +17,10 @@ energy choice.
 
 
 #### energy transition
+coal
+1900
+
+
 decarbonize
 
 phase out fossil fuel
