@@ -38,7 +38,7 @@ non-OECD grow
 
 
 
-decarbonize
+##### 4 ways to decarbonize
 
 phase out fossil fuel
 
@@ -61,3 +61,4 @@ historical resposibility.
 economics incentive, regulative incentive. education. 
 
 Nuclear will be needed and reliable. 
+
