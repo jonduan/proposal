@@ -159,3 +159,8 @@ About four fifths (80%) of total energy appropriated by humans is from fossil fu
 
 Fossil fuels first overtook biomass (mostly trees and crops) as England's primary energy source around the year 1900, which you may find surprisingly recent.
 
+
+
+
+
+
