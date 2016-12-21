@@ -99,3 +99,8 @@ Each calorie is 4.18 joules of energy. 600 food calories becomes 600,000 regular
 1ac= 4046.856m²
 
 $$\frac{10 \ acres}{1 \ year} \cdot \frac{1 \ year}{365 \ days} \cdot \frac{4046.86 \ m^2}{1 \ acre} =  110.9 \ m^2 / day$$
+
+Humanity used 160,000 Terawatt-hours of energy in 2015. If there are 7.4 billion people on earth and 8766 hours per year, how many Watts did each person use on average?
+
+Watts/person
+$$160000 \ TW \cdot hours \cdot \frac{10^{12} \ Watts}{1 \ TW} \cdot \frac{1}{7.4 \times 10^{9} \ people \cdot 8766 \ hours }  = 2500 Watts / person$$
