@@ -19,6 +19,6 @@ phase out fossil fuel
 ccs carbon storage
 nuclear
 efficiency
-
+price instrument
 
 
