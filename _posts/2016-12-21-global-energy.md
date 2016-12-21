@@ -68,8 +68,8 @@ energy mix of renewable
 
 [COP21: What does the Paris climate agreement mean for me?](http://www.bbc.com/news/science-environment-35092127)
 
+![](http://ichef-1.bbci.co.uk/news/624/cpsprodpb/C2FD/production/_87071994_climate_change_fallbacks-04.png)
 
 
 
-
-
+![](http://ichef-1.bbci.co.uk/news/624/cpsprodpb/1111D/production/_87071996_climate_change_fallbacks-06.png)
