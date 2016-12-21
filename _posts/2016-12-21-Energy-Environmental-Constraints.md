@@ -95,4 +95,7 @@ converting energy units from calorie to watt second
 1 cal = 4.1868 Ws
 
 Each calorie is 4.18 joules of energy. 600 food calories becomes 600,000 regular calories, which is 2,508,000 joules of energy. If we consume this over 600 seconds, the rate of consumption is 4,180 watts.
-Partial credit is awarded for an answer that missed the conversion between food calories and regular calories.
+
+
+
+
