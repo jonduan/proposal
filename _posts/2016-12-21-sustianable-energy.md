@@ -13,8 +13,9 @@ tags:
 
 $1000 production using 0.19 ton of oil  /190 kilograms of oil use
 
+2.4 CO2 emission.
 
-
+Nuclear 0.
 
 
 
