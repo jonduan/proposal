@@ -24,7 +24,7 @@ efficiency
 
 price instrument, 500 euros. show carbon prices
 
-share the burden 
+share the burden of decarbonize
 
 historical resposibility. 
 
