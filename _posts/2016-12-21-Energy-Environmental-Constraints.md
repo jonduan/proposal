@@ -154,5 +154,5 @@ These relationships were qualitatively the same when oil and gas prices were muc
 
 
 
-
+About four fifths (80%) of total energy appropriated by humans is from fossil fuels. The next highest source is nuclear energy at 7%. Fossil's portion of human energy supply has fallen slightly in recent decades (down from 90% in the 1970's) thanks to the growth of renewables. But it is still dramatically higher than all of human history before 1850, when close to 100% human energy was from biomass.
 
