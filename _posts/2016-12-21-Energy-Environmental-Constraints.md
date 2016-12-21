@@ -104,3 +104,14 @@ Humanity used 160,000 Terawatt-hours of energy in 2015. If there are 7.4 billion
 
 Watts/person
 $$160000 \ TW \cdot hours \cdot \frac{10^{12} \ Watts}{1 \ TW} \cdot \frac{1}{7.4 \times 10^{9} \ people \cdot 8766 \ hours }  = 2500 Watts / person$$
+
+
+Which particles have about the same mass? 
+Proton
+Neutron
+
+Which particles appear in equal numbers in all uncharged atoms? 
+
+Proton
+
+Electron
