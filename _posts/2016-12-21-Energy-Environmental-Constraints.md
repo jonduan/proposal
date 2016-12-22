@@ -282,7 +282,7 @@ We set this up as a fraction, with oil on top and coal on the bottom. We could u
 \frac{ 0.046 \ GJ / \ kg }{ 0.027 \ GJ / kg } = 1.70
 
 
-
+Pound-for-pound, oil provides 70% more energy than coal.
 
 
 
