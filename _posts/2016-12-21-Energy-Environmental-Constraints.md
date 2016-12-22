@@ -167,3 +167,11 @@ energy service
  - efficacy  liter per kilometer
 
 
+
+The proper order is: Primary Energy (where it enters the economy), Final Energy (where it is purchased), Useful Energy (where it is used), and, last, Energy Services (the things that are done with the energy).
+
+
+
+
+
+
