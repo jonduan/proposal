@@ -62,6 +62,10 @@ Effective emission temperature:
 
 
 
+Observed average surface temperature = 288K =15°C
+
+
+
 
 
 
