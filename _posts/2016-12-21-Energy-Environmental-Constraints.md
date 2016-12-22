@@ -308,8 +308,18 @@ Watts are joules per second. If we want an answer in terrawatts, we can convert 
 $$\frac{570 \ EJ}{1 \ year} \cdot \frac{10^6 \ TJ}{1 \ EJ} \cdot \frac{1 \ year}{365 \cdot 24 \cdot 60 \cdot 60} = 18 \ TW$$
 
 
+###### China's Power Consumption
+ 
 
 
+
+In 2015 China consumed 4 billion metric tons of coal. What average power does this represent?
+
+Each ton of coal provides about 27 gigajoules of energy, or 0.027 TJ.
+
+$$\frac{4 \times 10^9 \ tons}{1 \ year} \cdot \frac{0.027 \ TJ}{1 \ ton} \cdot \frac{1 \ year}{365 \cdot 24 \cdot 60 \cdot 60 \ sec} = 3.424 \ TW$$
+
+What percentage of humanity's average power consumption is this?
 
 
 
