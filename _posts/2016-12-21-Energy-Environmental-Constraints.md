@@ -250,6 +250,13 @@ $$\frac{23}{103} = 22%$$
 
 The Tesla Model S has an 85 kWh battery; a standard car has a 60 liter gas tank. How many times as much energy can the standard car’s gas tank hold than the Tesla’s battery?
 
+$$60 \ liters \cdot \frac{9.75 \ kWh}{1 \ liter}  = 585 \ kWh$$
+
+Since the battery holds 85 kWh, the gas tank holds (585 / 85) = 6.88 times as much energy as the battery.
+
+0.035*278 = 9.73
+
+
 
 
 
