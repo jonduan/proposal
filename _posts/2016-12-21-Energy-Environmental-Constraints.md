@@ -258,13 +258,20 @@ Since the battery holds 85 kWh, the gas tank holds (585 / 85) = 6.88 times as mu
 
 
 
+###### Electric and Combustion Engine Ranges
+
+
+It’s also worth noting that the Tesla’s electric motor is much more efficient than a standard internal combustion engine. The Tesla only takes 0.17 kWh to go 1 km, while a standard car takes 1 kWh to go 1 km. How much larger is the range of the car than the Tesla? Use the values from the previous problem to help you solve this one.
+
+(The "range" is the distance a car can travel on a full tank of fuel or a full charge. Use the values from the previous problem).
 
 
 
 
+$$\frac{ 585 \ kWh \cdot \frac{1 \ km}{1 \ kWh} }{ 85 \ kWh \cdot \frac{1 \ km}{0.17 \ kWh} } = 1.17$$
 
 
-
+The regular car only travels 17% farther than the Tesla, despite having almost 7 times as much energy stored in its tank.
 
 
 
