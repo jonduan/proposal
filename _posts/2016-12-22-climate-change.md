@@ -88,7 +88,11 @@ Fundamentally, the reason why these gases interact more strongly with radiation 
 complex in their structure.
 
 
-
+Tyndall's essential results. Oxygen and nitrogen, although they make up close to 98% of
+the atmosphere, are almost entirely transparent to solar and terrestrial radiation. But water vapor,
+carbon dioxide, nitrous oxide, and a handful of other trace gases make the lower atmosphere nearly
+opaque to infrared radiation, though still largely transparent to solar radiation. But clouds have a strong
+effect on radiation at all wavelengths.
 
 
 
