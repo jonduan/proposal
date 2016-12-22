@@ -161,7 +161,9 @@ Fossil fuels first overtook biomass (mostly trees and crops) as England's primar
 
 #### 
 energy unit
-efficiency   0< <1
+ - efficiency   0< <1
 
 energy service
-efficacy  liter per kilometer
+ - efficacy  liter per kilometer
+
+
