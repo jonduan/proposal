@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Politics and Economics of international energy
 category: energy
