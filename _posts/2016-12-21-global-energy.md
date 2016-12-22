@@ -81,8 +81,3 @@ energy mix of renewable
 
 Number of people without access to electricity in rural areas
 in the New Policies Scenario
-
-
-
-
-
