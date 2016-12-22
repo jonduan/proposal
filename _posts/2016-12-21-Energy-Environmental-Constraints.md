@@ -296,9 +296,14 @@ $$\frac{ 35 \ GJ / \ m^3 }{ 0.04 \ GJ / m^3 } = 875$$
 
 Natural gas has a lot of energy per mass, but its low density means that oil carries 875 times as much energy per volume. This means that natural gas vehicles need to compress the gas substantially, storing at high pressure to keep its volume low.
 
+###### The Power of Humanity
+ 
+In 2015 humanity used 570 EJ of energy. What average power does this represent?
 
 
-
+Watts are joules per second. If we want an answer in terrawatts, we can convert our one-year amount of energy to terrajoules and divide by the number of seconds in a year.
+570 EJ1 year⋅106 TJ1 EJ⋅1 year365⋅24⋅60⋅60=18 TW
+ 
 
 
 
