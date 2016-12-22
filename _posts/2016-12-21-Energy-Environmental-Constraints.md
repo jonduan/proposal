@@ -237,7 +237,7 @@ $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 EJ = 1000PJ = 1000,000GJ
 Exajoules 
 Petajoules
-
+gigajoule
 
 
 
