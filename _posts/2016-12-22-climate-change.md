@@ -50,6 +50,21 @@ Stefan-Boltzmann Equation:
 Disposition of Solar Radiation:
 
 
+Absorption per unit area
+
+
+Terrestrial Radiation:
+
+Effective emission temperature:
+
+
+
+
+
+
+
+
+
 
 
 
