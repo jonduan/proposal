@@ -95,7 +95,11 @@ opaque to infrared radiation, though still largely transparent to solar radiatio
 effect on radiation at all wavelengths.
 
 
-
+Atmosphere transparent to solar radiation
+Atmosphere opaque to infrared radiation
+Infrared emission from surface and each layer
+In this model, the surface receives as much radiation from
+the atmosphere as it does directly from the sun
 
 
 
