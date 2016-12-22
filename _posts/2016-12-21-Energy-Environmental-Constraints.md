@@ -274,6 +274,7 @@ $$\frac{ 585 \ kWh \cdot \frac{1 \ km}{1 \ kWh} }{ 85 \ kWh \cdot \frac{1 \ km}{
 The regular car only travels 17% farther than the Tesla, despite having almost 7 times as much energy stored in its tank.
 
 
+###### Energy Density Comparison (Mass)
 
 How much more energy-dense is oil than coal, in energy per weight?
 
@@ -283,6 +284,13 @@ We set this up as a fraction, with oil on top and coal on the bottom. We could u
 
 
 Pound-for-pound, oil provides 70% more energy than coal.
+
+
+###### Energy Density Comparison (Volume)
+
+
+
+
 
 
 
