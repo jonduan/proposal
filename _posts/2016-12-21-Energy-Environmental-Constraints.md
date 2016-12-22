@@ -242,10 +242,10 @@ gigajoule
 In 2013 the US consumed 840 million metric tons of coal, and used 103 EJ of energy overall. What fraction of the total US primary energy supply was from coal?
 
 
+$$840 \times 10^6 \ tons \ coal \cdot \frac{27.5 \ GJ}{1 \ ton} \cdot \frac{1 \ EJ}{10^9 \ GJ} = 23 \ EJ$$
 
 
-
-
+$$\frac{23}{103} = 22%$$
 
 
 
