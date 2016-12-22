@@ -234,7 +234,7 @@ $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 
 1 MMBTU = 1,000,000 BTU
 
-EJ = 1000PJ = 1000000TJ =  1000,000,000GJ
+EJ = 1,000PJ = 1000,000TJ =  1000,000,000GJ
 Exajoules 
 Petajoules
 gigajoule
