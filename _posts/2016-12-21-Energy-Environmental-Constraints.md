@@ -305,6 +305,11 @@ Watts are joules per second. If we want an answer in terrawatts, we can convert 
 570 EJ1 year⋅106 TJ1 EJ⋅1 year365⋅24⋅60⋅60=18 TW
  
 
+$$\frac{570 \ EJ}{1 \ year} \cdot \frac{10^6 \ TJ}{1 \ EJ} \cdot \frac{1 \ year}{365 \cdot 24 \cdot 60 \cdot 60} = 18 \ TW$$
+
+
+
+
 
 
 
