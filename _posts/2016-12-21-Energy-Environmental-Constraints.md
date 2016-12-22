@@ -275,11 +275,11 @@ The regular car only travels 17% farther than the Tesla, despite having almost 7
 
 
 
+How much more energy-dense is oil than coal, in energy per weight?
 
+We set this up as a fraction, with oil on top and coal on the bottom. We could use any measurement of energy density: for instance, joules per gram, kWh per ton, or even BTUs per pound. We've chosen to use gigajoules per kilogram.
 
-
-
-
+\frac{ 0.046 \ GJ / \ kg }{ 0.027 \ GJ / kg } = 1.70
 
 
 
