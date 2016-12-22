@@ -59,7 +59,9 @@ Effective emission temperature:
 
 
 
-
+in the absence of the atmosphere the earth's surface temperature
+would average about minus 18 degrees centigrade, which can be compared to the observed
+temperature of about plus 15 degrees C.
 
 
 Observed average surface temperature = 288K =15°C
