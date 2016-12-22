@@ -234,7 +234,7 @@ $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 
 1 MMBTU = 1,000,000 BTU
 
-EJ = 1000PJ = 1000,000,000GJ
+EJ = 1000PJ = 1000000TJ =  1000,000,000GJ
 Exajoules 
 Petajoules
 gigajoule
@@ -302,7 +302,7 @@ In 2015 humanity used 570 EJ of energy. What average power does this represent?
 
 
 Watts are joules per second. If we want an answer in terrawatts, we can convert our one-year amount of energy to terrajoules and divide by the number of seconds in a year.
-570 EJ1 year⋅106 TJ1 EJ⋅1 year365⋅24⋅60⋅60=18 TW
+
  
 
 $$\frac{570 \ EJ}{1 \ year} \cdot \frac{10^6 \ TJ}{1 \ EJ} \cdot \frac{1 \ year}{365 \cdot 24 \cdot 60 \cdot 60} = 18 \ TW$$
