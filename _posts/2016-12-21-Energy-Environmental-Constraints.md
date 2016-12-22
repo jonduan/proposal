@@ -290,7 +290,7 @@ Pound-for-pound, oil provides 70% more energy than coal.
 
 
 One challenge for running vehicles on natural gas is gas’ low volumetric energy density. How many times as much energy does gasoline have compared to natural gas, per volume (at standard temperature and pressure)?
-
+We set this up as a fraction, with gasoline on top and natural gas on the bottom. 
 
 $$\frac{ 35 \ GJ / \ m^3 }{ 0.04 \ GJ / m^3 } = 875$$
 
