@@ -65,7 +65,7 @@ Effective emission temperature:
 Observed average surface temperature = 288K =15°C
 
 
-
+The planetary energy balance represents a balance between the radiative inputs and outputs of the entire Earth system. There may be non-radiative fluxes between the individual components of the system, such as the atmosphere or solid Earth.
 
 
 
