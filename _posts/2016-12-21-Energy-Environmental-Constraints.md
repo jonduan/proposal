@@ -248,6 +248,9 @@ $$840 \times 10^6 \ tons \ coal \cdot \frac{27.5 \ GJ}{1 \ ton} \cdot \frac{1 \ 
 $$\frac{23}{103} = 22%$$
 
 
+The Tesla Model S has an 85 kWh battery; a standard car has a 60 liter gas tank. How many times as much energy can the standard car’s gas tank hold than the Tesla’s battery?
+
+
 
 
 
