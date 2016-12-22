@@ -211,7 +211,7 @@ $$\frac{$0.2}{1 \ therm} \cdot \frac{9.48043 \ therms}{1 \ GJ} = $1.90 \ per \ G
 Electricity costs $.2/kWh and natural gas costs $12/MMBTU for residential consumers in Massachusetts, where David and Daniel live.
 Which is cheaper on an energy basis?
 
-Gas is cheaper. It costs = $11/GJ, while gas costs = $56/GJ.
+Gas is cheaper. It costs = $11/GJ, while electricity costs = $56/GJ.
 
 
 $$\frac{$0.2}{1 \ kWh} \cdot \frac{277.778 \ kWh}{1 \ GJ} = $56 \ per \ GJ$$
@@ -219,6 +219,12 @@ $$\frac{$0.2}{1 \ kWh} \cdot \frac{277.778 \ kWh}{1 \ GJ} = $56 \ per \ GJ$$
 
 
 $$\frac{$12}{1 \ therm} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $11 \ per \ GJ$$
+
+
+
+The International Energy Agency says Russia used ~60,000 PJ (Petajoules) of primary energy in 2013. The Energy Information Administration says the US used 98 Quadrillion BTU of primary energy in that same year. Which country used more energy? 
+
+
 
 
 
