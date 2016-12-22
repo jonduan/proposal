@@ -218,11 +218,16 @@ $$\frac{$0.2}{1 \ kWh} \cdot \frac{277.778 \ kWh}{1 \ GJ} = $56 \ per \ GJ$$
 
 
 
-$$\frac{$12}{1 \ therm} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $11 \ per \ GJ$$
+$$\frac{$12}{1 \ MMBTU} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $11 \ per \ GJ$$
 
 
 
 The International Energy Agency says Russia used ~60,000 PJ (Petajoules) of primary energy in 2013. The Energy Information Administration says the US used 98 Quadrillion BTU of primary energy in that same year. Which country used more energy? 
+
+
+The US did. Russia used 60 Exajoules; the US used 103 Exajoules.
+
+$$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 
 
 
