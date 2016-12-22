@@ -161,7 +161,7 @@ Fossil fuels first overtook biomass (mostly trees and crops) as England's primar
 
 #### 
 energy unit
- - efficiency   0< <1
+ - efficiency   0< efficiency <1
 
 energy service
  - efficacy  liter per kilometer
@@ -171,17 +171,22 @@ energy service
 The proper order is: Primary Energy (where it enters the economy), Final Energy (where it is purchased), Useful Energy (where it is used), and, last, Energy Services (the things that are done with the energy).
 
 
-Learning Objectives
+##### Learning Objectives
 
 Be able to convert units; basic physical science conversions like BTU to joules, and conversions of quantities of fossil fuels to their energy content
+
 Be able to read Sankey diagrams to understand the flow of energy through modern economies
-Know the difference between primary, final, and useful energy, and energy services
-Know the difference between energy efficiency and energy efficacy, and the ambiguities in determining how much energy is “wasted” throughout the economy
-Be able to look up Sankey diagrams for different countries for the past several decades, and make comparisons about how much energy was used, of what kind, and for what purposes
-Know major trends that apply in most countries, like how coal is mostly used for electricity generation and oil is mostly used for transportation
+  Know the difference between primary, final, and useful energy, and energy services
+  Know the difference between energy efficiency and energy efficacy, and the ambiguities in determining how much energy is “wasted” throughout the economy
+  Be able to look up Sankey diagrams for different countries for the past several decades, and make comparisons about how much energy was used, of what kind, and for what purposes
+  Know major trends that apply in most countries, like how coal is mostly used for electricity generation and oil is mostly used for transportation
+
 Know some major international trends, like the dominance of oil and gas in Middle Eastern energy systems, and the heavy reliance on traditional biomass in developing countries in Africa
+
 Know which energy commodities are most commonly traded internationally, and some of the major importers and exporters
+
 Be able to look up energy prices and consumption for some countries and regions
+
 Be familiar with transitions of energy systems over the past 1000 years, from biomass-dominated societies to today’s fossil fuel powered economies
 
 
