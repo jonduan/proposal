@@ -72,7 +72,7 @@ The planetary energy balance represents a balance between the radiative inputs a
 ##### Part I: Introduction and history of the Earth's climate > A little climate physics > The greenhouse effect
 
 
-
+The greenhouse effect is a result of the ability of the atmosphere to absorb radiation emitted by the surface (and other parts of the atmosphere) thus preventing its escape to space. In equilibrium, incoming radiation must match outgoing radiation. This equilibrium is achieved with a warmer surface temperature in the presence of the greenhouse effect of the atmosphere.
 
 
 
