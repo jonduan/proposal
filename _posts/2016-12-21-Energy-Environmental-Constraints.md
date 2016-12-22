@@ -192,3 +192,16 @@ Be familiar with transitions of energy systems over the past 1000 years, from bi
 ##### Energy Overview > Introduction and the Units of Energy > Units and Conversions
 
 A quick note on "heating values."  Fossil fuels contain some water, and whenever they're combusted some of the released energy is used to turn that water into steam (and thus isn't available to power an engine or generator).  Advanced combustion systems can capture that steam and condense it back to water, capturing the lost energy and getting close to 100% of the available energy from combustion.  Simpler combustion systems don't do this, and thus lose ~5-10% of the available energy.  So when listing the heat of combustion for fossil fuels (amount of energy released from combustion), most sources will list a "lower heating value" for simple systems without condensers, and "higher heating values" for systems with condensers.  In this course we generally use HHV's, since most power plants and large industrial energy infrastructure use condensers (and they're even becoming common on home furnaces).
+
+Gas vs. Coal
+
+In the US in 2016, coal costs $1.6/MMBTU (1 MMBTU = 1,000,000 BTU) and gas costs $.2/therm. Which is cheaper?
+
+Coal is cheaper. It costs = $1.5/GJ, while gas costs = $1.9/GJ.
+
+
+$$\frac{$1.6}{1 \ MMBTU} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $1.51 \ per \ GJ$$
+
+
+$$\frac{$0.2}{1 \ therm} \cdot \frac{9.48043 \ therms}{1 \ GJ} = $1.90 \ per \ GJ$$
+
