@@ -75,10 +75,17 @@ The planetary energy balance represents a balance between the radiative inputs a
 The greenhouse effect is a result of the ability of the atmosphere to absorb radiation emitted by the surface (and other parts of the atmosphere) thus preventing its escape to space. In equilibrium, incoming radiation must match outgoing radiation. This equilibrium is achieved with a warmer surface temperature in the presence of the greenhouse effect of the atmosphere.
 
 
+that molecular oxygen and
+nitrogen, which together comprise about 97% of the mass of the atmosphere are transparent to solar
+and infrared radiation.
 
 
-
-
+Tyndall discovered that certain trace gases interact strongly with radiation. Principally, these gases are
+water vapor-- H2O, which we saw before-- is variable but on average comprises about 0.25% of the
+atmosphere-- carbon dioxide, whose concentrations are measured in hundreds of parts per million--
+and methane.
+Fundamentally, the reason why these gases interact more strongly with radiation is that they are more
+complex in their structure.
 
 
 
