@@ -33,12 +33,20 @@ Observations of seasonal and other variability in the climate system
 
 Nitrogen and Oxygen account for 78 % and 21 % of the atmoshere respectively.
 
+#### Part I: Introduction and history of the Earth's climate > A little climate physics > Planetary energy balance
 Elements of Thermal Balance:
 Solar Radiation
 Luminosity: 3.9 x 1026 J s-­1 = 6.4 x 107 Wm-­2
 at top of photosphere
 Mean distance from earth: 1.5 x 1011 m
 Flux density at mean radius of earth 1370 
+
+
+Stefan-Boltzmann Equation:
+
+
+
+
 
 
 
