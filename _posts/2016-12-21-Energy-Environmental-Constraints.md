@@ -234,10 +234,15 @@ $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 
 1 MMBTU = 1,000,000 BTU
 
-EJ = 1000PJ = 1000,000GJ
+EJ = 1000PJ = 1000,000,000GJ
 Exajoules 
 Petajoules
 gigajoule
+
+In 2013 the US consumed 840 million metric tons of coal, and used 103 EJ of energy overall. What fraction of the total US primary energy supply was from coal?
+
+
+
 
 
 
