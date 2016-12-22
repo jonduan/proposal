@@ -18,7 +18,7 @@ Measurements from ice-cores and other proxies for temperature and ice-volume.
 The last 2 million years of Earth's climate have been characterized by alternating cool and warm periods called glacials and interglacials respectively. The figure below shows estimates of the temperature from two ice-core proxies, and an estimate of global ice volume for the past 450 thousand years. 
 
 
-#### Part I: Introduction and history of the Earth's climate > A little climate physics > Introduction to climate physics
+##### Part I: Introduction and history of the Earth's climate > A little climate physics > Introduction to climate physics
 
 
 introduce the concept of planetary energy balance, and begin to understand the properties of the Earth-system that may affect it. Specifically, the module includes the following parts:
@@ -33,7 +33,7 @@ Observations of seasonal and other variability in the climate system
 
 Nitrogen and Oxygen account for 78 % and 21 % of the atmoshere respectively.
 
-#### Part I: Introduction and history of the Earth's climate > A little climate physics > Planetary energy balance
+##### Part I: Introduction and history of the Earth's climate > A little climate physics > Planetary energy balance
 
 Elements of Thermal Balance:
 Solar Radiation
