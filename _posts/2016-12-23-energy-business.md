@@ -1,6 +1,17 @@
 ---
 published: false
+layout: post
+title: Global energy business
+category: energy
+tags:
+  - energy
+  - business
+  - global
 ---
-## A New Post
+## Fundamentals of Global Energy Business
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+[Fundamentals of Global Energy Business](https://www.coursera.org/learn/energy-business). 
+
+
+
+
