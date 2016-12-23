@@ -29,5 +29,12 @@ energy density relative to gasoline
 
 levelized captital cost
 
+Fixed O M
+
+Varialbe O M 
+
+tRANSIMISSION INVESTMENT
+
+
 
 
