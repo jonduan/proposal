@@ -19,8 +19,12 @@ tags:
 
 energy density relative to gasoline
 
-
+per volumn
       battery types-compressed hydrogen gas - cooled liquid hydrogen - compressed natural gas - methanol - ethanol -liquefied natural gas-compressed propane- gasoline - diesel
+
+per unit mass
+
+compressed hydrogen gas 
 
 
 ##### Cost of energy from primary sources
@@ -42,6 +46,7 @@ NG
 
 NG
 
+NG
 
 Conventional coal
 
