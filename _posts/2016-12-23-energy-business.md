@@ -17,4 +17,7 @@ tags:
 ### Energy content
 
 
+energy density relative to gasoline
 
+
+     natural gas - methanol - ethanol -liquefied natural gas-compressed propane- gasoline - diesel
