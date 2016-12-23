@@ -26,6 +26,8 @@ energy density relative to gasoline
 ##### Cost of energy from primary sources
 
 ###### Cost type
+
 levelized captital cost
+
 
 
