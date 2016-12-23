@@ -40,7 +40,7 @@ tRANSIMISSION INVESTMENT
 
 NG
 
-ng
+NG
 
 
 Conventional coal
