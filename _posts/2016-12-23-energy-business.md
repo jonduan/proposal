@@ -38,5 +38,14 @@ tRANSIMISSION INVESTMENT
 
 ###### Cost
 
+NG
 
+ng
+
+
+Conventional coal
+
+wind - offshore
+
+solar thermal
 
