@@ -21,3 +21,8 @@ energy density relative to gasoline
 
 
       battery types-compressed hydrogen gas - cooled liquid hydrogen - compressed natural gas - methanol - ethanol -liquefied natural gas-compressed propane- gasoline - diesel
+
+
+
+
+
