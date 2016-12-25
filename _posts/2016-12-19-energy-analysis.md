@@ -398,5 +398,11 @@ Attain an optimum investment planning.
 
 
 
+The question arises what factors, determining our energy supply and demand, are then so uncertain. 
 
+technological development in renewable energy and energy use technology
+market developments
+
+energy related policy
+potential of unconventional fossil energy sources
 
