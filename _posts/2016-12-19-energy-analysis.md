@@ -384,6 +384,18 @@ In the period 2004-2014, the generation of wind energy grew by 20 - 40% per year
 In the period 2004-2014, the generation of solar photovoltaic energy grew by more than 40% per year, in relative terms.
 
 
+##### Energy scenarios for the world
+
+As energy analyst you are hired by the United Nations to provide the World leaders with advice on how they should shape energy policy for the future, a future of renewable energy. In your first meeting with the Heads of State your plan is to convince them that energy scenarios are very important for you to do bring out a well grounded advice.
+
+
+various purposes for which scenarios can be useful. 
+Assess the impact of policy measures.
+Get insight on plausible futures.
+Estimate market opportunities.
+
+Attain an optimum investment planning.
+
 
 
 
