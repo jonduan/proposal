@@ -426,7 +426,9 @@ The World Energy Outlook by the International Energy Agency
 
 
 
+using the energy balance and two scenarios, we will explore the possible impacts of government policy to improve energy efficiency, implement and integrate renewables and discourage the use of fossil fuels.
 
+So, taking into account energy policies and the expected demand in 2030, how can the energy mix of Tudelftia's energy supply look like in 2030?
 
 
 
