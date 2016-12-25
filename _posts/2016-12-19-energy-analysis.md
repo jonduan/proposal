@@ -367,7 +367,7 @@ Is a 100% renewable energy supply plausible by 2050?
 
 The energy use coming from the commercial or service sector is strongly rising . This is especially the case for the developed countries
 
-
+Globally oil is the most important energy carrier. But due to the relatively high price, in comparison with coal and natural gas, the expected trend is that the use of oil will mainly focus on the transport sector and the petrochemical industry
 
 
 
