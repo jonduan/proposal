@@ -366,3 +366,8 @@ Is a 100% renewable energy supply plausible by 2050?
 ###### Trends in the Global energy use
 
 The energy use coming from the commercial or service sector is strongly rising . This is especially the case for the developed countries
+
+
+
+
+
