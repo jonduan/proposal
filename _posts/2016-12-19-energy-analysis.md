@@ -376,7 +376,11 @@ China has a major share in the Global coal use.
 However, the demand is expected to decrease as the economic growth in China is expected to decrease
 
 
+Currently our renewable energy supply is largely dominated by traditional biomass like wood for cooking. However the utilization of many new renewable energy sources, like wind and solar, is on the ... .
+
+In the period 2004-2014, the generation of wind energy grew by ...% per year, in relative terms.
 
 
+In the period 2004-2014, the generation of solar photovoltaic energy grew by ...% per year, in relative terms.
 
 
