@@ -350,3 +350,10 @@ This subsection contains two lectures. In the first lecture you will get a conci
 2004  - 2014 wind grew by 23% per year
 
 2004  - 2014 solar grew by 52% per year
+
+
+cenarios: possible pathways of how these trends may develop in the future.
+
+Why should we use energy scenarios and what do they tell us about our future energy demand and supply?
+
+Is a 100% renewable energy supply plausible by 2050?
