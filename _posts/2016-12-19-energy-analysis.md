@@ -352,7 +352,9 @@ This subsection contains two lectures. In the first lecture you will get a conci
 2004  - 2014 solar grew by 52% per year
 
 
-cenarios: possible pathways of how these trends may develop in the future.
+#### Week 3: Energy Analysis > 3.6 Trends and scenarios in the global energy use
+
+Scenarios: possible pathways of how these trends may develop in the future.
 
 Why should we use energy scenarios and what do they tell us about our future energy demand and supply?
 
