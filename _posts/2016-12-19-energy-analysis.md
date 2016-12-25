@@ -422,7 +422,7 @@ The World Energy Outlook by the International Energy Agency
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/e49b940884a461dc5095372cac37a5c2/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/rsz_flag-map_of_the_worldsvg_1.png)
 
 
-
+##### Week 3: Energy Analysis > 3.8 Our future energy supply
 
 
 
