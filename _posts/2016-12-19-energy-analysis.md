@@ -349,4 +349,4 @@ This subsection contains two lectures. In the first lecture you will get a conci
 
 2004  - 2014 wind grew by 23% per year
 
-
+2004  - 2014 solar grew by 52% per year
