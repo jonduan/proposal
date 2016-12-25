@@ -371,3 +371,6 @@ Globally oil is the most important energy carrier. But due to the relatively hig
 
 
 
+China has a major share in the Global coal use.
+
+However, the demand is expected to decrease as the economic growth in China is expected to decrease
