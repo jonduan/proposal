@@ -411,6 +411,10 @@ potential of unconventional fossil energy sources
 At the start of this task you decide to conduct a review of the existing scenario studies for our future energy demand and supply. You encounter a huge amount of scenarios from different organizations and for different purposes. In this field of energy scenarios, which is the most referred to set of scenarios?
 
 
+The World Energy Outlook by the International Energy Agency
+
+
+
 
 
 
