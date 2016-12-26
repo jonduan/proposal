@@ -81,7 +81,7 @@ oil price is globale decided since it is cheap and easy to move.
 
 The gas price is much lower in US than in Asia.
 
-
+The coal is between two conditions.
 
 
 
