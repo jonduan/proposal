@@ -58,6 +58,11 @@ Unlike in the USA, China uses about a third of its coal for industrial purposes.
 
 
 
+#### Energy Exports and Imports
+
+Here are the tables that Dr. Keith mentioned in his video, showing the number of exajoules of different energy types imported and exported by the top five countries across the world.
+
+
 | Oil Exports         | EJ   | Oil Imports         | EJ   |
 |---------------------|------|---------------------|------|
 | Saudi Arabia        | 16   | United States       | 16.5 |
