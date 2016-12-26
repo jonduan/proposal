@@ -36,6 +36,11 @@ Increase
 
 
 The change was from 41% to 49%, which is about a one-fifth increase.
+
+
+#### Japanese Coal Production
+
+Japan's coal mining industry has waned in recent decades after being unable to compete with cheap coal imports, to the point that the IEA's tool shows no local production in 2013 (though there is in fact a small amount). Scroll through the years 1973-2013 for Japan using the slider on the bottom of the page. You will see a steady decline in local coal production. What percentage of Japan's total coal supply came from local production in 1973?
  
 
 ###### World Electricity Growth
