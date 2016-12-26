@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The climate change
 category:
@@ -100,8 +100,3 @@ Atmosphere opaque to infrared radiation
 Infrared emission from surface and each layer
 In this model, the surface receives as much radiation from
 the atmosphere as it does directly from the sun
-
-
-
-
-
