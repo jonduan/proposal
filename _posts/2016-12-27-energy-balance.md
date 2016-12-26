@@ -99,3 +99,8 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 | Paraguay            | 0.17 | Brazil              | 0.14 |
 | Germany             | 0.12 | Netherlands         | 0.06 |
 | Czech Republic      | 0.06 | Finland             | 0.06 |
+
+
+
+
+
