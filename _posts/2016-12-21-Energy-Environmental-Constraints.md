@@ -376,6 +376,23 @@ Figure 1. This Sankey diagram of the US energy system in 2015 shows the flow of 
 We can use this to do some interesting calculations. For example, David mentioned that almost all coal in the US is used to generate electricity, but here we can see that a small amount is used for other purposes. What percentage is used for electricity? We can see that 14.3 Quads were used for electricity generation, out of 15.7 Quads used in total, or 90%. Another thing we can notice is the differences in electricity consumption between sectors – the Residential sector consumed 4.78 Quads, or 38% of the total 12.6 Quads of electricity generation, while the Transportation sector consumed only .03 Quads, .2% of the total generation.
 
 
+Total transportation use was 27.7 Quads; petroleum provided 25.4 Quads of that, which is about 92%.
+
+
+Total electricity generation use was 38 Quads; coal provided 14.3 Quads of that, which is about 38%.
+
+
+Total US primary energy was 97.5 Quads. Biomass provided 4.72, geothermal provided .224, wind provided 1.82, hydropower provided 2.39, nuclear provided 8.34, and solar provided .532. The total is about 18 Quads, which is also about 18% of the total.
+Remember that this chart uses the "accounting trick" David mentioned, where the primary energy from direct-to-electricity sources like hydro, wind, and solar is multiplied by 3 to represent the amount energy required from fossil fuels or nuclear power to generate the same amount of electricity.
+
+
+
+
+
+
+
+
+
 
 
 
