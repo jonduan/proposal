@@ -28,7 +28,7 @@ Figure 2. This Sankey diagram of the world's energy system in 2013 shows the flo
 
 
 
-####### Coal for Electricity Around the World
+###### Coal for Electricity Around the World
 
 Did coal's fraction of energy supplied for world electricity generation increase or decrease from 1990 until 2013? You can click on the "Power Station" box to see the composition of inputs to electricity generation.
 
@@ -49,3 +49,9 @@ How much did world electricity generation grow from 1990 to 2013? Look at the ac
 
 The change was from 1017 Mtoe to 2006 Mtoe, so the amount roughly doubled.
 
+
+
+
+Coal in the USA (and most industrialized nations) is used almost exclusively to generate electricity.
+
+Unlike in the USA, China uses about a third of its coal for industrial purposes.
