@@ -415,11 +415,16 @@ Increase
 The change was from 41% to 49%, which is about a one-fifth increase.
  
 
-World Electricity Growth
+###### World Electricity Growth
 
 How much did world electricity generation grow from 1990 to 2013? Look at the actual generation coming out of the power plants on the diagram.
 
 The change was from 1017 Mtoe to 2006 Mtoe, so the amount roughly doubled.
+
+
+
+
+
 
 
 
