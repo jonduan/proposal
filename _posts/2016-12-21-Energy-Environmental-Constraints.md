@@ -321,25 +321,39 @@ $$\frac{4 \times 10^9 \ tons}{1 \ year} \cdot \frac{0.027 \ TJ}{1 \ ton} \cdot \
 
 What percentage of humanity's average power consumption is this?
 
+According to the previous problem, the world as a whole used 18 TW in 2015, so China's coal consumption alone accounts for about 19% of that.
+
+
+$$\frac{3.424 \ TW}{18 \ TW} = 0.19$$
+
+
+##### Electric Car Battery Output
+
+The aforementiond Tesla car (85 kWh battery, 0.17 kWh per km) drives at 100 km/h. What is the power output from the battery at this speed?
+
+
+$$\frac{0.17 \ kW \cdot hours}{1 \ km} \cdot \frac{100 \ km}{1 \ hour} = 17 \ kW$$
+
+##### Food Power Input
+
+A person eats an 800 kcal meal in 20 minutes. What's the flux of energy into the person, in kW?
+
+
+Each kcal of energy is 4184 joules. Each joule per second is a watt, so we need to spread our total energy out over 20 minutes:
 
 
 
 
+$$\frac{800 \ kcal}{20 \ min \cdot 60 \ sec/min} \cdot \frac{4180 \ joules}{1 \ kcal} \cdot \frac{1 kJ}{1000 J} = 2.79 \ kW$$
 
 
+##### Gasoline Power Input
 
 
+A person fills up a car’s gas tank. It takes 3 minutes and they put in 585 kWh worth of gasoline. What was the flux of energy into the gas tank in kW?
+
+A kilowatt-hour is one kilowatt times one hour. We can divide the total energy in kWh by the number of hours that it takes to fuel up, and this will give us the number of kilowatts of gasoline flowing through the pump
 
 
-
-
-
-
-
-
-
-
-
-
-
+$$\frac{585 \ kW \cdot 1 \ hour \cdot \frac{3600 \ seconds}{ 1 \ hour}}{3 \ min \cdot \ \frac{60 \ sec}{1 \ min}} = \frac{585 \ kW \cdot \ 3600 \ sec}{180 \ sec}= 11700 \ kW$$
 
