@@ -357,3 +357,21 @@ A kilowatt-hour is one kilowatt times one hour. We can divide the total energy i
 
 $$\frac{585 \ kW \cdot 1 \ hour \cdot \frac{3600 \ seconds}{ 1 \ hour}}{3 \ min \cdot \ \frac{60 \ sec}{1 \ min}} = \frac{585 \ kW \cdot \ 3600 \ sec}{180 \ sec}= 11700 \ kW$$
 
+### Energy Overview > Follow the Sankey > Sankey Diagram
+
+Sankey 
+
+Here's a Sankey diagram for the US, produced by Lawrence Livermore National Laboratory. We used this to make the simplified US Sankey diagram you saw in the video lecture. It's in units of Quadrillion BTU ("Quads"). 1 Quad is slightly more than 1 EJ. Click on the image for a larger version.
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b71f3dfd6dc5d787c1a9abfac2feef0e/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/LLNL_sankey_2015.png)
+
+
+
+Figure 1. This Sankey diagram of the US energy system in 2015 shows the flow of energy from intitial resources like petroleum and coal, through conversions like electricity generation, and to end users, which are divided into four major sectors. As mentioned in the video lecture, take the numbers for "rejected energy" with a grain of salt. Source: LLNL.
+
+
+
+
+
+
