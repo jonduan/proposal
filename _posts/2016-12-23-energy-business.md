@@ -79,7 +79,10 @@ Since gas is much harder to transport than oil. Then there is no global gas mark
 
 oil price is globale decided since it is cheap and easy to move.
 
-The gas price is much lower in US than in Asian. 
+The gas price is much lower in US than in Asia.
+
+
+
 
 
 
