@@ -405,7 +405,7 @@ Figure 2. This Sankey diagram of the world's energy system in 2013 shows the flo
 
 
 
-Coal for Electricity Around the World
+####### Coal for Electricity Around the World
 
 Did coal's fraction of energy supplied for world electricity generation increase or decrease from 1990 until 2013? You can click on the "Power Station" box to see the composition of inputs to electricity generation.
 
