@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The world energy balance
 category: energy
@@ -110,9 +110,3 @@ Nearly all oil in the United States is used for transportation purposes, such as
 
 
 #### Energy Systems in Transformation
-
-
-
-
-
-
