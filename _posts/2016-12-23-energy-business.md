@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Global energy business
 category: energy
@@ -63,4 +63,4 @@ solar thermal
 
 
 
-##### 
+#####
