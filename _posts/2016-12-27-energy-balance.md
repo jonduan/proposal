@@ -55,3 +55,31 @@ The change was from 1017 Mtoe to 2006 Mtoe, so the amount roughly doubled.
 Coal in the USA (and most industrialized nations) is used almost exclusively to generate electricity.
 
 Unlike in the USA, China uses about a third of its coal for industrial purposes.
+
+
+
+| Oil Exports         | EJ   | Oil Imports         | EJ   |
+|---------------------|------|---------------------|------|
+| Saudi Arabia        | 16   | United States       | 16.5 |
+| Russia              | 10   | China               | 12   |
+| UAE                 | 5.5  | India               | 8    |
+| Iraq                | 5    | Japan               | 7.5  |
+| Nigeria             | 4.5  | Korea               | 5    |
+| Gas Exports         | EJ   | Gas Imports         | EJ   |
+| Russia              | 7    | Japan               | 5    |
+| Qatar               | 4.5  | Germany             | 2.5  |
+| Norway              | 4    | Italy               | 2    |
+| Turkmenistan        | 2    | China               | 2    |
+| Canada              | 2    | Korea               | 2    |
+| Coal Exports        | EJ   | Coal Imports        | EJ   |
+| Indonesia           | 12   | China               | 8.5  |
+| Australia           | 11   | India               | 7    |
+| Russia              | 4    | Japan               | 5.5  |
+| Colombia            | 2.5  | Korea               | 4    |
+| US                  | 2.5  | Germany             | 1.5  |
+| Electricity Exports | EJ   | Electricity Imports | EJ   |
+| Canada              | 0.18 | US                  | 0.2  |
+| France              | 0.17 | Italy               | 0.15 |
+| Paraguay            | 0.17 | Brazil              | 0.14 |
+| Germany             | 0.12 | Netherlands         | 0.06 |
+| Czech Republic      | 0.06 | Finland             | 0.06 |
