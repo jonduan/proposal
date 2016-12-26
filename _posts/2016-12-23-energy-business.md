@@ -76,3 +76,8 @@ Commodities have the same price almost everywhere - they are cheap to transport 
 
 Since gas is much harder to transport than oil. Then there is no global gas market, but only local market for gas. 
 
+
+oil price is globale decided. 
+
+
+
