@@ -179,4 +179,10 @@ Part 2. The carbon tax required is equal to the mitigation cost: it makes the tw
 *   The EIA's [detailed estimates of capital costs](http://www.eia.gov/forecasts/capitalcost/) for power plants in the US
 
 
+Distributed Generation Energy Technology Capital Cost
 
+http://www.nrel.gov/analysis/tech_cost_dg.html
+
+
+Distributed Generation Energy Technology Operations and Maintenance Costs
+http://www.nrel.gov/analysis/tech_cost_om_dg.html
