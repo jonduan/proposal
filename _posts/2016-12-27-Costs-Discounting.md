@@ -116,7 +116,7 @@ option value / opportunity cost
 
 #### Mitigation Cost
 
-
+The cost of mitigating pollution is the monetary cost for improving your production divided by the resulting reduction in pollution. Therefore, the correct answer is:
 $$\frac{Cost \ of \ Clean \ Option - Cost \ of \ Dirty \ Option}{Pollution \ of \ Dirty \ Option - Pollution \ of \ Clean \ Option}$$
 
 
