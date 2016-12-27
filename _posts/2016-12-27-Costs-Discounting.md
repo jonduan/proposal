@@ -111,7 +111,7 @@ sensitivity analysis/ change discount rate
 
 static analysis
 
-option value 
+option value / opportunity cost 
 
 
 
