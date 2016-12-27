@@ -42,7 +42,32 @@ for Utility Scale Electricity
 Generating Plants
 http://www.eia.gov/outlooks/capitalcost/pdf/updated_capcost.pdf
 
-It also simplifies levelized cost calculations, eliminating the need to explicitly divide by the capacity of the plant like Daniel did around 1:25 in the video above.  Let's try using it in the following problem.
+It also simplifies levelized cost calculations, eliminating the need to explicitly divide by the capacity of the plant like Daniel did around 1:25 .  
+
+###### Coal Plant LCOE
+
+Consider a coal plant with the following characteristics:
+
+Capital cost of $3200 per kW
+CCF of 0.13
+FOM costs of $105 per kW-year
+Fuel costs of $0.96 per GJ
+Utilization of 75% (about 6574 hours per year)
+VOM costs of $0.0042 per kWh
+Efficiency of 33%
+Part 1: What are the fixed costs in dollars per kilowatt-hour?
+
+
+Part 2: What are the variable costs in dollars per kilowatt-hour?
+
+Part 3: What is the total LCOE in dollars per kilowatt-hour?
+
+
+Part 4: Is the LCOE more sensitive to the capital cost or to the fuel cost? For example, does doubling the capital cost affect the LCOE more or less than doubling the fuel cost? Enter the word "capital" or "fuel". If the numbers are within 10% of each other, enter the word "same".
+
+
+Part 5: Let’s look at the effect of a carbon tax. The simplest way to do this is to add a price for carbon emissions to the cost of the fuel (coal). We’ll assume a commonly-discussed carbon tax of $20/tCO2. Looking at our Conversion Sheet, we can see that coal emits 90 kg of CO2/GJ; multiplying these emissions by $20/tCO2 gives us an additional $1.8 per GJ to add to the cost of the coal, almost tripling it! What’s the new LCOE with this carbon tax?
 
 
 
+Part 6: Would the same carbon tax have more or less of an effect on a natural gas plant? Enter the word "more" or "less". If the numbers are within 10% of each other, enter the word "same".
