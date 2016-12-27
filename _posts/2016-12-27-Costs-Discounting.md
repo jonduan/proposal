@@ -109,5 +109,9 @@ externality
 
 sensitivity analysis
 
+static analysis
+
+
+
 
 
