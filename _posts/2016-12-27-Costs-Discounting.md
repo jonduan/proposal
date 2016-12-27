@@ -22,3 +22,5 @@ The price of the furnace and the maintenance contract are both fixed costs. The 
 
 
 Capital Charge Factor
+
+$$CCF = \frac{rate}{ \left( 1 - ( 1 + rate )^{-years} \right) }$$
