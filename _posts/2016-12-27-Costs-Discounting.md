@@ -142,3 +142,8 @@ Since this figure is per kilogram, we must convert:
 
 $$\frac{$12.86}{1 \ kg} \cdot \frac{1000 \ kg}{1 \ ton} = $12863.31 \ per \ ton \ CO_2$$
 
+
+
+
+
+
