@@ -153,7 +153,14 @@ $$\frac{$12.86}{1 \ kg} \cdot \frac{1000 \ kg}{1 \ ton} = $12863.31 \ per \ ton 
 
 
 
+
 **Mitigation Cost for Biodiesel**
 
 
 Part 1. Imagine you have a diesel-powered car, and you can buy either diesel or biodiesel fuel (which is possible in some parts of the US). The cost of biodiesel is $37/GJ, and the biodiesel causes 20 kg CO2 emissions per GJ over its lifetime. The diesel costs $29/GJ and causes 80 kg CO2 emissions per GJ over its lifetime (4 times more!!). What is the cost of mitigation of choosing biodiesel?
+
+$$\frac{$37 - $29}{80 - 20} = $133.33 \ per \ ton \ CO_2$$
+
+
+
+Part 2. What carbon tax would be required to make the biodiesel cost the same as the diesel?
