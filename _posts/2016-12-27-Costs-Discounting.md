@@ -15,3 +15,7 @@ tags:
 ### Levelized Cost Definition
 The average cost of something over time.
 Levelized cost is a broadly useful measurement that can apply not only to energy, but also to other commodities and goods. However, it only gives us an idea of what something will cost over time - it doesn't tell us anything about (for example) how much pollution is involved.
+
+
+
+The price of the furnace and the maintenance contract are both fixed costs. The other costs - fuel, filters, and hour-based maintenance - will all depend on how much the furnace is used. This makes those variable costs rather than fixed costs.
