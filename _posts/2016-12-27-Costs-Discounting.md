@@ -134,6 +134,9 @@ Part 1. Since we are ignoring any maintenance costs, the levelized cost of elect
 
 $$\frac{$3,750,000}{30 \ kW} \cdot \frac{9 \%}{1 \ year} \cdot \frac{1 \ year}{964 \ hours} = $11.67 \ per \ kWh$$
 
+
+Part 2. What is the cost of mitigation (in $/tCO2) relative to coal electricity at $0.09/kWh and 0.9 kg CO2/kWh. You may assume the solar sidewalk causes 0 kg CO2 emissions/kWh.
+
 Part 2. The cost of mitigation is figured as follows:
 
 $$\frac{$11.67 - $0.09}{0.9 \ kg - 0 \ kg} = $12.86 \ per \ kg \ CO_2$$
@@ -147,3 +150,6 @@ $$\frac{$12.86}{1 \ kg} \cdot \frac{1000 \ kg}{1 \ ton} = $12863.31 \ per \ ton 
 **McKinsey Mitigation Cost Curve** 
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/ab47c49555df98858c27af3334b01491/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Mitigation_Cost_Curve_Figure.png)
+
+
+
