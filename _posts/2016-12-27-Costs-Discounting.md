@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Energy Costs and Discounting
 category: energy
