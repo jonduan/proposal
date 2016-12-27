@@ -98,7 +98,13 @@ One of the first obstacles encountered involves the vagaries of electrical power
 And no one has invented a means of storing that energy for very long, which means overwhelming gluts on some days and crippling shortages on others that require firing up old oil- and coal-burning power plants. That, in turn, undercuts the goal of reducing fossil-fuel emissions that have been linked to climate change.
 
 
+.....
 
+Last year, wind, solar and other nonfossil-fuel sources provided 22 percent of the power for Germany, but the country increased its carbon emissions over 2011 as oil- and coal-burning power plants had to close gaps in the evolving system, according to the German electricity association BDEW.
 
+“It is great that we have achieved such a high percentage of renewable energy,” said Michael Hüther, director of the Cologne Institute for Economic Research. “But there are negative repercussions that we are now beginning to feel and must be addressed by the next government.”
 
+.....
+The largely rural northern state of Schleswig-Holstein produces as much as 12,000 megawatts of power with new wind turbines and solar panels, but it can consume only about a sixth of that.
 
+“Schleswig-Holstein is a microcosm for all of Germany,” said Markus Lieberknecht of the grid operator Tennet. “Where energy was previously brought into the state and distributed to small communities, these communities are now producing the power, and we need to find a way to transmit it to the larger urban areas. Everything has been stood on its head.”
