@@ -164,3 +164,7 @@ $$\frac{$37 - $29}{80 - 20} = $133.33 \ per \ ton \ CO_2$$
 
 
 Part 2. What carbon tax would be required to make the biodiesel cost the same as the diesel?
+
+
+
+
