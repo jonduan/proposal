@@ -94,6 +94,8 @@ Part 5: Let’s look at the effect of a carbon tax. The simplest way to do this 
 
 $$$2.76 \ per \ GJ \rightarrow  $0.00994 \ per \ kWh$$
 
+The new LCoE is now $0.1136 per kWh.
+
 Part 6: Would the same carbon tax have more or less of an effect on a natural gas plant? Enter the word "more" or "less". If the numbers are within 10% of each other, enter the word "same".
 
 
