@@ -61,9 +61,14 @@ Part 1: What are the fixed costs in dollars per kilowatt-hour?
 
 $$\left( \frac{$3200}{1 \ kW} \cdot \frac{13\%}{1 \ year} + \frac{$105}{1 \ year} \right) \cdot \frac{1 \ year}{6574 \ hours} = $0.0792  \ per \ kWh$$
 
+1 GJ = 1000 MJ
+
 Part 2: What are the variable costs in dollars per kilowatt-hour?
 
 2. Variable Costs: Variable costs per kWh are taken up by the fuel and VOM. A fuel cost of $0.96 per GJ is equal to $0.00346 per kWh, but we must also account for the plant's efficiency.
+1 GJ = 277.77777777778 kWh
+
+
 
 
 
