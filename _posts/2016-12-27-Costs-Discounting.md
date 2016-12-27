@@ -63,6 +63,12 @@ $$\left( \frac{$3200}{1 \ kW} \cdot \frac{13\%}{1 \ year} + \frac{$105}{1 \ year
 
 Part 2: What are the variable costs in dollars per kilowatt-hour?
 
+2. Variable Costs: Variable costs per kWh are taken up by the fuel and VOM. A fuel cost of $0.96 per GJ is equal to $0.00346 per kWh, but we must also account for the plant's efficiency.
+
+
+
+
+
 Part 3: What is the total LCOE in dollars per kilowatt-hour?
 
 
