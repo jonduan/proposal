@@ -189,3 +189,6 @@ http://www.nrel.gov/analysis/tech_cost_om_dg.html
 
 Useful Life
 http://www.nrel.gov/analysis/tech_footprint.html
+
+
+http://www.nrel.gov/analysis/tech_cap_factor.html
