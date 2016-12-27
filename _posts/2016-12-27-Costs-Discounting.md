@@ -105,7 +105,7 @@ Part 6: Would the same carbon tax have more or less of an effect on a natural ga
 
 uncertainty
 
-externality 
+externality / carbon tax
 
 sensitivity analysis/ change discount rate
 
