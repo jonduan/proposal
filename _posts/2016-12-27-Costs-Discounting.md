@@ -117,6 +117,6 @@ option value / opportunity cost
 #### Mitigation Cost
 
 
-
+$$\frac{Cost \ of \ Clean \ Option - Cost \ of \ Dirty \ Option}{Pollution \ of \ Dirty \ Option - Pollution \ of \ Clean \ Option}$$
 
 
