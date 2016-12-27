@@ -165,6 +165,6 @@ $$\frac{$37 - $29}{80 - 20} = $133.33 \ per \ ton \ CO_2$$
 
 Part 2. What carbon tax would be required to make the biodiesel cost the same as the diesel?
 
-
+Part 2. The carbon tax required is equal to the mitigation cost: it makes the two options cost the same for consumers. A carbon tax less than 133.33/tCO2 would mean that biodiesel was not cost-competitive, and a carbon tax over 133.33/tCO2 would make biodiesel cheaper at the pump for consumers.
 
 
