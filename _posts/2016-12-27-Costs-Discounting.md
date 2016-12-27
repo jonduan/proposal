@@ -168,3 +168,15 @@ Part 2. What carbon tax would be required to make the biodiesel cost the same as
 Part 2. The carbon tax required is equal to the mitigation cost: it makes the two options cost the same for consumers. A carbon tax less than 133.33/tCO2 would mean that biodiesel was not cost-competitive, and a carbon tax over 133.33/tCO2 would make biodiesel cheaper at the pump for consumers.
 
 
+
+
+*   Two good readings on the complexities of cost (and benefit) analysis in the real world
+
+*   Sunstein (2013 The Real World of Cost Benefit Analysis, Harvard Public Law Working Paper 13-11 [http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199112](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2199112)
+* Stauffer (2006) Beware Capital Charge Rates [http://www.wingrg.com/uploads/Beware_Capital_Charge_Rates_April_2006.pdf](http://www.wingrg.com/uploads/Beware_Capital_Charge_Rates_April_2006.pdf)
+
+*   The National Renewable Energy Laboratory's [Levelized Cost Calculator](http://www.nrel.gov/analysis/tech_lcoe.html ) tool
+*   The EIA's [detailed estimates of capital costs](http://www.eia.gov/forecasts/capitalcost/) for power plants in the US
+
+
+
