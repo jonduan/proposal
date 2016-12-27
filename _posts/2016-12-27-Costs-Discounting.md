@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: post
 title: Energy Costs and Discounting
 category: energy
@@ -141,3 +141,9 @@ $$\frac{$11.67 - $0.09}{0.9 \ kg - 0 \ kg} = $12.86 \ per \ kg \ CO_2$$
 Since this figure is per kilogram, we must convert:
 
 $$\frac{$12.86}{1 \ kg} \cdot \frac{1000 \ kg}{1 \ ton} = $12863.31 \ per \ ton \ CO_2$$
+
+
+
+**McKinsey Mitigation Cost Curve** 
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/ab47c49555df98858c27af3334b01491/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Mitigation_Cost_Curve_Figure.png)
