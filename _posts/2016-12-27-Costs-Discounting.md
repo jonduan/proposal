@@ -68,7 +68,7 @@ Part 2: What are the variable costs in dollars per kilowatt-hour?
 2. Variable Costs: Variable costs per kWh are taken up by the fuel and VOM. A fuel cost of $0.96 per GJ is equal to $0.00346 per kWh, but we must also account for the plant's efficiency.
 1 GJ = 277.77777777778 kWh
 
-
+$$\frac{$0.00346}{1 \ kWh} \cdot \frac{1}{33 \%} + \frac{$0.0042}{1 \ kWh} = $0.0147 \ per \ kWh$$
 
 
 
