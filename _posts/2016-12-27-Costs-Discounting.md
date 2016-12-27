@@ -138,7 +138,7 @@ Part 2. The cost of mitigation is figured as follows:
 
 $$\frac{$11.67 - $0.09}{0.9 \ kg - 0 \ kg} = $12.86 \ per \ kg \ CO_2$$
 
+Since this figure is per kilogram, we must convert:
 
-
-
+$$\frac{$12.86}{1 \ kg} \cdot \frac{1000 \ kg}{1 \ ton} = $12863.31 \ per \ ton \ CO_2$$
 
