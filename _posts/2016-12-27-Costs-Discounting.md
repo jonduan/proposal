@@ -117,6 +117,28 @@ option value / opportunity cost
 #### Mitigation Cost
 
 The cost of mitigating pollution is the monetary cost for improving your production divided by the resulting reduction in pollution. Therefore, the correct answer is:
+
 $$\frac{Cost \ of \ Clean \ Option - Cost \ of \ Dirty \ Option}{Pollution \ of \ Dirty \ Option - Pollution \ of \ Clean \ Option}$$
+
+
+**Mitigation Cost in Energy Systems**
+
+
+Solar Sidewalk
+
+In 2014 the Netherlands installed the world’s first solar bike path. Let’s compute the cost of mitigation relative to electricity from coal. Of course, the sidewalk probably wasn’t intended to be a cost-effective electricity option. It's designed for qualitative rather than quantitative value, to raise awareness. However, there are real proposals to scale up this kind of technology to large numbers of sidewalks and roadways, so cost analysis is relevant.
+
+The project cost $3.75 million for ~30kW of installed capacity (based on typical 150W/m2 solar panels). Assume a CCF of 9%, and a utilization of 11% (probably generous for solar panels flat on the ground in the Netherlands). You may ignore all other costs.
+
+Part 1. Since we are ignoring any maintenance costs, the levelized cost of electricity from this sidewalk is based entirely on the capital cost, the CCF, and utilization:
+
+$$\frac{$3,750,000}{30 \ kW} \cdot \frac{9 \%}{1 \ year} \cdot \frac{1 \ year}{964 \ hours} = $11.67 \ per \ kWh$$
+
+Part 2. The cost of mitigation is figured as follows:
+
+$$\frac{$11.67 - $0.09}{0.9 \ kg - 0 \ kg} = $12.86 \ per \ kg \ CO_2$$
+
+
+
 
 
