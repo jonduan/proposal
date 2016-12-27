@@ -76,13 +76,23 @@ $$\frac{$0.00346}{1 \ kWh} \cdot \frac{1}{33 \%} + \frac{$0.0042}{1 \ kWh} = $0.
 
 Part 3: What is the total LCOE in dollars per kilowatt-hour?
 
+3. Total Cost is just the sum of the fixed and variable costs: $0.0792 + $0.0147 = $0.0939 per kWh.
+
 
 Part 4: Is the LCOE more sensitive to the capital cost or to the fuel cost? For example, does doubling the capital cost affect the LCOE more or less than doubling the fuel cost? Enter the word "capital" or "fuel". If the numbers are within 10% of each other, enter the word "same".
+
+
+4. The LCOE is more sensitive to changes in capital cost than to fuel cost.
+
 
 
 Part 5: Let’s look at the effect of a carbon tax. The simplest way to do this is to add a price for carbon emissions to the cost of the fuel (coal). We’ll assume a commonly-discussed carbon tax of $20/tCO2. Looking at our Conversion Sheet, we can see that coal emits 90 kg of CO2/GJ; multiplying these emissions by $20/tCO2 gives us an additional $1.8 per GJ to add to the cost of the coal, almost tripling it! What’s the new LCOE with this carbon tax?
 
 
+5. We use the same procedure as above, but with the price of the fuel increased.
+
+
+$$$2.76 \ per \ GJ \rightarrow  $0.00994 \ per \ kWh$$
 
 Part 6: Would the same carbon tax have more or less of an effect on a natural gas plant? Enter the word "more" or "less". If the numbers are within 10% of each other, enter the word "same".
 
