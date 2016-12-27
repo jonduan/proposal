@@ -186,3 +186,6 @@ http://www.nrel.gov/analysis/tech_cost_dg.html
 
 Distributed Generation Energy Technology Operations and Maintenance Costs
 http://www.nrel.gov/analysis/tech_cost_om_dg.html
+
+Useful Life
+http://www.nrel.gov/analysis/tech_footprint.html
