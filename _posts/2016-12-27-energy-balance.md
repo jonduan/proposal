@@ -115,3 +115,6 @@ Nearly all oil in the United States is used for transportation purposes, such as
 The US has significantly reduced its electricity generation from oil, and oil prices thus have LESS influence on US electricity prices.
 
 As we make less of our electricity from any one particular source, fluctuations in that source's cost will have less impact on the cost of electricity.
+
+
+
