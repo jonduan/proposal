@@ -57,6 +57,9 @@ VOM costs of $0.0042 per kWh
 Efficiency of 33%
 Part 1: What are the fixed costs in dollars per kilowatt-hour?
 
+1. Fixed Costs: Our fixed cost per kWh will be the financing for the plant plus the FOM costs, divided by the total time the plant operates.
+
+$$\left( \frac{$3200}{1 \ kW} \cdot \frac{13\%}{1 \ year} + \frac{$105}{1 \ year} \right) \cdot \frac{1 \ year}{6574 \ hours} = $0.0792  \ per \ kWh$$
 
 Part 2: What are the variable costs in dollars per kilowatt-hour?
 
