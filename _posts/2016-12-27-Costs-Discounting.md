@@ -96,10 +96,16 @@ $$$2.76 \ per \ GJ \rightarrow  $0.00994 \ per \ kWh$$
 
 The new LCoE is now $0.1136 per kWh.
 
-Part 6: Would the same carbon tax have more or less of an effect on a natural gas plant? Enter the word "more" or "less". If the numbers are within 10% of each other, enter the word "same".
+Part 6: Would the same carbon tax have more or less of an effect on a natural gas plant? 
 
 
 6. Less effect. Natural gas emits less CO2 per GJ of fuel (50 kg per GJ versus coal's 90 kg per GJ). Natural gas plants also tend to be more efficient than coal plants.
+
+###### Limits of LCOT
+
+uncertainty
+
+externality 
 
 
 
