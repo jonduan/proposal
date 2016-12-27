@@ -198,3 +198,5 @@ http://en.openei.org/apps/TCDB/
 
 
 http://en.openei.org/apps/TCDB/index.php?pMin=2009&pMax=2015&dMin=2009&dMax=2014&gf=h&ggt=c&l=n&ds=d&pub=&t=lcoe&ct=b
+
+http://en.openei.org/apps/TCDB/index.php?pMin=2009&pMax=2015&dMin=2009&dMax=2014&gf=h&ggt=c&pub=&t=capitalCost&ct=b
