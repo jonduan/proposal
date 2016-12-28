@@ -18,7 +18,11 @@ solar  fuel  > solar electric >  solar thermal 85%
 
 photovaltaics
 
+#### 
 
+1950 Bell lab , too expensive
+
+2010 cheap 
 
 
 
