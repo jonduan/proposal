@@ -24,11 +24,14 @@ photovaltaics
 
 1st generation
 simple, stable, 
+monocrystaline silicon solar cells
 2nd thin film solar cells
 unstable
 
 3rd. 
 unstable 
+polymer -> organic photovoltaics
+
 
 
 
