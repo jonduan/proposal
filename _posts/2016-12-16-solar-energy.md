@@ -14,6 +14,7 @@ How much power reaches the surface of the earth from the sun?
 
 1*10^5 TW
 
+solar  fuel  > solar electric >  solar thermal
 
 
 #### Solar now cheapest form of new electricity
