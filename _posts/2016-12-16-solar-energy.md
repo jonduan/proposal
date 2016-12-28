@@ -176,3 +176,5 @@ percentage of area: 14340 (km²) / 7663942 (km²) = 0.187 % of the total land ar
 #### Chinese solar industry
 
 http://blog.sina.com.cn/s/blog_49e098620102x3ob.html#
+
+http://weibo.com/ttarticle/p/show?id=2309404057621719052541
