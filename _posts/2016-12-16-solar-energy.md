@@ -22,6 +22,9 @@ photovaltaics
 
 1950 Bell lab , too expensive
 
+1st generation
+
+2nd thin film solar cells
 2010 cheap 
 
 
