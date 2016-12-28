@@ -25,7 +25,8 @@ photovaltaics
 1st generation
 
 2nd thin film solar cells
-instable
+unstable
+
 
 Amorphous silicon 
 
