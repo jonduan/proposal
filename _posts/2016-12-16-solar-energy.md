@@ -14,9 +14,11 @@ How much power reaches the surface of the earth from the sun?
 
 1*10^5 TW
 
-solar  fuel  > solar electric >  solar thermal
+solar  fuel  > solar electric >  solar thermal 85%
 
 photovaltaics
+
+
 
 
 
