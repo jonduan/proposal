@@ -10,6 +10,9 @@ tags:
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
+How much power reaches the surface of the earth from the sun?
+
+1*10^5 TW
 
 
 
