@@ -170,3 +170,9 @@ Let's make an estimation on how much land is required to produce the electricity
 Energy per area: 1900 (kWh/m²/year) *0.20 * 0.75 = 285 (kWh/m²/year); = 0.285 TWh/km²/year.
 total area: 4087 (TWh/year)/ 0.285 (TWh/km2/year) = 14340 km²
 percentage of area: 14340 (km²) / 7663942 (km²) = 0.187 % of the total land area.
+
+
+
+#### Chinese solar industry
+
+http://blog.sina.com.cn/s/blog_49e098620102x3ob.html#
