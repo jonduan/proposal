@@ -41,6 +41,10 @@ Amorphous silicon
 2010 cheap 
 
 ### ABBREVIATION 
+layer stacks of 
+
+Tandem
+
 
 #### Solar now cheapest form of new electricity
 A transformation is happening in global energy markets that’s worth noting as 2016 comes to an end: solar power, for the first time, is becoming the cheapest form of new electricity. By Tom Randall.
