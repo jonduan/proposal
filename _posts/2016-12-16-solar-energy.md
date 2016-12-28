@@ -23,12 +23,14 @@ photovaltaics
 1950 Bell lab , too expensive
 
 1st generation
-
+simple, stable, 
 2nd thin film solar cells
 unstable
 
 3rd. 
 unstable 
+
+
 
 
 Amorphous silicon 
