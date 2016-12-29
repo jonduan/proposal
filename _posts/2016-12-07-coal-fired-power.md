@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Shut down all coal-fired power plants
 category: background
@@ -127,6 +127,3 @@ Members, including the likes of Ethiopia, Marshall Islands and Bangladesh, agree
 
 
 Germany has said it is to cut its greenhouse gas emissions by up to 95 percent by 2050, the UK has pledged to wipe out coal power by 2025, and Chinese president Xi Jinping said China would continue its fight against global warming “whatever the circumstances", although it stressed the importance of cooperation with the US.
-
-
-
