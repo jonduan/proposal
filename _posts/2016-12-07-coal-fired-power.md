@@ -127,3 +127,16 @@ Members, including the likes of Ethiopia, Marshall Islands and Bangladesh, agree
 
 
 Germany has said it is to cut its greenhouse gas emissions by up to 95 percent by 2050, the UK has pledged to wipe out coal power by 2025, and Chinese president Xi Jinping said China would continue its fight against global warming “whatever the circumstances", although it stressed the importance of cooperation with the US.
+
+
+### 
+
+http://weibo.com/ttarticle/p/show?id=2309614050247096654685#related
+
+英国、澳大利亚和荷兰等国家，也已相继宣布了将在10年到15年里逐步淘汰煤炭的计划，但都没有芬兰这么坚决。
+
+尽管各国制定的计划不同，但正有越来越多的国家加入“去煤化”俱乐部。
+
+事实上，2015年，全球煤炭消费就迎来了有记录以来的最大跌幅。
+
+已连续出版65年的《BP世界能源统计年鉴》显示，2015年，全球煤炭消费降低了1.8%，远低于其2.1%的十年平均增长率。煤炭在全球一次能源消费中占比降至29.2%，刷新自2005年以来的最低纪录。
