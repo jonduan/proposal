@@ -173,3 +173,16 @@ http://weibo.com/ttarticle/p/show?id=2309614050247096654685#related
 石油和天然气，对外依存度高
 
 中国石油消费在一次能源消费中比例为18.6%，远低于32.9%的世界平均水平。即便如此，2015年，中国石油的对外依存度首次突破60%，达到60.6%；天然气对外依存度也上升至32.7%。
+
+![](http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/dingyue_nosdn_127_net/739b98f0ae2d190a4ff9d1900be5f1b5.png)
+
+
+
+
+
+
+
+
+
+
+
