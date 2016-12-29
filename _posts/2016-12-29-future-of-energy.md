@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The future of energy
 category: energy
