@@ -154,3 +154,7 @@ http://weibo.com/ttarticle/p/show?id=2309614050247096654685#related
 ![](http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/dingyue_nosdn_127_net/f901e0dd1cdc819763542b406d831088.png)
 
 “富煤，贫油，少气” ，是中国能源资源的鲜明特点。中国煤炭资源总量 5.9 万亿吨，占一次能源资源总量的94%，石油、天然气资源仅占 6%。
+
+
+
+![]()
