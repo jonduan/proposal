@@ -201,7 +201,9 @@ From the figure below, what is the global per capita electricity demand in 2009 
 
 
 
-
+From the figure we see that the total global electricity demand for 2009 was around 20000 TWh. The total world population is assumed to be around 7 billion. Therefore the per capita electricity demand would be 20,000∗109(kWh)/7∗109=2857kWh.
+When converting this to megajoules (MJ), remember that 1kWh=3.6MJ. Therefore the answer is 2857∗3.6=10,285MJ which is around 10,000MJ.
+Note that the average electricity consumption per day per person in the world is 7.8kWh. Remember cyclist Miguel Indurain from Practice Question 1.2.2? He would have to cycle at full speed (power of 0.5kW) for 15hours and 21minutes to generate the same amount of energy.
 
 
 
