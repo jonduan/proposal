@@ -34,7 +34,7 @@ The price of a PV system nowadays is about 1€/Wp.
 when a crystalline solar module is more efficient it means it needs less module area to produce the same amount of electricity. Less module area means less modules, less racking, less wiring and less installation costs.
 
 
-
+Solar has the least installed capacity and lowest capacity factor and has the highest capacity growth.
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
