@@ -143,6 +143,14 @@ interconnecting solar cells to make a solar module.
  Bypass diodes are connected across (in parallel to) a solar cell or a group of solar cells, but with a polarity opposite to that of the solar cell(s). The use of a bypass diode helps in bypassing one or multiple dysfunctional solar cell(s).
  
  
+ We have identical crystalline silicon solar cells available, with a short-circuit current of 3.5 A and an open-circuit voltage of 0.7 V at STC. If a PV module is formed by 60 crystalline silicon solar cells in series, what is the open-circuit voltage of the module, in volts, at STC? Assume that the interconnection losses are negligible.
+ 
+ If all the cells are in series, the voltage will be added to get the open-circuit voltage of the module.
+Voc = 0.7V*60 = 42V
+The short-circuit current of a solar module with all the solar cells in series is the same as the solar cell with the lowest current. At STC, that means that the short-circuit current will be 3.5 A.
+
+
+ 
  
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
