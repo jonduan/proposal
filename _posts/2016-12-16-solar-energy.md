@@ -8,6 +8,16 @@ tags:
   - renewable
 ---
 
+
+
+#### Week 6: Solar Energy > Intro - Solar Energy > Welcome to week 6
+https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/7bd261cdd99948168de61c0b530ec83c/9e97e68a218c41a398556d754113f484/
+
+
+
+
+
+
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
