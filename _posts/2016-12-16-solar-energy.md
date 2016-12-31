@@ -104,6 +104,14 @@ Although Perovskites have a lot of potential and a high intial efficiency on sma
 
  - The non-modular system costs can be a lot cheaper.
 
+reasons for people choose for mono-crystalline solar modules instead of multi-crystalline
+
+ - They look better aesthetically.
+ 
+ - The conversion efficiencies are often higher.
+ - The non-module costs can be cheaper.
+ - 
+ - 
 
 
 
