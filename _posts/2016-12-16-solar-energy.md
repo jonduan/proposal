@@ -17,6 +17,21 @@ an overview of PhotoVoltaics (PV).
 
 What is the status of the market of PV-technology? How does a PV-cell work and what are important components and design rules to design a PhotoVoltaic System?
 
+the production and installations of solar energy around the world and over time.
+
+how is solar doing compared to other renewable's? How cheap is solar at the moment and how will it evolve in the future?
+
+
+Most installed solar capacity is based on: Multi crystalline solar cells
+
+Most of the solar cell production was located in Japan in 2005 and in China and Taiwan in 2015.
+
+Nowadays the non-module costs in a systems are simular to module costs.
+The price of PV modules has dropped drastically the last decades.
+
+The price of a PV system nowadays is about 1€/Wp.
+
+when a crystalline solar module is more efficient it means it needs less module area to produce the same amount of electricity. Less module area means less modules, less racking, less wiring and less installation costs.
 
 
 
