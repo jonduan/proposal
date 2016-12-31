@@ -60,11 +60,15 @@ An ideal solar cell under illumination can be represented by a current source in
 
 
 In an IV curve of a solar cell the voltage is always at its maximum when the current is zero.
+
 In an IV curve of a solar cell the current is always at its maximum when the voltage is zero.
 
 The optimal operation power of a solar cell is calculated by multipling the Vmpp with the Impp.
 
 
+Calculate the maximum power (in W and three decimals) of a solar cell having current and voltage values of Impp = 3.5 A and Vmpp = 0.75 V, respectivily, at maximum power point.
+
+2.625
 
 
 
