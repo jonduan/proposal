@@ -59,6 +59,12 @@ a
 An ideal solar cell under illumination can be represented by a current source in parallel with a diode. The current source symbolizes the photogenerated current, and it is opposite to the forward current of the diode.
 
 
+In an IV curve of a solar cell the voltage is always at its maximum when the current is zero.
+In an IV curve of a solar cell the current is always at its maximum when the voltage is zero.
+
+The optimal operation power of a solar cell is calculated by multipling the Vmpp with the Impp.
+
+
 
 
 
