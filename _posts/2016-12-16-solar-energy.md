@@ -13,7 +13,11 @@ tags:
 #### Week 6: Solar Energy > Intro - Solar Energy > Welcome to week 6
 https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/7bd261cdd99948168de61c0b530ec83c/9e97e68a218c41a398556d754113f484/
 
-an overview of PhotoVoltaics (PV). What is the status of the market of PV-technology? How does a PV-cell work and what are important components and design rules to design a PhotoVoltaic System?
+an overview of PhotoVoltaics (PV). 
+
+What is the status of the market of PV-technology? How does a PV-cell work and what are important components and design rules to design a PhotoVoltaic System?
+
+
 
 
 
