@@ -262,7 +262,11 @@ a 24 hour period; and the seasonal fluctuations,
 which are the difference of irradiance across
 the summer and winter months.
 
+Significance of Amp hours
 
+Ba5ery efficiency
+
+Cycle life vs. DOD
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
