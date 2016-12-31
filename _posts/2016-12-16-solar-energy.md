@@ -88,7 +88,21 @@ What are the differences between thin film, crystalline silicon and III-V solar 
 
 
 
+In general solar cell efficiency records are higher at smaller scale
 
+Multi-junction III-V solar cells can achieve the highest efficiencies
+
+Thin film solar cells have efficiencies between 12-22%
+Although Perovskites have a lot of potential and a high intial efficiency on small scale they are still not 'better' than thin film silicon cells because they degrade after a short period of time making their effiency a lot lower.
+
+
+ the advantages of thin film solar cells compared to crystalline solar cells:
+ 
+ - Thin film modules can be made flexible.
+
+ - Less material is needed for the actual cell.
+
+ - The non-modular system costs can be a lot cheaper.
 
 
 
