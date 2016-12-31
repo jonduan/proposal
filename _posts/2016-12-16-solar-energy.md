@@ -119,7 +119,7 @@ reasons for people choose for mono-crystalline solar modules instead of multi-cr
  - III-V solar cells often make use materials that are not very abundant.
  
  
- - 
+
  - 
 
 #### Week 6: Solar Energy > 6.4 PV system components 
@@ -128,6 +128,11 @@ reasons for people choose for mono-crystalline solar modules instead of multi-cr
 The main components of a PV-system are, of course, solar cells.
 how multiple solar cells are combined to form a module and what the considerations are on how to orientate them.
 
+
+interconnecting solar cells to make a solar module. 
+
+ - The use of bypass diodes in a solar module can help in reducing the undesired effects of a dysfunctional solar cell. The bypass diode is connected in parallel to a solar cell but with a polarity opposite to that of the solar cell.
+ - The open-circuit voltage of a solar module with series connected solar cells is the sum of the open-circuit voltages of all the individual solar cells.
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
