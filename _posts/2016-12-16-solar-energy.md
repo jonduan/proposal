@@ -233,6 +233,20 @@ Module level inverters track the MPP for each panel, while string inverters trac
 Therefore, higher yields can be expected from module level inverter topology than string inverter topology; and higher yields can be expected from string inverter topology than central inverter topology.
 
 
+----
+requirement for an ideal solar inverter?
+
+
+A very high conversion efficiency.
+
+In-built MPP Tracking capability .
+A high lifetime.
+Detection and prevention capability against islanding.
+
+
+an ideal solar inverter has MPPT capability, high efficiency, a high lifetime and anti-islanding capabilities.
+Under grid failure, the PV system must stop feeding power into the grid, which may be dangerous to the utility workers and other appliances connected to the grid.
+
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
