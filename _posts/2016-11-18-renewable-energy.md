@@ -14,6 +14,8 @@ Useful data sources
 The website of the International Energy Agency offers useful data on countries. Go to countries. Select a country and then select statistics (you can find this under country links).
 http://www.iea.org/newsroom/news/2016/november/world-energy-outlook-2016.html
 
+http://www.iea.org/statistics/statisticssearch/report/?country=CANADA&product=renewablesandwaste&year=2014
+
 You can find a free downloadable report about the global status of renewable energy, broadly used by policymakers on the Ren21 website.
 
 http://www.ren21.net/status-of-renewables/global-status-report/
