@@ -122,7 +122,11 @@ reasons for people choose for mono-crystalline solar modules instead of multi-cr
  - 
  - 
 
+#### Week 6: Solar Energy > 6.4 PV system components 
 
+
+The main components of a PV-system are, of course, solar cells.
+how multiple solar cells are combined to form a module and what the considerations are on how to orientate them.
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
