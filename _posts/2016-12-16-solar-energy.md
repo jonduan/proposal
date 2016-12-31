@@ -211,10 +211,10 @@ PV panels
 
 Batteries are usually used either in stand-alone PV systems or in hybrid systems. If the system is grid-connected, the extra energy produced will be pumped into the grid, and when the PV production is not enough to cover the demand, power is withdrawn from the grid. In such a case, we could say that the grid acts as a kind of storage, and therefore batteries are not needed anymore.
 
+----
+Calculate the maximum power (in W) of a PV module with 60 cells that all have current and voltage values of Impp = 7 A and Vmpp = 0.65 V, respectivily, at maximum power point.
 
-
-
-
+Maximum power of 1 cell is: Impp * Vmpp = 7 (A) * 0.65 (V) = 4.55 W. It doesn't matter if the cells are in parallel or in series in both cases the maximum power of the module: 60 * 4.55 (W) = 273 W
 
 
 
