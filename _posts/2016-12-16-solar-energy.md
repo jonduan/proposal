@@ -194,6 +194,16 @@ If we consider a solar module of 250 watt-peak at Standard Test Conditions (1000
 ##### Week 1: Introduction to Solar Energy > 1.2 Energy Conversion > Energy Conversion
 burning fossil fuels (transforming chemical energy into thermal energy) has an efficiency of around 90%. The next step is to transform this heat into mechanical energy via e.g. a heat engine; the conversion efficiency goes up to 60%. Finally, using an electric generator with an efficiency of about 90% you can convert mechanical energy into electricity. In each step you lose some energy and combining these 3 efficiencies, you end up with 0.9*0.6*0.9=0.49 so a total conversion efficiency of 49%
 
+The figure below shows the global electricity demand by sector up to 2009 and projections to 2035 by the International Energy Agency (IEA) in its World Energy Outlook report. To express the energy need of human kind we are forced to use numbers so large we cannot comprehend their meaning. To get more feeling for these numbers, we are going to calculate the average energy consumption per person.
+
+From the figure below, what is the global per capita electricity demand in 2009 in megajoules (MJ)? Assume that the world population was 7 billion (7∗109) in 2009.
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/53e3686a95e9e916cf9f023db0a51b67/asset-v1:DelftX+ET3034x+2T2016+type@asset+block/globalelectricitydemand.png)
+
+
+
+
+
+
 
 
 
