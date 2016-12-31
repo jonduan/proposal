@@ -79,6 +79,17 @@ $$Efficiency=\frac{P_{out}}{P_{in}}$$
 Efficiency=Pout/Pin
 So the above panel has an efficiency of:  20 %.
 
+#### Week 6: Solar Energy > 6.3 PV technologies
+
+the current existing PV technologies and see how they are developing.
+
+What are the differences between thin film, crystalline silicon and III-V solar cells? What are multijunction solar cells? Can we make PV modules flexible and what can we expect from organic and perovskites based solar cells? 
+
+
+
+
+
+
 
 
 
