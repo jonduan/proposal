@@ -216,6 +216,22 @@ Calculate the maximum power (in W) of a PV module with 60 cells that all have cu
 
 Maximum power of 1 cell is: Impp * Vmpp = 7 (A) * 0.65 (V) = 4.55 W. It doesn't matter if the cells are in parallel or in series in both cases the maximum power of the module: 60 * 4.55 (W) = 273 W
 
+----
+the solar inverter topologies
+
+Module level (micro)inverters ensure a higher yield than string inverters when there are partially shaded arrays.
+
+Module level (micro)inverters are better suited to get the maximum power out of each PV module than compared to central inverters, especially when there are partially shaded arrays.
+
+
+String inverters ensure a higher yield than central inverters when there are partially shaded arrays.
+
+If the arrays are partially shaded, not all panels are under the same illumination. Under such a condition, maximum power can be extracted from the PV array if each panel is delivering maximum power pertaining to that illumination level. 
+
+Module level inverters track the MPP for each panel, while string inverters track the MPP for each string, and the central inverters track the MPP for the whole array. 
+
+Therefore, higher yields can be expected from module level inverter topology than string inverter topology; and higher yields can be expected from string inverter topology than central inverter topology.
+
 
 
 
