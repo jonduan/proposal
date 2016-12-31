@@ -37,6 +37,12 @@ when a crystalline solar module is more efficient it means it needs less module 
 Solar has the least installed capacity and lowest capacity factor and has the highest capacity growth.
 
 
+Longyangxia Dam Solar Park
+Installed capacity: 850 MWp
+
+
+
+
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
