@@ -36,9 +36,32 @@ when a crystalline solar module is more efficient it means it needs less module 
 
 Solar has the least installed capacity and lowest capacity factor and has the highest capacity growth.
 
+#### Week 6: Solar Energy > 6.2 How does a PV cell work?
+
+
+All solar cells are based on the same principle the Photo-voltaic effect.
+
 
 Longyangxia Dam Solar Park
 Installed capacity: 850 MWp
+
+
+**PN-junction**
+
+In n-type materials the electrons are the dominant charge carrier and in p-type the holes are. Electrons are collected at the n-type layer and holes at the p-type layer.
+
+the following circuits represents the equivalent circuit of an ideal solar cell under illumination
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/65ed5e32041a64d04decd449610fa6af/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/circuit_pv-cell.png)
+
+a
+
+An ideal solar cell under illumination can be represented by a current source in parallel with a diode. The current source symbolizes the photogenerated current, and it is opposite to the forward current of the diode.
+
+
+
+
+
 
 
 
