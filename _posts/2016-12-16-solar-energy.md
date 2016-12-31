@@ -135,7 +135,7 @@ interconnecting solar cells to make a solar module.
  
  - The open-circuit voltage of a solar module with series connected solar cells is the sum of the open-circuit voltages of all the individual solar cells.
  
- 
+----
  In a series connection, the voltages of the individual components add up but the current through the components remains the same. 
  
  In a parallel connection, the currents of the individual components add up but the voltage across them remains the same. 
@@ -147,11 +147,35 @@ interconnecting solar cells to make a solar module.
  
  If all the cells are in series, the voltage will be added to get the open-circuit voltage of the module.
 Voc = 0.7V*60 = 42V
+
 The short-circuit current of a solar module with all the solar cells in series is the same as the solar cell with the lowest current. At STC, that means that the short-circuit current will be 3.5 A.
 
+-----
+ A large crystalline silicon module consists of 54 cells. The open-circuit voltage of the module is 16.2 V. How are the cells connected in the module if the standard c-Si cell has an open circuit voltage of 0.6 V and short-circuit current of 3 A ?
+ 
+ 
+ Two strings, each string consisting of 27 cells connected in series. Both these strings are connected to each other in parallel.
+ 
+ 
+ If all the cells were connected in parallel, the currents would add up and the module voltage would be the same as the single-cell voltage. Therefore, we would measure a total voltage of 0.6V. If they were all in series, the voltage would add up, resulting in a total voltage of 54∗0.6=32.4V
+However, it is easy to realize that 16.2V=32.4V2. This means that we have two strings, each one consisting of 54/2=27 cells connected in series. In each string, the voltage adds up, so that we have 27∗0.6V=16.2V, and the string current is the same as the single cell current (3A). When the two strings are connected in parallel with each other, the total voltage equals to the single string voltage 16.2V) and the total current is the sum of the two single string currents 3A+3A=6A.
 
+
+----
  
- 
+A Solar enthousiast has a house in Ecuador and wants to place a PV system on it's roof. There is no shading of any trees or other surroundings. He can not change the orientation or tilt angle during the year.
+
+What will be the optimal tilt angle?
+ 0°
+What will be the optimal orientation?
+It doesn't matter
+Explanation
+Ecuador is at the equator of the earth that means that the sun will go straight over the sky (or with an altitude of 90 degrees). To place solar modules horizontally (with a tilt of 0 degrees) will be best. The orientation doesn't matter if the modules are horizontal.
+
+
+
+
+
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
