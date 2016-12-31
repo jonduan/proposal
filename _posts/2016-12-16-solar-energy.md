@@ -173,6 +173,12 @@ Explanation
 Ecuador is at the equator of the earth that means that the sun will go straight over the sky (or with an altitude of 90 degrees). To place solar modules horizontally (with a tilt of 0 degrees) will be best. The orientation doesn't matter if the modules are horizontal.
 
 
+----
+We will consider three locations: Vancouver, New Delhi and Buenos Aires. We want to install a solar system in these three locations at the adequate tilt and orientation. Please relate each location with the optimum tilt angle and orientation (North or South) of the given choices.
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/28fd6ce03d5f4e6b84a2bb847b125389/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Location_scheme.png)
+
+
+
 
 
 
