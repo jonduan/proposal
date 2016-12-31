@@ -191,6 +191,32 @@ Buenos Aires has a latitude in between, of 34º36', and therefore the tilt angle
 These angles and orientations also correspond with the ones explained in the video lecture.
 
 
+#### Week 6: Solar Energy > 6.5 Inverters and MPPT for PV systems 
+
+
+Inverters for PV systems 
+
+
+The different implementation topologies of inverters 
+
+maximum power point tracking.
+
+
+part of a pure grid-connected PV system
+
+Inverter
+
+Distribution panel
+PV panels
+
+Batteries are usually used either in stand-alone PV systems or in hybrid systems. If the system is grid-connected, the extra energy produced will be pumped into the grid, and when the PV production is not enough to cover the demand, power is withdrawn from the grid. In such a case, we could say that the grid acts as a kind of storage, and therefore batteries are not needed anymore.
+
+
+
+
+
+
+
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
