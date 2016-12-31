@@ -132,7 +132,18 @@ how multiple solar cells are combined to form a module and what the consideratio
 interconnecting solar cells to make a solar module. 
 
  - The use of bypass diodes in a solar module can help in reducing the undesired effects of a dysfunctional solar cell. The bypass diode is connected in parallel to a solar cell but with a polarity opposite to that of the solar cell.
+ 
  - The open-circuit voltage of a solar module with series connected solar cells is the sum of the open-circuit voltages of all the individual solar cells.
+ 
+ 
+ In a series connection, the voltages of the individual components add up but the current through the components remains the same. 
+ 
+ In a parallel connection, the currents of the individual components add up but the voltage across them remains the same. 
+ 
+ Bypass diodes are connected across (in parallel to) a solar cell or a group of solar cells, but with a polarity opposite to that of the solar cell(s). The use of a bypass diode helps in bypassing one or multiple dysfunctional solar cell(s).
+ 
+ 
+ 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
