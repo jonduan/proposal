@@ -252,6 +252,7 @@ Hydro(%)=9.696TWh∗365days/year/(20200TWh/year)∗100=17.5%
  
 Explanation
 The photon flux is the number of photons per unit area per unit time, thus:
+
 $$\phi=\frac{4*10^{18}}{0.002 m^2*1 s}=2*10^{21}s^{-1}m^{-2}$$
 
 ϕ=4∗10180.002m2∗1s=2∗1021s−1m−2
@@ -262,6 +263,9 @@ Calculate the irradiance in W/m2:
  
 Explanation
 The irradiance can be calculated as
+
+
+$$I=\phi *E_{photon}=\phi*\frac{hc}{\lambda}=2*10^{21}*\frac{6.626*10^{-34}*2.998*10^{8}}{500*10^{-9}}=794.59 W/m^2$$
 I=ϕ∗Ephoton=ϕ∗hcλ=2∗1021∗6.626∗10−34∗2.998∗108500∗10−9=794.59W/m2
 
 
