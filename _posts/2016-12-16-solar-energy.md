@@ -247,6 +247,21 @@ Detection and prevention capability against islanding.
 an ideal solar inverter has MPPT capability, high efficiency, a high lifetime and anti-islanding capabilities.
 Under grid failure, the PV system must stop feeding power into the grid, which may be dangerous to the utility workers and other appliances connected to the grid.
 
+#### Week 6: Solar Energy > 6.6 Storage for PV-systems
+
+If one wants to independent from the electricity grid (or simply doesn't have the choice) batteries for PV systems are the solution!
+
+explain the characteristics of the batteries used in PV systems. Efficiency, Depth of Discharge and cycle life will be considered as well.
+
+In case of PV systems, the intermittency of
+the source is of two kinds - diurnal fluctuations,
+
+which is the difference of irradiance during
+a 24 hour period; and the seasonal fluctuations,
+
+which are the difference of irradiance across
+the summer and winter months.
+
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
