@@ -178,7 +178,17 @@ We will consider three locations: Vancouver, New Delhi and Buenos Aires. We want
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/28fd6ce03d5f4e6b84a2bb847b125389/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Location_scheme.png)
 
 
-
+Explanation
+The coordinates of the three places are:
+Vancouver: 49º15'N
+New Delhi: 28º36'N
+Buenos Aires: 34º36'S
+According to these, the first two locations should have the panels facing South, while Buenos Aires is in the southern hemisphere, and therefore the panels should be facing North there.
+Once the orientation is fixed, the tilt must be calculated. The tilt is related to the latitude at which the site is located, meaning how close or how far these places are to the equator.
+Since New Delhi is the closest to the equator, the seasonal variations will be minimized and the sun will strike more vertically than in the other locations. This gives us the lowest tilt angle, 20º.
+The furthest location from the equator is Vancouver, and therefore, it will need the biggest tilt or 40º.
+Buenos Aires has a latitude in between, of 34º36', and therefore the tilt angle needed will be in between also, namely 30º.
+These angles and orientations also correspond with the ones explained in the video lecture.
 
 
 
