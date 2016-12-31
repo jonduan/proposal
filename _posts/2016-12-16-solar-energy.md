@@ -221,6 +221,24 @@ Looking at the graph presented in the lecture that introduces the cost/efficienc
 
 Note that current developments are progressing fast and the above figure is getting outdated. Currently, the price for the cheapest polycrystalline silicon modules is in the order of US$ 0.7/Wp.
 
+#### Week 1: Introduction to Solar Energy > 1.4 History of Solar Energy > History of Solar Energy
+
+
+Historical moments that range from the use of magnifying glasses or concentrating mirrors to make fire, to the contemporary achievements in solar cells.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #### Terms and abbreviations
 
