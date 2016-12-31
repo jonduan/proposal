@@ -110,6 +110,15 @@ reasons for people choose for mono-crystalline solar modules instead of multi-cr
  
  - The conversion efficiencies are often higher.
  - The non-module costs can be cheaper.
+ 
+ 
+ 
+ - III-V solar cells are very expensive.
+ - III-V solar cells are used in space applications.
+ - III-V solar cell often use multiple junctions techniques.
+ - III-V solar cells often make use materials that are not very abundant.
+ 
+ 
  - 
  - 
 
