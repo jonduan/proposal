@@ -594,6 +594,10 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
       
 Only solar and nuclear can supply enough
 
+A closer look at that power potential figure
+
+![](https://studio.edx.org/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block@Figure_8_power_potential.png)
+
 
 
 
