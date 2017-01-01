@@ -577,7 +577,7 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 0.8% solar  CF 15%, faster than projection due to China, miracle.
 
-3% wind, stage
+3% wind, stag.  
 
 17% hydro
 
@@ -590,6 +590,8 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
      
 2100: 5-15 kW/person 
       10 billion 
+      
+      
 
 
 
