@@ -416,6 +416,8 @@ Payback period
 
 
 LOCE 
+The levelized cost of electricity (LCOE) can be defined as the cost per kWh of electricity produced by a power generation project. It does not depend on the cost of electricity coming from the grid. In turn, it is used to compare the cost of electricity coming from the grid with the cost of the electricity coming from a PV system
+
 
 
 
