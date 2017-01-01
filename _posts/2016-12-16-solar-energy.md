@@ -410,7 +410,7 @@ Learn about the energy economic terms of grid parity and levelized cost of elect
 
 
 
-
+Payback period
 
 
 
