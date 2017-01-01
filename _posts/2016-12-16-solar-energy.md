@@ -303,11 +303,15 @@ Consider a lead-acid battery with 90 Ah capacity and a rated voltage of 12 V.
 What is the total capacity of energy in watt-hours that can be stored in the battery?
 The energy capacity of the battery = voltage * capacity = 12 V * 90 Ah = 1080 Wh.
 
+----
+How much time in minutes will it take for the battery to go from 40% State of Charge (SOC) to 100% SOC, assuming the battery is fully charged in two hours? You may assume a linear rate of charging.
 
+100% of the battery is charged in two hours. So 60% of the battery is charged in 60% * 2 hours = 72 minutes.
 
+----
 
-
-
+If the voltaic efficiency of the battery is 95%, and the coulombic efficiency of the battery is 80%, the roundtrip efficiency of storage in % for the battery is:
+Overall efficiency or roundtrip efficiency = Voltaic efficiency * coulombic efficiency = 95%×80% = 76%.
 
 
 
