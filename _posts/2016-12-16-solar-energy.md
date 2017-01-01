@@ -575,9 +575,9 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 #### Introduction to Solar Power
 
-0.8% solar  CF 15%
+0.8% solar  CF 15%, faster than projection
 
-3% wind, 
+3% wind, stage
 
 17% hydro
 
