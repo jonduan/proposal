@@ -584,7 +584,7 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 13% nuclear  CF	 90%
 
 
-2015:  18 TW 
+2015: 18 TW 
      2.5 kw/ person
      10 for US.
      
