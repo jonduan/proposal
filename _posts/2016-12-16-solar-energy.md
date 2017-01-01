@@ -264,9 +264,26 @@ the summer and winter months.
 
 Significance of Amp hours
 
-Ba5ery efficiency
+Battery efficiency
 
 Cycle life vs. DOD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
