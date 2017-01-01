@@ -362,9 +362,9 @@ Assume the panels work under MPP conditions. How many panels will be needed to p
 
 
 The total power needed from the panels is calculated by dividing the total energy by the 4 equivalent sun hours:
-Ptotal=1288Wh4h=322W
+Ptotal=1288Wh/4h=322W
 Now, the number of panels needed to produce that energy taking into account the rated power output of the panels:
-Numberofpanels=322W100W=3.22panels
+Numberofpanels=322W/100W=3.22panels
 Since the number of panels needs to be an integer number (no decimals), the highest approximation is taken, in this case, 4 panels.
  
 
