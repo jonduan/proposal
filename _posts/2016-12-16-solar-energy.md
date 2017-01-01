@@ -297,6 +297,18 @@ Explanation
 Lithium-ion batteries have the highest gravimetric energy of all the technologies shown here. That means that it can store the maximum amount of power with minimum weight. Since the Nuna car is supposed to be a very fast car, they want the least extra weight possible, and that is the reason of choosing Lithium-ion batteries.
 
 
+------
+Consider a lead-acid battery with 90 Ah capacity and a rated voltage of 12 V.
+
+What is the total capacity of energy in watt-hours that can be stored in the battery?
+The energy capacity of the battery = voltage * capacity = 12 V * 90 Ah = 1080 Wh.
+
+
+
+
+
+
+
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
