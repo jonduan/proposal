@@ -577,7 +577,7 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 0.8% solar  CF 15%
 
-3% wind
+3% wind, 
 
 17% hydro
 
