@@ -531,6 +531,43 @@ Energy=600Wp∗1.1∗850Wh/(Wpyear)∗20years=11,220,000Wh=11,220kWh
 
 €1100/11,220kWh=€0.10/KWh
 
+**Payback period**
+ 
+Family Visser is eligible for a municipal subsidy for sustainable energy that amounts to 15% of the initial costs of the PV system.
+
+Assume that the electricity price of €0.23/kWh does not change.
+
+Using this subsidy, how many years do system A and B need to be operational to earn their own investment back?
+
+Only considering the payback period For which system should they choose?
+
+Explanation
+system A:
+The total cost of the system will be:
+The total cost of the system including subsidies will be:
+
+Cost=0.85∗(12panels∗€60/panel+€1000)=€1462
+To calculate the time needed to earn the investment back, it can be calculated by calculating the energy produced per year, and the electricity cost that this electricity would imply if the system will not be installed. Such calculations assume that all the energy produced is used:
+Energy=900Wp∗850Wh/(Wpyear)=765,000Wh/year=765kWh/year
+
+Costelectricity=765kWh/year∗€0.23/kWh=€175.95/year
+By dividing the total investment costs by the annual electricity costs, the payback time can be determined
+
+Timepayback=€1462/€175.95/year=8.3years
+system B:
+Explanation
+The total cost of the system including subsidies will be:
+
+Cost=0.85∗(20panels∗€20/panel+€500+€250)=€977.5
+To calculate the time needed to earn the investment back, it can be calculated by calculating the energy produced per year, and the electricity cost that this electricity would imply if the system will not be installed. Such calculations assume that all the energy produced is used
+Energy=1.1∗600Wp∗850Wh/(Wpyear)=561,000Wh/year=561kWh/year
+
+Costelectricity=561kWh/year∗€0.23/kWh=€129.03/year
+By dividing the total investment costs by the annual electricity costs, the payback time can be determined:
+
+Timepayback=€977.5€/129.03/year=7.57years
+
+
 
 
 
