@@ -453,8 +453,13 @@ Assuming no changes in grid costs and the value of money, the time needed for th
 
 initial investmentyearly savings=€5000/€750/year=6.66years.
 
+---
+affect the economic payback period of a PV system?
 
+Insolation received by the pv system.
 
+Cost of electricity.
+Subsidies and feed-in tariffs.
 
 
 
