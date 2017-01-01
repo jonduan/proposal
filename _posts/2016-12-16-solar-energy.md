@@ -394,9 +394,9 @@ Cbatt=1288Wh/(0.5×24V)×2days=214.7Ah
 How many of the specified batteries will be needed?
 
 The number of batteries in parallel must therefore provide that capacity. Since the available batteries have a capacity of 100 Ah:
-Nparallel=214.7Ah120Ah=1.79≈2
+Nparallel=214.7Ah/120Ah=1.79≈2
 On the other hand, the number of batteries in series depends on the operational voltage, which is said to be 24 V. Since the battery voltage is 12 V:
-Nseries=24V12V=2
+Nseries=24V/12V=2
 The total number of batteries is the multiplication of the number of batteries in series and in parallel, resulting in 4 batteries.
 
 
