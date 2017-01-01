@@ -286,7 +286,10 @@ Nickel cadmium batteries
 
 
 
+the Ragone plot here, which would be the preferred technology for the batteries
+----------
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/f7b27bbc23287f1e1ba264e11d316e8e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Ragone_plot.png)
 
 
 
