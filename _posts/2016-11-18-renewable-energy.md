@@ -81,20 +81,19 @@ Tsao et al (2006) Solar FAQs
 Hernandez et al (2014) Land Use efficiency of big solar. Environmental Science and Technology
 
 
-#### Learning Objectives
 
-Gain awareness of the most important renewable technologies: Solar PV, Concentrated Solar, Wind, Hydro, Biomass and Geothermal, and their emerging importance in the energy system, and understand how regional resources can dictate their importance in different areas.
-Scalability: understand energy and power density, be able to say which technologies are scalable or not (or in between like Wind) on this basis.
-Solar resource: be able to find good data and use estimates of kWh/m^2/day for different regions at different times of year.
-Know the approximate size, cost and efficiency of modern c-Si cells.
-Be able to estimate LCOE of solar PV installation given insolation, know typical insolations for different regions and tracking vs not, be able to look up insolation data.
-Be familiar with how traditional c-Si solar cells work (the physicist view), and how some advanced designs try to improve on c-Si.
-Efficiency: know some of the major factors influencing efficiency, the cost-efficiency tradeoff, the indirect effects of efficiency (tracking needed, etc.).
-Understand the concept of intermittency, ways we can manage it. Be able to compare the advantages/disadvantages of different methods of intermittency management.
-Know growth of solar PV in past 5ish years, falling costs. Be able to compare actual costs and growth to projections.
-Subsidies: understand the structure of major subsidies that support solar and other renewables, and the difference between subsidized and unsubsidized cost.
-Survey environmental impacts – land use, embodied CO2, and toxicity.
-Be able to estimate the levelized cost of electricity for solar PV systems, including looking up costs and insolation data on your own. Be able to make qualitative judgements about how the capital-cost-dominated nature of solar PV affects different types of investors.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
