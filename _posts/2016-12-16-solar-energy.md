@@ -291,7 +291,10 @@ the Ragone plot here, which would be the preferred technology for the batteries
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/f7b27bbc23287f1e1ba264e11d316e8e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Ragone_plot.png)
 
-
+Lithium-ion batteries
+未答复
+Explanation
+Lithium-ion batteries have the highest gravimetric energy of all the technologies shown here. That means that it can store the maximum amount of power with minimum weight. Since the Nuna car is supposed to be a very fast car, they want the least extra weight possible, and that is the reason of choosing Lithium-ion batteries.
 
 
 
