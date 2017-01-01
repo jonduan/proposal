@@ -420,8 +420,16 @@ The levelized cost of electricity (LCOE) can be defined as the cost per kWh of e
 
 
 Grid parity is achieved when the levelized cost of electricity is equal to the electricity cost at a particular location.
+
 The achievement of grid parity depends on the insolation, the cost of PV systems, the discount rate and the cost of electricity coming from the grid at the particular location.
+
 The levelized cost of electricity can be used to compare the electricity price coming from PV and from solar thermal energy.
+
+
+
+
+
+
 
 
 
