@@ -27,7 +27,70 @@ His proposed hydraulic hydro storage system gives us a chance to store thousands
 Please find the slides at http://de.slideshare.net/EduardHeindl... and an alternative version of the video (slides + audio only) at http://youtu.be/m3p_daUDvI8
 
 
+
+### [A closer look at that power potential figure](https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/d9b1e2746d084fcbaa442c4e1e6ffa6e/513982f2e92242079c1414dfd75843bb/)
+
+power potential of low carbon electricity resources
+
+![](https://studio.edx.org/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block@Figure_8_power_potential.png)
+
+David discussed this figure in the video, but it's complicated and worth treating in a bit more depth. It shows the power we could get from various low-carbon sources, either with no constraint on land use or with some constraints (1% or 10% of the land surface of the earth). The dashed green line shows our current power consumption, 18 TW, which comes from an energy system that uses approximately 1% of the land surface. As we discuss in several places in the course, only solar and nuclear power can comfortably provide current levels of primary energy without a substantial expansion of land use.
+
+Note the lack of a physical maximum for nuclear power; since it involves "burning" fuel, we could choose different burn rates for different power levels, meaning there is no one physical maximum. Further note the black arrows on solar PV and nuclear, which indicate estimates that are or could be much higher than shown here. For solar PV, the physical maximum is in the 10's of thousands of TW (see notes below), well off this scale. For nuclear power, we assume a very conservative 100 W/m2, meaning that the power potentials here are at the very lower end of the justifiable range, and values fivefold higher than shown here are defensible.
+
+Assumptions and notes:
+
+Land area of earth: 1.49*1014 m2, Surface area of earth: 5.1*1014 m2
+
+Solar:
+
+Land constraint numbers assume 10W/m2, based on the upper ends of Smil (2015), Hernandez (2014), McKay (2013). While some current solar farms exceed 15 Wm2, the do so only with excellent solar resource, it would be hard to exceed 10 W/m2 as a global average of solar PV systems distributed widely near energy loads.
+
+Physical maximum is very high; (surface area of earth)*(175 W/m2 avg. insolation)*20% efficiency gives 18000 TW, could even use 40% efficiency (multijunction cells) for 36000 TW
+
+Wind:
+
+Land use constraint numbers assume 1 W/m2. Physical maximum has been debated heavily, but the consensus is around 250 TW for land-based installations. We ignore flying wind turbines, which could bring the total over 500 TW. See Miller (2015) and Adams and Keith (2013)
+
+Biomass:
+
+Land use constraint numbers assume .5 W/m2 based on Smil (2015) and Daniel's own estimates of Miscanthus
+
+Physical maximum of 25 TW from Field (1998) and Moriarty (2012) assuming 25% efficient conversion of biomass into electricity (including losses from collection, processing, and heat-to-electricity conversion)
+
+Nuclear:
+
+Land use constraint numbers assume 100 W/m2, based on the very low end of Smil (2015); looking at Smil's figures and published data on nuclear plants in the US, 500-1000 W/m2 seems most common, but we stick to a conservative figure for the large buildouts estimated here
+
+No obvious physical maximum; since nuclear power involves "burning" a fixed resource, we could choose different burn rates to get different power levels, in principle could get near infinite power though it wouldn't last very long and would be expensive.
+
+Hydro:
+
+Physical maximum of 4.5 TW from Moriarty (2012) as the maximum resource capturable assuming near perfect capture of water from the highest possible points
+
+Land use constraint figures actually show the maximum "technically extractable" resource from Moriarty (2012) and WEC (2013), as the maximum that could reasonably be extracted even with technological developments. Since hydro plants can only be deployed in certain locations, they likely would never even reach 1% of the land surface; most estimates of power density are around 1-5 W/m2, but using this for just 1% of the land surface gives 150 TW, well above the actually available resource.
+
+References
+
+A. S. Adams and D. W. Keith. (2013). Are global wind power resource estimates overstated?. Environmental Research Letters, 8: 0150210(9pp). doi:10.1088/1748-9326/8/1/015021.
+Field, C.B.; Behrenfeld, M.J.; Randerson, J.T.; Falkowski, P. (1998). "Primary production of the Biosphere: Integrating Terrestrial and Oceanic Components".Science 281 (5374): 237-240.
+Lee M. Miller, Nathaniel A. Brunsell, David B. Mechem, Fabian Gans, Andrew J. Monaghan, Robert Vautard, David W. Keith, and Axel Kleidon. (2015). Two methods for estimating limits to large-scale wind power generation, Proceedings of the National Academy of Sciences, 112:11169-11174, doi: 10.1073/pnas.1408251112.
+MacKay (2013) Enormous solar power stations
+Moriarty et al (2012) What is the global potential for renewable energy? Renewable and Sustainable Energy Reviews
+Tsao et al (2006) Solar FAQs
+Hernandez et al (2014) Land Use efficiency of big solar. Environmental Science and Technology
+
+
+
+
+
+
+
+### ----
 Most energy storage methods, including batteries, are expensive and difficult to scale. Danielle Fong saw the opportunity to reinvent a classic technology - compressed air - to solve hi-tech energy problems. She developed a method to improve the efficiency of compressed air as an energy storage medium that could radically reduce cost and complexity.
+
+
+
 
 BLOG: http://daniellefong.com/
 
