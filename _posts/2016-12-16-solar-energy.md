@@ -400,6 +400,23 @@ Nseries=24V/12V=2
 The total number of batteries is the multiplication of the number of batteries in series and in parallel, resulting in 4 batteries.
 
 
+
+#### Week 6: Solar Energy > 6.8 Economics and Policies for PV systems 
+
+
+the price of solar energy is dropping rapidly. What does this mean for new owners of PV systems? When will they have their investments payed back by the decrease in electricity bills?
+
+Learn about the energy economic terms of grid parity and levelized cost of electricity for solar energy . Find out about the expected prices of solar energy in the future.
+
+
+
+
+
+
+
+
+
+
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
