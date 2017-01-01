@@ -461,6 +461,33 @@ Insolation received by the pv system.
 Cost of electricity.
 Subsidies and feed-in tariffs.
 
+#### Week 6: Solar Energy > Pros & Cons: PV systems > Case 1: Multicrystalline or Amorphous Silicon?
+
+Case 1: Multicrystalline or Amorphous Silicon?
+
+The Visser Family is interested in buying a solar energy system. After some research on the Internet they have found two different systems that they are considering to install on their tilted roof. System A is a PV system based on multicrystalline silicon solar cells and system B is a PV system based on flexible thin film amorphous silicon solar cells.
+
+multicrystalline PV modules on roof  
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/8aae548b3162605d693964e95069c76a/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/poly_roof.jpg)
+
+
+
+
+flexible solar modules
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/dfd34eb262f9c8b3a18aec6a6f7feb9c/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/flexible.JPG)
+
+
+
+Both systems are grid-connected using a 900 Wp inverter. The total price of the inverter, the cables, amounts to €500. The solar modules are to be installed on a shed. The roof of the shed can only support 10 m² of solar modules.
+
+
+System A: The efficiency of the multicrystalline silicon module amounts to 15%. The dimensions of the solar module are 0.5m by 1.0m. Each module has an output of 75 Wp. The modules cost €60 each. The installation costs are €500.
+
+System B: The flexible thin film amorphous silicon solar modules have an efficiency of 6%. The dimensions of the solar modules amount to 0.5m by 1.0m. The output of each module is 30 Wp. The modules cost €20 each. Because the modules are flexible and can be mounted differently the installation costs are only €250. Another advantage of the amorphous silicon solar modules is that they perform better on cloudy days in which there is no direct sunlight. Installed in the Netherlands, this system gives, on a yearly basis, 10% more output per installed Wp than the multicrystalline silicon modules.
+
+In the Netherlands a PV system having multicrystalline silicon module generates on average 850 Wh per Wp in one year. The performance of both types of modules is guaranteed for 20 years. The price of electricity from the grid is €0.23/kWh. Assume that all the power produced by the PV system is completely consumed by the Visser family.
+
 
 
 
