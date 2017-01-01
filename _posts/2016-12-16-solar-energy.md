@@ -440,18 +440,20 @@ What will the average annual savings of the family Smith in euros be if they ins
  
 Explanation
 Since every kWh of PV generated energy is fed to the grid and it directly offsets the electricity consumption, the annual savings are the same as the amount of money equivalent to the PV generated energy. In this case, it is nothing but 
-€
-€
-electricity costs×annual PV yield=€0.25/kWh×3000kWh=€750
-Given the initial system costs, what will be the payback period of the PV system in years, assuming the grid costs remain the same. You may neglect the time value of money.
 
+electricity costs×annual PV yield=€0.25/kWh×3000kWh=€750
+
+Given the initial system costs, what will be the payback period of the PV system in years, assuming the grid costs remain the same. You may neglect the time value of money.
 
 6.66
  
 Explanation
 Assuming no changes in grid costs and the value of money, the time needed for the PV system to payback its initial investment can be simply calculated as 
-€
-€
+ 
+
+initial investmentyearly savings=€5000/€750/year=6.66years.
+
+
 
 
 
