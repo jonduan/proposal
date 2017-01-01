@@ -528,8 +528,7 @@ The total cost of the system will be:
 Cost=20panels∗€20/panel+€500+€250=€1150
 To calculate the price of electicity of the system, this cost will be divided by the total amount of energy that the system will produce in the 20 years of its lifetime:
 Energy=600Wp∗1.1∗850Wh/(Wpyear)∗20years=11,220,000Wh=11,220kWh
-€
-€
+
 €1100/11,220kWh=€0.10/KWh
 
 
