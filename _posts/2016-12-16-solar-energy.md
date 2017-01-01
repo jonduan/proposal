@@ -495,11 +495,11 @@ If the Visser family would only be interested in the (peak) power (in Wp) of the
 Hint: consider the peak power of the inverter and the area available on the shed.
 
 Explanation
-system A:
+_system A:_
 Since the inverter is able to handle 900Wp, the number of panels for system A will be calculated as:
 900Wp/75Wp=12panels
 Each panel is 0.5m2, so it will equal a total of 6m2 for all the panels, which considering the rooftop area of 10m2, it is possible to install 900Wp
-system B:
+_system B:_
 Since the inverter is able to handle 900Wp, the number of panels for system B will be calculated as:
 900Wp/30Wp=30panels
 Each panel is 0.5m2, so it will equal a total of 15m2 for all the panels, which considering the rooftop area of 10m2, it is not possible. Therefore, the maximum possible peak power that can be installed will be determined by the rooftop area as:
@@ -507,8 +507,30 @@ Each panel is 0.5m2, so it will equal a total of 15m2 for all the panels, which 
 20panels∗30Wp=600Wp
 
 
+**€/kWh price**
 
+If the Visser family would only be interested in the €/kWh price of their PV system, what would their choice be?
+Hint: consider the peak power of the inverter and the area available on the shed.
 
+Explanation
+system A:
+The total cost of the system will be:
+
+Cost=12panels∗€60/panel+€500+€500=€1720
+To calculate the price of electicity of the system, this cost will be divided by the total amount of energy that the system will produce in the 20 years of its lifetime:
+Energy=900Wp∗850Wh/(Wpyear)∗20years=15,300,000Wh=15,300kWh
+
+€1720/15,300kWh=€0.11/KWh
+system B:
+Explanation
+The total cost of the system will be:
+
+Cost=20panels∗€20/panel+€500+€250=€1150
+To calculate the price of electicity of the system, this cost will be divided by the total amount of energy that the system will produce in the 20 years of its lifetime:
+Energy=600Wp∗1.1∗850Wh/(Wpyear)∗20years=11,220,000Wh=11,220kWh
+€
+€
+€1100/11,220kWh=€0.10/KWh
 
 
 
