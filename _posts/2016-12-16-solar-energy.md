@@ -575,7 +575,11 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 #### Introduction to Solar Power
 
+0.8% solar
 
+3% wind
+
+17% hydro
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
