@@ -269,10 +269,18 @@ Battery efficiency
 Cycle life vs. DOD
 
 
+primary batteries
+----
+Zinc-carbon batteries
+Zinc-carbon batteries belong to the cattegory of primary batteries, meaning that they cannot be recharged once they are discharged once.
 
 
+a secondary battery
+----
+Lead-acid batteries
 
-
+Lithium-polymer batteries
+Nickel cadmium batteries
 
 
 
