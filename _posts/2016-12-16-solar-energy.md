@@ -575,7 +575,7 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 #### Introduction to Solar Power
 
-0.8% solar  CF 15%, faster than projection due to China
+0.8% solar  CF 15%, faster than projection due to China, miracle
 
 3% wind, stage
 
