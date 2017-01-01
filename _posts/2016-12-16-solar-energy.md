@@ -581,6 +581,13 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
 
 17% hydro
 
+13% nuclear  CF	 90%
+
+
+
+
+
+
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
