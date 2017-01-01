@@ -588,7 +588,8 @@ https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/
      2.5 kw/ person. pop: 7 billion people
      10 for US.
      
-2100: 5-15 kW/person      
+2100: 5-15 kW/person 
+      10 billion 
 
 
 
