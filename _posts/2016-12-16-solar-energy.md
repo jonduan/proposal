@@ -335,6 +335,30 @@ The total AC power needed can be calculated by adding up all the power for the c
 PAC=110+30+80=220W
 
 
+he family is considering solar panels with the following specifications:
+
+Power output = 100 Wp
+
+Vmpp= 16 V
+
+Impp = 6.25 A
+
+Voc = 18 V
+
+Isc = 7 A
+
+Assume that the combined efficiency for the cables, the charge controller and the battery system is 90% and that of the inverter is 97%. How much energy in Wh must the panels produce to cover the electricity demand of the family Smith in one day?
+
+The inverter efficiency is applied to the power needed for AC appliances:
+EAC=(110+30)×2+80×40.97=619Wh
+The DC appliances have the following energy need
+EDC=12×15×3=540Wh
+Then, the total energy needed in the panel side is calculated as follows:
+Etotal=619Wh+540Wh0.9=1288Wh
+Assume the panels work under MPP conditions. How many panels will be needed to produce that energy?
+
+
+
 
 
 
