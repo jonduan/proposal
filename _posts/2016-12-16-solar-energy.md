@@ -427,7 +427,31 @@ The levelized cost of electricity can be used to compare the electricity price c
 
 
 
+----
+The family Smith wants to install a grid-connected PV system on their rooftop.
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/ff8b0caa7ef1a8f0456490edd632bda4/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/huis_met_zonnepanelen.png)
+multicrystalline PV modules on roof
+Until now they have been using the grid electricity at €0.25/kWh, with an average annual consumption of around 3500 kWh. The PV system will cost them €5000 in total. The system is expected to have an annual yield of 3000 kWh.
 
+What will the average annual savings of the family Smith in euros be if they install the above mentioned PV system? You may assume that any PV generated power sent to the grid offsets directly the consumption of the Smith household.
+
+
+ 750
+ 
+Explanation
+Since every kWh of PV generated energy is fed to the grid and it directly offsets the electricity consumption, the annual savings are the same as the amount of money equivalent to the PV generated energy. In this case, it is nothing but 
+€
+€
+electricity costs×annual PV yield=€0.25/kWh×3000kWh=€750
+Given the initial system costs, what will be the payback period of the PV system in years, assuming the grid costs remain the same. You may neglect the time value of money.
+
+
+6.66
+ 
+Explanation
+Assuming no changes in grid costs and the value of money, the time needed for the PV system to payback its initial investment can be simply calculated as 
+€
+€
 
 
 
