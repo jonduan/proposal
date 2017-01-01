@@ -323,6 +323,17 @@ the major considerations for designing your own PV system
 
 how to choose the amount of modules in your system based on your electricity usage and tell you the inefficiencies of most components. The sizing of the Inverter, Charge controller and batteries will also be considered in the video.
 
+-----
+Family Smith has a small house in the country side which is not connected to the grid. The place enjoys 4 equivalent sun hours. Therefore, they have decided to install an off-grid PV system in the house to supply their electricity demand.
+
+The house electricity needs are summarized in the table below.
+
+Load	Quantity	Power per item (W)	Time of use (h)	Type
+Light bulb	12	15	3	DC
+TV	1	110	2	AC
+DVD	1	30	2	AC
+Laptop	1	80	4	AC
+What is the total energy demand Wh?
 
 
 The total energy demand can be calculated simply by multiplying the power of each component by the number of hours that it is going to be used.
@@ -367,7 +378,26 @@ Now, the number of panels needed to produce that energy taking into account the 
 Numberofpanels=322W/100W=3.22panels
 Since the number of panels needs to be an integer number (no decimals), the highest approximation is taken, in this case, 4 panels.
  
+---
+Now, since the system is not connected to the grid, the family Smith will also need some energy storage. They have specified that, since it is a weekend house, only 2 days of autonomy will be needed. In this case, batteries with the following specifications will be used:
 
+Battery capacity = 120 Ah
+
+Battery voltage = 12 V
+
+Maximum allowed depth of discharge = 50%
+
+The system is designed to use 24 V as operating voltage. What will be the minimum needed battery capacity in Ah?
+
+The minimum battery capacity will be calculated using the total energy demand of 1288 Wh calculated in the question above:
+Cbatt=1288Wh/(0.5×24V)×2days=214.7Ah
+How many of the specified batteries will be needed?
+
+The number of batteries in parallel must therefore provide that capacity. Since the available batteries have a capacity of 100 Ah:
+Nparallel=214.7Ah120Ah=1.79≈2
+On the other hand, the number of batteries in series depends on the operational voltage, which is said to be 24 V. Since the battery voltage is 12 V:
+Nseries=24V12V=2
+The total number of batteries is the multiplication of the number of batteries in series and in parallel, resulting in 4 batteries.
 
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
