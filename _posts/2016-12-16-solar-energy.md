@@ -350,11 +350,11 @@ Isc = 7 A
 Assume that the combined efficiency for the cables, the charge controller and the battery system is 90% and that of the inverter is 97%. How much energy in Wh must the panels produce to cover the electricity demand of the family Smith in one day?
 
 The inverter efficiency is applied to the power needed for AC appliances:
-EAC=(110+30)×2+80×40.97=619Wh
+EAC=((110+30)×2+80×4) / 0.97=619Wh
 The DC appliances have the following energy need
 EDC=12×15×3=540Wh
 Then, the total energy needed in the panel side is calculated as follows:
-Etotal=619Wh+540Wh0.9=1288Wh
+Etotal=(619Wh+540Wh)/ 0.9=1288Wh
 Assume the panels work under MPP conditions. How many panels will be needed to produce that energy?
 
 
