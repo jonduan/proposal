@@ -489,10 +489,24 @@ System B: The flexible thin film amorphous silicon solar modules have an efficie
 In the Netherlands a PV system having multicrystalline silicon module generates on average 850 Wh per Wp in one year. The performance of both types of modules is guaranteed for 20 years. The price of electricity from the grid is €0.23/kWh. Assume that all the power produced by the PV system is completely consumed by the Visser family.
 
 
-Maximum Power
-1 point possible (graded)
+**Maximum Power**
+
 If the Visser family would only be interested in the (peak) power (in Wp) of their PV system, what would their choice be?
 Hint: consider the peak power of the inverter and the area available on the shed.
+
+Explanation
+system A:
+Since the inverter is able to handle 900Wp, the number of panels for system A will be calculated as:
+900Wp/75Wp=12panels
+Each panel is 0.5m2, so it will equal a total of 6m2 for all the panels, which considering the rooftop area of 10m2, it is possible to install 900Wp
+system B:
+Since the inverter is able to handle 900Wp, the number of panels for system B will be calculated as:
+900Wp/30Wp=30panels
+Each panel is 0.5m2, so it will equal a total of 15m2 for all the panels, which considering the rooftop area of 10m2, it is not possible. Therefore, the maximum possible peak power that can be installed will be determined by the rooftop area as:
+10m2/0.5m2=20panels
+20panels∗30Wp=600Wp
+
+
 
 
 
