@@ -311,7 +311,30 @@ How much time in minutes will it take for the battery to go from 40% State of Ch
 ----
 
 If the voltaic efficiency of the battery is 95%, and the coulombic efficiency of the battery is 80%, the roundtrip efficiency of storage in % for the battery is:
+
 Overall efficiency or roundtrip efficiency = Voltaic efficiency * coulombic efficiency = 95%×80% = 76%.
+
+#### Week 6: Solar Energy > 6.7 Central design rules for PV systems
+
+
+the major considerations for designing your own PV system
+
+
+
+how to choose the amount of modules in your system based on your electricity usage and tell you the inefficiencies of most components. The sizing of the Inverter, Charge controller and batteries will also be considered in the video.
+
+
+
+The total energy demand can be calculated simply by multiplying the power of each component by the number of hours that it is going to be used.
+E=12×15×3+1×110×2+1×30×2+1×80×4=1140Wh
+What is the total power demanded by the DC loads in W?
+The total DC power needed can be calculated by adding up all the power for the components using DC.
+PDC=12×15=180W
+What is the total power demanded by the AC loads in W?
+The total AC power needed can be calculated by adding up all the power for the components using AC.
+PAC=110+30+80=220W
+
+
 
 
 
