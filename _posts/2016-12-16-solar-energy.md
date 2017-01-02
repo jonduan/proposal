@@ -799,6 +799,7 @@ incineration
  - get rid of waste 
  - generate energy
  - may increase carbon footprint
+ identify collateral consquences
  
  
 
