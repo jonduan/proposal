@@ -685,10 +685,40 @@ boron
 
 
 
+Optional External Reading
+
+If you'd like more detail on how PV modules work and how they're made, two good resources are MIT's Future of Solar Energy Appendix B, and the excellent website pveducation.org, which has lots of detailed readings, interactives, and quizzes, available for free.
 
 
+#### Solar Resource Reading
+
+This short reading will cover some basics on the solar resource. By the end of it you should be able to look up basic solar resource data for the whole world, and use it to make simple LCOE estimates. You'll also be able to distinguish between a few of the common solar resource metrics.
+
+Figure 1 shows the earth's energy budget, in watts per square meter, averaged over a year.
 
 
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/32459c0a9fefcb2fea1132e00589de6a/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_1_Solar_Resource_radiation_image.jpg)
+
+Image described below
+Figure 1. Earth's energy budget. Notice how only ~55% of incoming radiation makes it to the surface, on average. From http://science-edu.larc.nasa.gov/energy_budget/
+
+The solar flux at the top of the atmosphere is 1367 W/m2, but due to the rotation and curvature of the Earth, the yearly average over a fixed point on the surface is substantially lower: just 340 W/m2 as you see in the figure. About 45% of this is absorbed or reflected by the atmosphere on average (there is regional, weather-related variability), with an average of 187 W/m2 reaching the surface. Some of this is reflected – the figure shows 22 W/m2 on average, but it can vary widely; forests usually reflect around 10-15% of the incoming radiation, but snow can reflect over 60%. The rest of the chart shows other interesting flows, like longwave radiation released by the earth, and the absorption and re-radiation by greenhouse gases.
+
+The chart doesn't show a complication that can be important for solar energy technologies, namely the scattering of light by the atmosphere that can change where it strikes the surface. This "diffuse" radiation can actually raise the performance of solar panels, if, for example, clouds near an installation scatter extra light onto it while not blocking any light falling directly on it. The figure also is only for "horizontal" surfaces, parallel to the ground. Many solar systems are tilted or track the sun, allowing them reach higher insolation on the solar panels than they would get if laid flat on the ground.
+
+Turning to more specific data for different locations on earth, there are two common metrics that you'll encounter, Global Horizontal Irradiation (GHI) and Direct Normal Irradiation (DNI). GHI is the number from Figure 1, including all of the radiation falling on a horizontal surface (both the direct radiation and any "diffuse" radiation scattered by the atmosphere), and it's the most common metric for estimating solar PV performance. Direct Normal Irradiation includes only the direct radiation received by a surface tracking the sun; it's measured with tracking instruments with very narrow fields of view that miss most diffuse radiation, and it's most useful for estimating the performance of concentrating solar power systems. We'll focus on GHI, and some variants that involve tilted or tracking surfaces.
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/d0f6a7fe05a75f63a6b951513465eb92/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_2_daily_GHI.png)
+Image described below
+Figure 2. Global Horizontal Irradiation for Birmingham, Alabama, US, for January 1 and 2 and June 11 and 12, 1990. Notice how much higher it is for summer months than winter months. The daily average for June 11 and 12 is ~160 W/m2, close to the global yearly average GHI; for January 1 and 2 it's just 40 W/m2 (though there is clearly some effect from weather on all days, especially January 2). Data from NREL http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/hourly/
+
+Figure 3 below shows four maps of average daily insolation for the US from NREL: one for a "flat plate" collector, one for a collector tilted at a fixed angle equal to the latitude of the location (a good though imperfect rule of thumb to maximize output), one for a N-S axis tracking system (tracks the sun by rotating along a single North-South axis), and one for a two-axis tracking system that points panels directly at the sun at all times.
+
+Image described below
+Figure 3. Daily solar insolation in the US, averaged over a year, in kWh/m2-day, for a flat plate, plate tilted at latitude, N-S axis tracking system tilted at latitude, and a two-axis tracking system. Notice how much tilt and single-axis tracking increase insolation. Two-axis tracking gives a fairly small increase over single-axis tracking. Individual images compiled from http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
+
+The scale is in kWh/m2-day. Since solar panels' capacity is rated under test conditions of 1 kW/m2 (or 24 kWh/m2-day) we can divide the numbers from these figures by 24 to estimate the capacity factor of solar installations. For example, a flat plate in Boston (northeast US) gets 3-4 kWh/m2-day, corresponding to a capacity factor of 12.5-16%. Of course, real capacity factors will be slightly less than the maximum allowed by the insolation of the region. Notice how much tilt and tracking help capacity factor; latitude-tilt provides roughly a 20% increase over flat panels (though the exact amount varies by region), and single-axis tracking provides an additional 30-40% in most regions. An upcoming question will have you estimate whether these increases in capacity factor outweigh the increased capital cost for tilted or tracking systems
+
+NREL is a great source for this kind of data in the US. You can use their Solar Radiation Resource Maps tool to generate figures like those in Figure 3, with different kinds of tilt or tracking and even the option to look at monthly-average instead of yearly-average data. You can also use their more recent Map Search tool to look for more higher resolution maps for GHI and latitude-tilt collectors for the US and a few other world regions like China, India, and some of S. America. Unfortunately, finding similar data for the rest of the world is challenging. A private company, SolarGIS, has free high-resolution GHI maps for the entire world, and much more sophisticated data available for purchase.
 
 
 
