@@ -728,7 +728,7 @@ NREL is a great source for this kind of data in the US. You can use their Solar 
 ##### Solar > Four Views of Solar PV > The Cost of Solar Tracking
 
 http://solargis.info/
-
+http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
 #####　Outsourcing European PV
