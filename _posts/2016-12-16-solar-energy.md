@@ -788,12 +788,18 @@ triple junction cell
 4 steps
 
 - goal and scope definition
+
+  OPV 
+  HOTSPORT
+  GUIDE RESEARCH
 - inventory analysis 
 - impact assessment 
 - interpretation
 ISO 44000
 
 methodological consistency
+
+
 
 
 raw material acqueisition 
