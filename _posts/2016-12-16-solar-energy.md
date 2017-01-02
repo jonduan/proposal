@@ -729,6 +729,9 @@ NREL is a great source for this kind of data in the US. You can use their Solar 
 
 
 
+$$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
+
+#####　Outsourcing European PV
 
 
 
@@ -864,6 +867,22 @@ incineration
  - generate energy
  - may increase carbon footprint
  identify collateral consquences
+ 
+Energy Payback Time = Total Input Energy / (Output Energy / Time)
+
+Energy Payback Time = Total Input Energy / (Output Energy / Time) Summing all of the inputs to get Total Input Energy you have 28.24 MJepe. 
+
+Converting that to MJei (multiply to 0,35) you have 9,884. Converting that to kwh (divide it to 3.6) you have 2.745556. 
+
+Then it needs to add eletricity 1250 wh ( = 1.25kwh), you have 3.995556 kwh The Output Energy / Time here is 20.4kWh/Year. So you're energy payback time is 3.995556 kWh / 20.4 kWh/Year = 0.195861 Years 
+
+
+And the Energy return factor here is the (Total Energy Produced) / (Total Input Energy), where Total Energy Produced is (Output Energy / Time) * Time. 
+
+Total Energy Produced = (20.4kWh/Yr) * 2.5 Years = 51.0 kWh Total Input Energy = 3.995556 kWh from before. Return Factor = 51.0kWh / 3.995556 kWh = 12.76418
+
+ 
+ 
  
 ##### Reading Materials: Life Cycle Analysis
 
