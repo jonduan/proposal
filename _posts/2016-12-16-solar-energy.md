@@ -804,6 +804,10 @@ triple junction cell
 
 	material
 	process
+    
+    softwar 
+       order life cycle steps
+       
 
 - impact assessment 
 - interpretation
