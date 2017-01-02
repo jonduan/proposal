@@ -790,7 +790,33 @@ For more detailed reading on this topic, check out:
 *   [The Future of Solar Energy](http://energy.mit.edu/wp-content/uploads/2015/05/MITEI-The-Future-of-Solar-Energy.pdf) (PDF download, 13.9 MB), from MIT in 2015, especially Appendix A
 
 
+##### Solar PV Environmental Impacts and Toxicity
 
+In the video lecture you've learned that solar PV has the potential to supply much of the world's energy needs. However, as with any energy technology there are social and environmental consequences as well. Besides land use, which we have discussed elsewhere, these include toxicity in production or mining of material ingredients, the use of certain rare material which may affect its scalability, and the energy and carbon footprint of producing solar PV panel arrays.
+
+Like many industrial processes involving extracted materials, toxicity is an issue with solar PV both in the extraction, production and disposal. In detail the issues here depend on which technology is used, which currently is most often crystalline silicon or thin film technology. Crystalline silicon (c-Si) PV fabrication uses many of the the same processes and materials as microelectronics production, the major issues being:
+
+1.  Purification of silicon involves conversion to Silane (SiH<sub>4</sub>) gas to produce molten silicon. Silane gas can autoignite if oxygen is present, presenting a significant explosion hazard. As the photovoltaic industry has grown during the past decade, a few such incidents have been reported (2006 in Taiwan, 2007 in Bangalore, both involving fatalities).
+2.  Silicon processing produces silicon tetrachloride (Si-Cl<sub>4</sub>), an enormously toxic substance, and there have been instances in the developing world of dumping into the environment. Also, there are significant occupational risks from dopants Phosphine, Arsine, and other chemicals require special handling and robust operating standards.
+3.  Silicon fabrication reactors are cleaned with Sulfur hexafluoride (SF<sub>6</sub>), the most potent greenhouse gas (long lived, and 25000 times worse than CO<sub>2</sub> per ton). The closed-loop process required is expensive for the developing world, so regulations are critical. According to an industry report, it is "imperative that replacement for SF<sub>6</sub> found .. (to avoid) undermining reductions in GHG emissions gained by using solar power".<sup>[<span class="hx-footnote1 hx-footnote-style">[1]</span>](#hxfoot1)</sup>
+
+In these steps and the cutting of wafers, there is significant waste (approximately 90% of the input metallurgical grade is wasted), and significant production of Si particulates. Overall, the production of PV quality silicon is a relatively expensive and energy-intensive process, which emits significant CO<sub>2</sub> in its production. Figure 1 shows the IPCC estimates for solar PV, including balance of plant emissions, compared with other energy technologies.<sup>[<span class="hx-footnote2 hx-footnote-style">[2]</span>](#hxfoot2)</sup> While several times less than fossil fuels or biomass emissions, s<span class="annotator-hl" tabindex="0" role="link" aria-describedby="aria-note-description-21">olar PV contributes significantly more emissions per unit of generated energy than hydropower, nuclear or wind</span>. Another way to look at this footprint is to consider the energy payback, which is the number of years of operating a panel to generate the energy used to make the panel and its associated infrastructure, which is just under 4 years for crystalline Si.<sup>[<span class="hx-footnote3 hx-footnote-style">[3]</span>](#hxfoot3)</sup>
+
+[![](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/11d1fd2c3b13076891e1eec8cb8ef532/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Lifecycle_emissions_of_different_energy_technologies.jpg)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/11d1fd2c3b13076891e1eec8cb8ef532/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Lifecycle_emissions_of_different_energy_technologies.jpg)  
+<small>_Figure 1\. Median lifecycle CO<sub>2</sub> emissions from different energy generation technologies, per unit of energy generated. Source: IPCC 2014 report, working group 3._</small>
+
+Thin film PV production is a more varied technology. The environmental concerns are completely different. In the leading thin-films today, namely Cadmium-Telluride (CdTe), Gallium-Arsenide (GaAs) and Copper-Indium-Gallium-Selenide (CIGS), certain highly toxic materials are integral to the semiconductor. Just as for c-Si panels, regulations for worker safety and preventing toxin releases to the environment are critical. Also, certain input materials to these technologies are of limited supply, limiting their ultimate scalability. For example, if either CdTe or CIGS panels were to supply 100% of the global energy needs b<span class="annotator-hl" tabindex="0" role="link" aria-describedby="aria-note-description-22">y 2050, the amount of Tellurium or Gallium required would amount to 76 or 43 times the total cumulative production of those elements to da</span>te.<sup>[<span class="hx-footnote4 hx-footnote-style">[4]</span>](#hxfoot4)</sup> Consequently, these materials would need to be recycled. Manufacturers including First Solar, currently the leading thin film PV supplier, have adopted a "cradle-to-grave" policy towards panels to recover elements and avoid end of use toxicity issues. Looking also at the energy input to produce thin-film panels, the energy payback is somewhat less than for c-Si, approximately 3 years.
+
+
+
+
+
+
+
+
+------------
+
+--------------
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
