@@ -831,6 +831,10 @@ triple junction cell
     
     complete
 
+	process one -  two - H
+     Sivle ink
+     carbon ink
+
 ISO 44000
 
 methodological consistency
