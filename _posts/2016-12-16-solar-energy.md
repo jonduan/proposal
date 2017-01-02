@@ -820,7 +820,7 @@ triple junction cell
     impact pentential
     
  
-	energy pay back 
+	energy pay back time
     
     $$EPBT=\frac{\sum{E_{inputs}}}{E_{gen}/year}$$
 - interpretation
