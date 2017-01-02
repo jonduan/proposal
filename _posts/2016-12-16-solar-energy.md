@@ -793,6 +793,8 @@ triple junction cell
 - interpretation
 ISO 44000
 
+methodological consistency
+
 
 raw material acqueisition 
 manufacture 
