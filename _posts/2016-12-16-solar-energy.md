@@ -818,7 +818,19 @@ triple junction cell
     human toxicity
     
     impact pentential
+    
+ 
+	energy pay back 
+    
+    $$EPBT=\frac{\sum{E_{inputs}}}{E_{gen}/year}$$
 - interpretation
+	identify key parameters
+    
+    energy balance 
+    material fluxes
+    
+    complete
+
 ISO 44000
 
 methodological consistency
