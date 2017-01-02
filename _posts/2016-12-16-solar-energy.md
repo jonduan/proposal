@@ -849,7 +849,7 @@ Thin film PV production is a more varied technology. The environmental concerns 
 -> reliable 
 
 - gas peak power. 
-- geography diversity,  different region, transimission
+- geography diversity,  different region, long distance transmission
 - dispatchable 
 
 
