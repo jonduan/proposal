@@ -741,7 +741,13 @@ $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 #####　Outsourcing European PV
 
 
+$$Capacity = \frac{1150 kWh/(m^2 yr)}{8766 \ hours/year \cdot 1 kW} = 13.1\%$$
 
+
+LCOE in this case counts only capital costs, making it a quick calculation:
+
+
+$$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
 
 
