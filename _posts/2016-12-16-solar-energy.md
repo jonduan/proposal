@@ -810,6 +810,12 @@ triple junction cell
        
 
 - impact assessment 
+
+ 	input output
+    lcia
+    Climate change 
+    ozone depletion
+    
 - interpretation
 ISO 44000
 
