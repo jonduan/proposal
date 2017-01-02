@@ -808,6 +808,10 @@ triple junction cell
     softwar 
        order life cycle steps
        
+Figure 2. Life cycle stages of a product and evaluation of relevant impacts associated with LCA inputs and releases.
+
+![](http://plasticphotovoltaics.org/images/lca_ir.png)
+
 
 - impact assessment 
 
