@@ -786,7 +786,7 @@ triple junction cell
 #### https://www.coursera.org/learn/solar-cell/lecture/bnPjJ/life-cycle-analysis-part-i
 
 4 steps
-
+![](http://plasticphotovoltaics.org/images/lca_frame.png)
 - goal and scope definition
 
   OPV 
