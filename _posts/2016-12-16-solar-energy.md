@@ -756,7 +756,7 @@ $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 In recent years the cost for solar PV panels has fallen at an astounding rate, repeatedly exceeding expert projections:
 
 [![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/a4e26a8bff29c2222b3fd2fb27b90d1e/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_6b_solar_prices.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/a4e26a8bff29c2222b3fd2fb27b90d1e/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_6b_solar_prices.png)  
-<small>_**Figure 1.** Projected vs observed solar installation capacity and prices; actual values have steadily outperformed most major projections._</small>
+_**Figure 1.** Projected vs observed solar installation capacity and prices; actual values have steadily outperformed most major projections._
 
 The cost for solar panels can be modeled with a power-law "learning curve" or "experience curve", where the production cost falls with cumulative production. Such learning curves have been studied since at least the 1930's, when TP Wright used them to investigate the [cost of airplane production](http://arc.aiaa.org/doi/pdfplus/10.2514/8.155), and were popularized for studying energy system technologies [in the 1970's](https://www.bcgperspectives.com/content/classics/corporate_finance_corporate_strategy_portfolio_management_the_experience_curve_reviewed_history/). They usually involve plotting cost against cumulative production and fitting the result with an equation of the following form:
 
