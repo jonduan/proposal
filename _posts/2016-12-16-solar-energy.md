@@ -856,6 +856,29 @@ Thin film PV production is a more varied technology. The environmental concerns 
 
 
 
+##### Synthetic Fuels
+
+David mentioned that one way to exploit cheap, intermittent solar power in good regions is to produce fuels for the transportation sector. Let’s try analyzing how cheap solar power could bring down the cost of H2 produced via electrolysis.
+
+
+#####　Cost of Solar Electricity
+
+Estimate the cost of electricity in a highly favorable site like the US southwest.
+
+Assume capital costs have continued to fall and are now at $1000/kW. This would be a big government project with a very low CCF of 0.06. FOM is $5/kW-yr, and the installation will be a tracking system with capacity factor of 0.37.
+
+
+ $/kWh   0.02
+ 
+Explanation
+
+The LCOE for this plant is:
+$1000⋅0.06+$5／（0.37⋅8766 hours/year）=$0.02/kWh
+This is an unbelievably low cost for electricity! But the source is intermittent - it generates only when the sun is shining.
+
+
+
+
 
 
 
