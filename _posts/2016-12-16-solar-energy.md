@@ -792,6 +792,10 @@ triple junction cell
   OPV 
   HOTSPORT
   GUIDE RESEARCH
+  POLICY DECISION
+   RIGOROUS STUDY
+   EXTENSIVE DOCUM
+   PEER REVIEW
 - inventory analysis 
 - impact assessment 
 - interpretation
