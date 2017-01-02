@@ -861,7 +861,16 @@ incineration
  - may increase carbon footprint
  identify collateral consquences
  
- 
+##### Reading Materials: Life Cycle Analysis
+
+Read: [Life cycle analysis](http://plasticphotovoltaics.org/lc/lc-deployment/lc-lca.html)
+
+Read: [Comparison of OPV with other technologies](http://plasticphotovoltaics.org/lc/lc-deployment/lc-lca/lc-lca-comparison.html)
+
+Read: [Environmental impacts of OPV](http://plasticphotovoltaics.org/lc/lc-deployment/lc-lca/lc-lca-impacts.html)
+
+Read: [Interpreting the results for OPV](http://plasticphotovoltaics.org/lc/lc-deployment/lc-lca/lc-lca-interpreting.html)
+
  
  
 
