@@ -735,6 +735,7 @@ http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
 1950*0.1/( 8766*9/24 )
+
 This comes out to $.087/kWh for the horizontal plates, $.076/kWh for the plates pointed south at latitude, and $.059/kWh for the tracking installation pointed south.
 Comparing the tracking installation to the horizontal plates, it will take about 7,140 hours of operation to make up the difference. This may sound like a lot, but it's only two years worth of daylight operation in Arizona.
 
