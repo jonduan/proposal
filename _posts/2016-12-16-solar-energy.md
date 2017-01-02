@@ -793,6 +793,14 @@ use
 end of life stage
 
 
+include all non trival impact
+
+incineration 
+ - get rid of waste 
+ - generate energy
+ - may increase carbon footprint
+ 
+
 ----
 ---
 #### Solar now cheapest form of new electricity
