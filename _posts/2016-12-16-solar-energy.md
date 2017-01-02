@@ -796,7 +796,15 @@ triple junction cell
    RIGOROUS STUDY
    EXTENSIVE DOCUM
    PEER REVIEW
-- inventory analysis 
+   REFERENCE FLOW：
+   functional
+- inventory analysis
+
+	collect input
+
+	material
+	process
+
 - impact assessment 
 - interpretation
 ISO 44000
