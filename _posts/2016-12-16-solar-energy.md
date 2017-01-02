@@ -725,7 +725,7 @@ The scale is in kWh/m2-day. Since solar panels' capacity is rated under test con
 
 NREL is a great source for this kind of data in the US. You can use their Solar Radiation Resource Maps tool http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/ to generate figures like those in Figure 3, with different kinds of tilt or tracking and even the option to look at monthly-average instead of yearly-average data. You can also use their more recent Map Search tool http://www.nrel.gov/gis/mapsearch/ to look for more higher resolution maps for GHI and latitude-tilt collectors for the US and a few other world regions like China, India, and some of S. America. Unfortunately, finding similar data for the rest of the world is challenging. A private company, SolarGIS, has free high-resolution GHI maps http://solargis.com/products/maps-and-gis-data/free/download/ for the entire world, and much more sophisticated data available for purchase.
 
-
+##### Solar > Four Views of Solar PV > The Cost of Solar Tracking
 
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
