@@ -815,7 +815,9 @@ triple junction cell
     lcia
     Climate change 
     ozone depletion
+    human toxicity
     
+    impact pentential
 - interpretation
 ISO 44000
 
