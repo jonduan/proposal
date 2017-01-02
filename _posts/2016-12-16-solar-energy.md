@@ -809,7 +809,39 @@ Thin film PV production is a more varied technology. The environmental concerns 
 
 
 
+### Footnotes
 
+<div class="hx-footnote-target1"><a name="hxfoot1"></a>
+
+1\. Report "[Hazardous Materials Used in Silicon PV Cell Production: A Primer](http://www.solarindustrymag.com/issues/SI1309/FEAT_05_Hazardous_Materials_Used_In_Silicon_PV_Cell_Production_A_Primer.html)", Solar Industry Magazine
+
+[(back)](#hxfootback1)
+
+</div>
+
+<div class="hx-footnote-target2"><a name="hxfoot2"></a>
+
+2\. "IPCC Working Group III – Mitigation of Climate Change, Annex II I: Technology - specific cost and performance parameters" IPCC. 2014\. o. 10.
+
+[(back)](#hxfootback2)
+
+</div>
+
+<div class="hx-footnote-target3"><a name="hxfoot3"></a>
+
+3\. "[What is the Energy Payback for PV](http://www.nrel.gov/docs/fy04osti/35489.pdf)", from a U.S. Department of Energy NREL report (2004).
+
+[(back)](#hxfootback3)
+
+</div>
+
+<div class="hx-footnote-target4"><a name="hxfoot4"></a>
+
+4\. MIT Future of Solar Energy Study (2015), p.133.
+
+[(back)](#hxfootback4)
+
+</div>
 
 
 
