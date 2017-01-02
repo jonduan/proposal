@@ -727,6 +727,16 @@ NREL is a great source for this kind of data in the US. You can use their Solar 
 
 ##### Solar > Four Views of Solar PV > The Cost of Solar Tracking
 
+
+
+
+
+
+
+
+
+
+
 ## [Solar cell](https://www.coursera.org/learn/solar-cell/lecture/pSJi2/introduction)
 
 How much power reaches the surface of the earth from the sun?
@@ -773,10 +783,18 @@ substrate
 
 triple junction cell
 
+#### https://www.coursera.org/learn/solar-cell/lecture/bnPjJ/life-cycle-analysis-part-i
 
 
+raw material acqueisition 
+manufacture 
+distribution 
+use 
+end of life stage
 
 
+----
+---
 #### Solar now cheapest form of new electricity
 A transformation is happening in global energy markets that’s worth noting as 2016 comes to an end: solar power, for the first time, is becoming the cheapest form of new electricity. By Tom Randall.
 
