@@ -486,6 +486,9 @@ System A: The efficiency of the multicrystalline silicon module amounts to 15%. 
 
 System B: The flexible thin film amorphous silicon solar modules have an efficiency of 6%. The dimensions of the solar modules amount to 0.5m by 1.0m. The output of each module is 30 Wp. The modules cost €20 each. Because the modules are flexible and can be mounted differently the installation costs are only €250. Another advantage of the amorphous silicon solar modules is that they perform better on cloudy days in which there is no direct sunlight. Installed in the Netherlands, this system gives, on a yearly basis, 10% more output per installed Wp than the multicrystalline silicon modules.
 
+
+
+
 In the Netherlands a PV system having multicrystalline silicon module generates on average 850 Wh per Wp in one year. The performance of both types of modules is guaranteed for 20 years. The price of electricity from the grid is €0.23/kWh. Assume that all the power produced by the PV system is completely consumed by the Visser family.
 
 
@@ -730,6 +733,10 @@ NREL is a great source for this kind of data in the US. You can use their Solar 
 http://solargis.info/
 http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
+
+1950*0.1/( 8766*9/24 )
+
+
 
 #####　Outsourcing European PV
 
