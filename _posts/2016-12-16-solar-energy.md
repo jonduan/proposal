@@ -790,7 +790,7 @@ raw material acqueisition
 manufacture 
 distribution 
 use 
-end of life stage
+end of life stage: trade off
 
 
 include all non trival impact
@@ -799,6 +799,7 @@ incineration
  - get rid of waste 
  - generate energy
  - may increase carbon footprint
+ 
  
 
 ----
