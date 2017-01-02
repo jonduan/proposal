@@ -785,6 +785,14 @@ triple junction cell
 
 #### https://www.coursera.org/learn/solar-cell/lecture/bnPjJ/life-cycle-analysis-part-i
 
+4 steps
+
+- goal and scope definition
+- inventory analysis 
+- impact assessment 
+- interpretation
+
+
 
 raw material acqueisition 
 manufacture 
@@ -800,6 +808,8 @@ incineration
  - generate energy
  - may increase carbon footprint
  identify collateral consquences
+ 
+ 
  
  
 
