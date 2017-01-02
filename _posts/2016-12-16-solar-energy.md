@@ -751,7 +751,43 @@ LCOE in this case counts only capital costs, making it a quick calculation:
 
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
+#####　### The Economist's View: Solar Price Trends
 
+In recent years the cost for solar PV panels has fallen at an astounding rate, repeatedly exceeding expert projections:
+
+[![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/a4e26a8bff29c2222b3fd2fb27b90d1e/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_6b_solar_prices.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/a4e26a8bff29c2222b3fd2fb27b90d1e/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_6b_solar_prices.png)  
+<small>_**Figure 1.** Projected vs observed solar installation capacity and prices; actual values have steadily outperformed most major projections._</small>
+
+The cost for solar panels can be modeled with a power-law "learning curve" or "experience curve", where the production cost falls with cumulative production. Such learning curves have been studied since at least the 1930's, when TP Wright used them to investigate the [cost of airplane production](http://arc.aiaa.org/doi/pdfplus/10.2514/8.155), and were popularized for studying energy system technologies [in the 1970's](https://www.bcgperspectives.com/content/classics/corporate_finance_corporate_strategy_portfolio_management_the_experience_curve_reviewed_history/). They usually involve plotting cost against cumulative production and fitting the result with an equation of the following form:
+
+form:
+
+Cn=C1×n^−a
+
+Where Cn is the cost of the nth unit of production, C1 is the cost of the initial unit, and a is the elasticity of cost with respect to output. Figure 2 shows an example of points along such a curve:
+
+[![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/f525f0f5bebc26b55dce010ca549a1e4/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_2_Power_Law_Example.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/f525f0f5bebc26b55dce010ca549a1e4/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_2_Power_Law_Example.png)  
+_**Figure 2.** An example power law learning curve._
+
+These plots are usually done on log-log axes, where data fitting a power curve will appear linear. Figure 3 shows the actual curve for c-Si PV module production costs, which appear to follow a power-law curve quite well starting in the mid 1980's.
+
+[![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/162240ba7580e71ef572a8a17092026c/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_solar_power_law_curve.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/162240ba7580e71ef572a8a17092026c/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_solar_power_law_curve.png)  
+<small>_**Figure 3.** PV module prices exhibiting power-law-like behavior. Data from the [Fraunhofer Institute](https://www.ise.fraunhofer.de/de/downloads/pdf-files/aktuelles/photovoltaics-report-in-englischer-sprache.pdf). Power law fit to data from 1986-2015 has C1 of ~5 and a of ~.4._</small>
+
+In contrast to a personal learning curve (perhaps a steep initial learning curve for riding a bicycle until one reaches a certain proficiency), what is relevant here is a whole-industry learning process in which all participants can benefit by what is learned by each. The first such economic learning curve described was for aircraft; other familiar examples of power law learning curve behavior are the price of computer memory (what was ~ $1/byte 50 years ago is today under $1 per gigabyte) and the computing power per dollar, which has increased as more transistors can be fabricated on a silicon wafer. What would have been a multi-million dollar supercomputer in 1980 is an inexpensive laptop today. Solar PV costs have fallen for many reasons, from reductions in silicon costs with scale of production to improved manufacturing processes with less waste. How long might we expect this power law trend to continue? Though there is no clear end in sight, there are some limiting factors, especially since there are many relevant costs some of which may not be as compressible as module costs.
+
+[![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/98271f816824b5a436c9153e8063a171/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_4_costs_breakdown.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/98271f816824b5a436c9153e8063a171/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_4_costs_breakdown.png)  
+<small>_**Figure 4.** Cost breakdown of industrial scale US PV installations. Data from [NREL](http://www.nrel.gov/docs/fy15osti/64746.pdf)._</small>
+
+Even if modules prices fall at the rate from Figure 3, and assuming 35% yearly growth of cumulative PV production, they would still be around $.2/W a decade from now. Other hardware costs can likely decrease as well, but probably not by a large amount. There is much more uncertainty in the fate of "soft costs" related to development, permitting, taxes, overhead costs for developers, etc. These vary by region, [especially for rooftop systems](http://energytransition.de/2015/05/solar-twice-as-expensive-in-us-as-in-germany/).
+
+### References
+
+For more detailed reading on this topic, check out:
+
+*   [Learning from the Sun](http://www.ecn.nl/docs/library/report/2004/c04035.pdf) (PDF download, 1.4 MB), an EU-supported document from 2004
+*   [Technology Learning Curves for Energy Policy Support](http://ftp.jrc.es/EURdoc/JRC73231.pdf) (PDF download, 1 MB), from the EU Joint Research Centre in 2012
+*   [The Future of Solar Energy](http://energy.mit.edu/wp-content/uploads/2015/05/MITEI-The-Future-of-Solar-Energy.pdf) (PDF download, 13.9 MB), from MIT in 2015, especially Appendix A
 
 
 
