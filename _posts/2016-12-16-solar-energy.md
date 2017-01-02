@@ -846,7 +846,7 @@ Thin film PV production is a more varied technology. The environmental concerns 
 ----
 #### Solar > Intermittency > Intermittency
 
-
+-> reliable 
 
 - gas peak
 - different region, transimission
