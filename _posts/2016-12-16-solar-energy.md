@@ -835,6 +835,10 @@ triple junction cell
      Sivle ink
      carbon ink
 
+0.3 years EPBT
+
+cost competetive
+
 ISO 44000
 
 methodological consistency
