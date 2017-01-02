@@ -791,7 +791,7 @@ triple junction cell
 - inventory analysis 
 - impact assessment 
 - interpretation
-
+ISO 44000
 
 
 raw material acqueisition 
