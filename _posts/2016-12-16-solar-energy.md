@@ -711,8 +711,13 @@ Turning to more specific data for different locations on earth, there are two co
 Image described below
 Figure 2. Global Horizontal Irradiation for Birmingham, Alabama, US, for January 1 and 2 and June 11 and 12, 1990. Notice how much higher it is for summer months than winter months. The daily average for June 11 and 12 is ~160 W/m2, close to the global yearly average GHI; for January 1 and 2 it's just 40 W/m2 (though there is clearly some effect from weather on all days, especially January 2). Data from NREL http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/hourly/
 
-Figure 3 below shows four maps of average daily insolation for the US from NREL: one for a "flat plate" collector, one for a collector tilted at a fixed angle equal to the latitude of the location (a good though imperfect rule of thumb to maximize output), one for a N-S axis tracking system (tracks the sun by rotating along a single North-South axis), and one for a two-axis tracking system that points panels directly at the sun at all times.
 
+
+
+
+
+Figure 3 below shows four maps of average daily insolation for the US from NREL: one for a "flat plate" collector, one for a collector tilted at a fixed angle equal to the latitude of the location (a good though imperfect rule of thumb to maximize output), one for a N-S axis tracking system (tracks the sun by rotating along a single North-South axis), and one for a two-axis tracking system that points panels directly at the sun at all times.
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/ab10c43215b1d060949379ed7d2a7292/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_US_resource.png)
 Image described below
 Figure 3. Daily solar insolation in the US, averaged over a year, in kWh/m2-day, for a flat plate, plate tilted at latitude, N-S axis tracking system tilted at latitude, and a two-axis tracking system. Notice how much tilt and single-axis tracking increase insolation. Two-axis tracking gives a fairly small increase over single-axis tracking. Individual images compiled from http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
 
