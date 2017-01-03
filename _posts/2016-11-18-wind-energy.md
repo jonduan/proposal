@@ -75,6 +75,18 @@ Offshore wind is primarily different from onshore wind in terms of its magnitude
 The wind speed is larger and more uniform offshore than onshore.
 
 
+##### Histogram
+
+
+A histogram is typically used to characterise the wind.
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/1705721d8061af9c8c8acef9e23f4478/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Histogram.png)
+
+
+
+
+
+
 
 
 
