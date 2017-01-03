@@ -66,7 +66,14 @@ histgram --- pdf
 approximated by
 Weibull distribution
 
+##### Onshore and offshore wind
 
+The wind speed is larger and more uniform offshore than onshore.
+
+Offshore wind is primarily different from onshore wind in terms of its magnitude and uniformity or steadiness.
+
+
+The wind speed is larger and more uniform offshore than onshore.
 
 
 
