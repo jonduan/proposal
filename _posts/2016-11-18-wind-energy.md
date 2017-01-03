@@ -107,6 +107,8 @@ p = ur * T
 
 ur = 2/3 u
 
+Cp = 0.59 =  2/3 * 8/9
+
 TSR = OMEGA* r/ u
 
 tip speed ratio
