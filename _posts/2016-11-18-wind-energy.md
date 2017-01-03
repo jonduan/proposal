@@ -103,14 +103,14 @@ Is there a simple way to model the operation of a wind turbine?
 
 Why do most modern turbines have only 3 blades? 
 
+p = u * 
 
 
-
-TSR
+TSR = OMEGA* r/ u
 
 tip speed ratio
 
-
+r
 
 
 
