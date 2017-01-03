@@ -60,6 +60,10 @@ wind variability
 global vs local effect
 10 minutes stable 
 
+mean velocity
+
+
+
 
 
 
