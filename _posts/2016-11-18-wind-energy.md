@@ -163,9 +163,15 @@ cut out 25ms
 rated power 12 - 17 ms
 
 
-torpue control
+torque control
 
 pitch control
+
+capacity factor
+
+
+
+
 
 
 
