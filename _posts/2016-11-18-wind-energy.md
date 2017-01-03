@@ -156,7 +156,8 @@ Can a wind turbine operate at any wind speed? How does one estimate the annual p
 
 
 
-
+cut in 3ms
+cut out 25ms
 
 
 
