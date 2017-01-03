@@ -147,6 +147,20 @@ The velocity of the tip of the blade is 6 times the wind speed.
 
 Tip-speed ratio is the ratio of the speed of the tip of a rotor's blade and the velocity of the oncoming wind.
 
+#### Week 5: Wind Energy > 5.4 Power curve
+
+
+What is the relation between the wind speed and the power extracted by a wind turbine?
+
+Can a wind turbine operate at any wind speed? How does one estimate the annual power delivered by a turbine without knowledge of the wind speed at all times?
+
+
+
+
+
+
+
+
 
 ----
 ----
