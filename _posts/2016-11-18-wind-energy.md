@@ -154,7 +154,7 @@ What is the relation between the wind speed and the power extracted by a wind tu
 
 Can a wind turbine operate at any wind speed? How does one estimate the annual power delivered by a turbine without knowledge of the wind speed at all times?
 
-
+u^3
 
 cut in 3ms
 cut out 25ms
