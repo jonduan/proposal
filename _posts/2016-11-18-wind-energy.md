@@ -55,6 +55,8 @@ offshore strong  uniform
 
 onshore 
 
+wind variablility
+
 
 
 
