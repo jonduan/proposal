@@ -10,6 +10,42 @@ tags:
 ---
 
 
+
+[Week 5: Wind Energy > Intro - Wind Energy](https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/8b0ff754981f4364a80eec39b14ede03/8a2b73ee0fbf4d11a81369f765d095ac/)
+
+First we are going to look into the market of Wind Energy. Then we will look into more depth into wind as a source, aerodynamics, the relation between wind speed and power, and the transmission of the electricity from the turbine to the consumer. You will also learn about future trends in Wind Energy.
+
+
+
+#### Week 5: Wind Energy > 5.1 Market Analysis
+
+How many wind turbines are installed each year? 
+
+Which countries generate the maximum percentage of their electricity requirements from the wind? Is offshore energy the future?
+
+
+
+###### How many turbines?
+
+In 2012, Denmark produced 30% of its electricity through wind energy. If the total production was 30 700 GWh, approximately how many modern 5 MW wind turbines would be needed to produce the relevant wind energy assuming that the turbines operated at 25% of their capacity?
+
+2 800
+
+The rated power multiplied by the capacity factor and the number of hours in a year, gives the annual power production of one turbine.
+
+#### Week 5: Wind Energy > 5.2 Wind energy resource 
+
+
+
+How and why does the wind blow?
+
+What provides wind with the energy that wind turbines convert into electricity? Is there a difference between the wind on land and at sea? 
+
+
+
+
+
+
 [Deepwater Wind LLC](http://www.bloomberg.com/news/articles/2016-08-16/deepwater-nearing-completion-on-first-u-s-offshore-wind-project) is on the verge of completing the first offshore wind farm in U.S. waters, a milestone for an industry that has struggled for a more than decade to build in North America.
 
 
@@ -82,6 +118,3 @@ In this case, how much energy expressed in kWh/day per person could be produced 
 Total power: 3.42⋅10⁹ (m²) x 2.2 (Wm⁻²) =7.52⋅10⁹ (W) = 7.524⋅10⁶ kW.
 Energy per person per day:
 7.524⋅10⁶ (kW) × 24 (h) / 127⋅10⁶ (persons) = 1.42 kWh/p/d
-
-
-
