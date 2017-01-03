@@ -62,7 +62,7 @@ global vs local effect
 
 mean velocity
 
-
+histgram --- pdf
 
 
 
