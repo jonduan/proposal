@@ -43,7 +43,11 @@ What provides wind with the energy that wind turbines convert into electricity? 
 
 trade wind
 
+
 sea breeze.
+
+
+
 
 
 
