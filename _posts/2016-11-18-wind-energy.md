@@ -116,6 +116,8 @@ tip speed ratio
 r
 
 
+
+
 ##### Power produced
 
 
@@ -126,9 +128,13 @@ A single wind turbine is placed in a wind flowing at 3m/s. The rotor exerts a fo
 
 The power is the product of the force exerted by the rotor and the velocity at the rotor. Using Betz theory, the velocity at the rotor is two-third of the incoming wind speed.
 
+##### Blades and power
 
 
 
+Yet, three-blade wind turbines are the most commonly used because:
+
+The air has to go through the rotor's plane for its energy to be extracted by the blades. Should there be a blockage, say with more number of blades, the air will certainly exert more force on the rotor (the blades) but its energy will not be converted into the rotatary motion of the blades and hence, wind energy.
 
 
 ----
