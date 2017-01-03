@@ -136,6 +136,17 @@ Yet, three-blade wind turbines are the most commonly used because:
 
 The air has to go through the rotor's plane for its energy to be extracted by the blades. Should there be a blockage, say with more number of blades, the air will certainly exert more force on the rotor (the blades) but its energy will not be converted into the rotatary motion of the blades and hence, wind energy.
 
+##### Tip Speed Ratio for maximum power
+
+
+A wind turbine is designed to work at a Tip Speed Ratio TSR=6. This means that it will produce its maximum power when:
+
+
+The velocity of the tip of the blade is 6 times the wind speed.
+
+
+Tip-speed ratio is the ratio of the speed of the tip of a rotor's blade and the velocity of the oncoming wind.
+
 
 ----
 ----
