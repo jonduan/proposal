@@ -160,7 +160,7 @@ cut in 3ms
 cut out 25ms
 
 
-rated power
+rated power 12 - 17 ms
 
 
 
