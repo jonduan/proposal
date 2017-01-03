@@ -163,6 +163,10 @@ cut out 25ms
 rated power 12 - 17 ms
 
 
+torpue control
+
+pitch control
+
 
 
 ----
