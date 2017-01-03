@@ -57,7 +57,9 @@ onshore
 
 wind variability
 
-global local effect
+global vs local effect
+
+
 
 
 
