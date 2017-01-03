@@ -94,7 +94,7 @@ What is the main origin of large scale wind flows?
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/cdafc59febb0fb2cace219455a1d0157/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_LargeScaleWind.jpg)
 
-
+Air circulations come from the temperature differences between different regions.
 
 
 
