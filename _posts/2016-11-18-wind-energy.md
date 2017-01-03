@@ -103,7 +103,7 @@ Is there a simple way to model the operation of a wind turbine?
 
 Why do most modern turbines have only 3 blades? 
 
-p = u * 
+p = ur * T
 
 
 TSR = OMEGA* r/ u
@@ -113,12 +113,23 @@ tip speed ratio
 r
 
 
+##### Power produced
+
+
+A single wind turbine is placed in a wind flowing at 3m/s. The rotor exerts a force of 10^6 Newton on the flow. What is the maximum power produced by the wind turbine? Use Betz' theory.
+
+
+2MW
+
+The power is the product of the force exerted by the rotor and the velocity at the rotor. Using Betz theory, the velocity at the rotor is two-third of the incoming wind speed.
 
 
 
 
 
 
+----
+----
 
 [Deepwater Wind LLC](http://www.bloomberg.com/news/articles/2016-08-16/deepwater-nearing-completion-on-first-u-s-offshore-wind-project) is on the verge of completing the first offshore wind farm in U.S. waters, a milestone for an industry that has struggled for a more than decade to build in North America.
 
