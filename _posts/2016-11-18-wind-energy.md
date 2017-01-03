@@ -83,10 +83,13 @@ A histogram is typically used to characterise the wind.
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/1705721d8061af9c8c8acef9e23f4478/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Histogram.png)
 
 
+The frequency of occurrence of a certain wind speed (e.g. 10-minute average) at a given location.
 
 
+##### Large-scale wind flow
 
 
+What is the main origin of large scale wind flows?
 
 
 
