@@ -105,6 +105,7 @@ Why do most modern turbines have only 3 blades?
 
 p = ur * T
 
+ur = 2/3 u
 
 TSR = OMEGA* r/ u
 
