@@ -41,6 +41,10 @@ How and why does the wind blow?
 
 What provides wind with the energy that wind turbines convert into electricity? Is there a difference between the wind on land and at sea? 
 
+sea breeze.
+
+
+
 
 
 
