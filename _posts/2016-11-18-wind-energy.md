@@ -184,6 +184,10 @@ Two wind turbines are placed at the same location offshore. One has a capacity f
 
 The capacity factor indicates the percentage of time a system runs at full power over a certain period of time. But a turbine with a large capacity factor does not necessary produce more power than a turbine with a small capacity factor. In order to quantify the power produced by WT1 and WT2, we need to know the rated power of WT1 and WT2 and the wind conditions at their location.
 
+----
+##### Theoretical power
+
+A 8 MW wind turbine reaches this power at a wind speed of 16m/s. What is the theoretical power produced by the wind turbine at a wind speed of 8 m/s?
 
 
 
