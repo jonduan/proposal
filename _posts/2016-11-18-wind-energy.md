@@ -188,8 +188,8 @@ The capacity factor indicates the percentage of time a system runs at full power
 ##### Theoretical power
 
 A 8 MW wind turbine reaches this power at a wind speed of 16m/s. What is the theoretical power produced by the wind turbine at a wind speed of 8 m/s?
-
-
+1 MW
+The theoretical power varies as the cube of the velocity. So at half the original wind speed, the turbine produces in theory an eight of the original power.
 
 
 
