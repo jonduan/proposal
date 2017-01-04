@@ -200,6 +200,14 @@ How does one estimate the power that a wind turbine can produce over a year?
 
 Don't we need to know the wind speed and direction at every moment to estimate a turbine's output? 
 
+##### Wake effects
+
+
+If the wind flow is aligned with the wind turbine axis, what is the main effect of a wind turbine on the wind flow at one diameter downstream of the nacelle?
+It decelerates the wind flow.
+
+A wind turbine works by extracting kinetic energy from the wind. Because of the mass of the air remains unchanged, the reduction in kinetic energy is simultaneous with a reduction in velocity.
+
 
 
 
