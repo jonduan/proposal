@@ -192,6 +192,17 @@ A 8 MW wind turbine reaches this power at a wind speed of 16m/s. What is the the
 The theoretical power varies as the cube of the velocity. So at half the original wind speed, the turbine produces in theory an eight of the original power.
 
 
+----
+
+#### Week 5: Wind Energy > 5.5 Energy yield
+
+How does one estimate the power that a wind turbine can produce over a year?
+
+Don't we need to know the wind speed and direction at every moment to estimate a turbine's output? 
+
+
+
+
 
 ----
 ----
