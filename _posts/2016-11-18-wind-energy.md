@@ -156,11 +156,11 @@ Can a wind turbine operate at any wind speed? How does one estimate the annual p
 
 u^3
 
-cut in 3ms
-cut out 25ms
+cut in 3m/s
+cut out 25m/s
 
 
-rated power 12 - 17 ms
+rated power 12 - 17 m/s
 
 
 torque control
@@ -169,6 +169,20 @@ pitch control
 
 capacity factor
 
+----
+Below rated power, torque control aims at:Harnessing the maximal power from the wind.
+
+Torque control tries to operate the wind turbine in a manner that extracts the maximum possible power for a given wind speed.
+
+
+
+##### Capacity factor
+
+
+
+Two wind turbines are placed at the same location offshore. One has a capacity factor of 0.3 (WT1) and the other has a capacity factor of 0.4 (WT2). What can we say about the power produced by these wind turbines?
+
+The capacity factor indicates the percentage of time a system runs at full power over a certain period of time. But a turbine with a large capacity factor does not necessary produce more power than a turbine with a small capacity factor. In order to quantify the power produced by WT1 and WT2, we need to know the rated power of WT1 and WT2 and the wind conditions at their location.
 
 
 
@@ -250,3 +264,7 @@ In this case, how much energy expressed in kWh/day per person could be produced 
 Total power: 3.42⋅10⁹ (m²) x 2.2 (Wm⁻²) =7.52⋅10⁹ (W) = 7.524⋅10⁶ kW.
 Energy per person per day:
 7.524⋅10⁶ (kW) × 24 (h) / 127⋅10⁶ (persons) = 1.42 kWh/p/d
+
+
+
+
