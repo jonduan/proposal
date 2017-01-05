@@ -354,6 +354,13 @@ Sea.
 
 Placing wind turbines out of sight makes them readily acceptable. Offshore wind offers a simple solution by distancing the turbines from people.
 
+###### Volatility
+
+
+An important factor to produce energy from the wind, is wind itself! It is necessary that the wind blows steadily over the year. The absence of ‘volatility’ indicates steady production of electricity from a source. Given your knowledge of wind at sea and land, at which location would the volatility be higher?
+Land.
+Offshore wind is generally faster and more uniform than onshore wind, guaranteeing steady production of wind energy. Therefore, the volatility is lower at sea.
+
 
 
 
