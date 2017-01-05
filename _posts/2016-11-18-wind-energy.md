@@ -260,6 +260,14 @@ Because direct drive generators are more efficient than high-speed generators.
 
 High-speed generators require a gearbox to speed up the generator shaft. A gearbox comprises a series of gears that mechanically interact with each other. The friction between these moving gears leads to a loss in energy, wear and tear that requires more maintenance and the slowing down of the generator shaft.
 
+###### Why are high voltages necessary for long distance transmission?
+
+
+
+Because higher voltages result in lower transmission losses.
+
+
+The loss in power is the product of the resistance and the current. The resistance is that of the wire, whereas the current is governed by the generator. For a given power, P=VI. Increasing the voltage will lead to a reduction in the current and hence a lesser resistive loss, Loss=RI.
 
 
 
