@@ -269,8 +269,10 @@ Because higher voltages result in lower transmission losses.
 
 The loss in power is the product of the resistance and the current. The resistance is that of the wire, whereas the current is governed by the generator. For a given power, P=VI. Increasing the voltage will lead to a reduction in the current and hence a lesser resistive loss, Loss=RI.
 
+#### Week 5: Wind Energy > 5.7 Future trends
+How far offshore can one build a wind farm?
 
-
+Can turbines be placed in deeper waters? Watch this video to know more about the future of wind energy and also new innovative concepts to harness wind energy at lower costs.
 
 
 ----
