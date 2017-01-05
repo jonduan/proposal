@@ -402,6 +402,20 @@ Sea.
 It is generally more economical to place the turbines on land due to ease of access. However, in this case purchasing land to place wind turbines could be expensive and the load being high, requires the placement of a large number of turbines. Therefore, sea could be a more economical option in terms of deployment
 
 
+###### Expansion
+
+
+Why is the addition of extra wind turbines to the proposed wind farm easier at sea in this scenario?
+
+Onshore expansion can be restricted due to industrial growth.
+
+People may already object to placing turbines on land.
+
+
+
+In this situtation, the city is very likely to expand. Therfore, land prices would be very high to install a large number of turbines to meet the required load, making sea a better option to accommodate future expansion.
+
+
 
 
 
