@@ -321,8 +321,13 @@ Use the following chart to perform a pro-con analysis on whether one must place 
 
 
 
+###### Costs
 
 
+While making a wind farm, it is important to consider the costs involved. These can be divided into installation (foundations, cables, transformers) and maintenance (repairs, replacement, decommissioning). Distance to the wind farm and the ease of access influences these costs greatly. With this in mind, where would it be most economical to deploy turbines, in this situation?
+
+Land.
+In this situation, a small town must be supplied with wind energy. As the demands are low, it is economical to place the turbines on land where they could be easily maintained and repaired.
 
 
 
