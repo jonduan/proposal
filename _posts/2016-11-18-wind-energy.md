@@ -330,6 +330,20 @@ Land.
 In this situation, a small town must be supplied with wind energy. As the demands are low, it is economical to place the turbines on land where they could be easily maintained and repaired.
 
 
+###### Maintenance
+
+
+From the description provided in the previous question, in which situation will the costs of maintenance be lower?
+
+Land.
+Maintenance on land is generally cheaper due to easy accessibility. However, in certain cases, such as turbines placed on mountains, maintenance could be a costly affair.
+
+###### Decision making
+
+
+The decision making process for this wind park is most complicated for?
+Sea.
+Offshore wind energy is expensive. Therefore, the decision-making process is more comprehensive and aimed at finding a trade-off between investment, maintenance and energy production.
 
 
 
