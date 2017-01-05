@@ -218,6 +218,25 @@ The annual power is obtained by calculating the theoretical power (5MW * 365 day
 
 17.5 GWh
 
+
+###### Power curve and histogram
+
+Shown below are two graphs. The first, depicts the power production of a wind turbine as a function of velocity. The second, depicts a relation between a wind velocity and the duration for which it persists over a year. Based on these graphs, which one of the graphs underneath best represents (if at all) the energy produced by the wind turbine over a year (assume 100% capacity).
+
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b80679ec03d22a34914dd2765b96db16/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Placement_PQ2.png）
+
+
+
+The energy is a product of the power and the duration for which the power is produced. Through piece-wise multiplication of the histogram and the power curve, one can obtain the energy production.
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/9d2bb8f8b0af59719c9cb1541ef7034f/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Placement_PQ2_c.png)
+
+
+
+
+
 ----
 ----
 
