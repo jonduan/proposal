@@ -296,6 +296,16 @@ What is the main reason why harnessing wind energy at sea and at high altitudes 
 The wind speed is stronger offshore and increases with altitude. 
 Extraction of energy from the wind is most useful when the wind is reasonably fast and steady.
 
+##### Downwind turbines
+
+
+Where is the rotor installed on a downwind wind turbine?
+
+On the back side of the nacelle.
+
+In aerodynamics, downwind refers to direction along the velocity of the wind. A downwind turbine places the rotor downwind of the nacelle. Therefore, the wind first passes over the nacelle before engaging the rotor and the blades.
+
+
 
 
 ----
