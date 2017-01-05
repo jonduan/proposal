@@ -208,6 +208,12 @@ It decelerates the wind flow.
 
 A wind turbine works by extracting kinetic energy from the wind. Because of the mass of the air remains unchanged, the reduction in kinetic energy is simultaneous with a reduction in velocity.
 
+##### Annual power production
+
+
+What is a good estimation of the annual power produced by a 5MW wind turbine with a capacity factor of 0.4 placed offshore in an averaged wind speed of 2m/s?
+
+
 
 
 
