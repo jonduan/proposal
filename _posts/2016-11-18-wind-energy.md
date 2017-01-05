@@ -284,8 +284,8 @@ What is the most widely used type of foundations in offshore wind energy?
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/677e497df7648a5f6672601cce8109d2/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Foundation.png)
 
 
-
-
+Monopiles.
+The type of foundation is influenced by the depth and the cost. For shallow waters, monopiles are robust and easily to manufacture. As most offshore wind farms are currently in shallow waters, the monopile remains the foundation of choice.
 
 
 
