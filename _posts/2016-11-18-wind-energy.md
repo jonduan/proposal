@@ -275,6 +275,25 @@ How far offshore can one build a wind farm?
 Can turbines be placed in deeper waters? Watch this video to know more about the future of wind energy and also new innovative concepts to harness wind energy at lower costs.
 
 
+##### Foundations
+
+
+What is the most widely used type of foundations in offshore wind energy?
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/677e497df7648a5f6672601cce8109d2/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Foundation.png)
+
+
+
+
+
+
+
+
+
+
+
+
 ----
 ----
 
