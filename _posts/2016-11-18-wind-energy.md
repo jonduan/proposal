@@ -345,8 +345,14 @@ The decision making process for this wind park is most complicated for?
 Sea.
 Offshore wind energy is expensive. Therefore, the decision-making process is more comprehensive and aimed at finding a trade-off between investment, maintenance and energy production.
 
+###### Acceptability
 
 
+Wind turbines and wind farms comprise large structures, often visible in areas with low buildings or open fields. Some people consider them as ‘visual pollution’. Where should the turbines be placed to ensure social acceptability?
+
+Sea.
+
+Placing wind turbines out of sight makes them readily acceptable. Offshore wind offers a simple solution by distancing the turbines from people.
 
 
 ----
