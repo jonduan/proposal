@@ -391,9 +391,15 @@ Use the following chart to perform a pro-con analysis on whether one must place 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b562d5fad4d543f2730d6a1df43d692e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/windmolenpark_op_zee.png)
 
 
+###### Costs
 
 
+While making a wind farm, it is important to consider the costs involved. These can be divided into installation (foundations, cables, transformers) and maintenance (repairs, replacement, decommissioning). Distance to the wind farm and the ease of access influences these costs greatly. With this in mind, where would it be most economical to deploy turbines, in this situation?
 
+
+Sea.
+
+It is generally more economical to place the turbines on land due to ease of access. However, in this case purchasing land to place wind turbines could be expensive and the load being high, requires the placement of a large number of turbines. Therefore, sea could be a more economical option in terms of deployment
 
 
 
