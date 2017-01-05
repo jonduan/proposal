@@ -355,6 +355,16 @@ Sea.
 Placing wind turbines out of sight makes them readily acceptable. Offshore wind offers a simple solution by distancing the turbines from people.
 
 
+
+
+
+
+
+
+
+
+
+
 ----
 ----
 
