@@ -361,6 +361,36 @@ An important factor to produce energy from the wind, is wind itself! It is neces
 Land.
 Offshore wind is generally faster and more uniform than onshore wind, guaranteeing steady production of wind energy. Therefore, the volatility is lower at sea.
 
+###### Expansion
+
+
+Why is the addition of extra wind turbines to the proposed wind farm easier at land in this scenario?
+
+
+The town is unlikely to expand. Therefore, there is enough land for new turbines.
+
+
+
+It is expensive to add more turbines at sea for a very small power load (such as this case).
+
+A few turbines on land may be accepted socially, given their benefits.
+
+In this situtation, the small town is unlikely to expand. Therfore, land could be purchased at a cheap rate to install new turbines. Further, adding turbines at sea is a more expensive process as it requires additional transportation to the offshore location, floating hauling machinery (cranes) and entails more expensive maintenance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
