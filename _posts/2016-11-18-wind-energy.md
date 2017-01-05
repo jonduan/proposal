@@ -243,6 +243,14 @@ How does one transmit energy from a wind turbine to a consumer?
 What strategies are used to ensure the efficient transmission of electricity from offshore wind farms? 
 
 
+Why do wind turbine manufacturers use gearboxes?
+
+To increase the rotational speed of the shaft so that a more compact generator can be used.
+
+A generator produces electricity by moving a conductor in a magnetic field. The speed of the conductor and the strength of the field directly influence the power produced. To increase the strength of the magnetic field, one can increase the size of the magnet or use a stronger magnet. The former leads to additional weight and volume, whereas the latter is not economical or safe. Therefore, the easiest solution is to increase the speed of the conductor or its rotational velocity through a gearbox.
+
+
+
 
 
 
