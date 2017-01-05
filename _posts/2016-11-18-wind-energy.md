@@ -214,9 +214,9 @@ A wind turbine works by extracting kinetic energy from the wind. Because of the 
 What is a good estimation of the annual power produced by a 5MW wind turbine with a capacity factor of 0.4 placed offshore in an averaged wind speed of 2m/s?
 
 
+The annual power is obtained by calculating the theoretical power (5MW * 365 days * 24 hours) and then multiplying the result with the capacity factor.
 
-
-
+17.5 GWh
 
 ----
 ----
