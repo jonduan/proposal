@@ -288,9 +288,13 @@ Monopiles.
 The type of foundation is influenced by the depth and the cost. For shallow waters, monopiles are robust and easily to manufacture. As most offshore wind farms are currently in shallow waters, the monopile remains the foundation of choice.
 
 
+##### Wind energy at sea and heights
 
 
+What is the main reason why harnessing wind energy at sea and at high altitudes are good ideas?
 
+The wind speed is stronger offshore and increases with altitude. 
+Extraction of energy from the wind is most useful when the wind is reasonably fast and steady.
 
 
 
