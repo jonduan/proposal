@@ -225,13 +225,24 @@ Shown below are two graphs. The first, depicts the power production of a wind tu
 
 
 
-![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b80679ec03d22a34914dd2765b96db16/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Placement_PQ2.png）
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b80679ec03d22a34914dd2765b96db16/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Placement_PQ2.png)
 
 
 
 The energy is a product of the power and the duration for which the power is produced. Through piece-wise multiplication of the histogram and the power curve, one can obtain the energy production.
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/9d2bb8f8b0af59719c9cb1541ef7034f/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/Dhruv_Placement_PQ2_c.png)
+
+----
+
+#### Week 5: Wind Energy > 5.6 Electrical aspects 
+
+
+How does one transmit energy from a wind turbine to a consumer?
+
+What strategies are used to ensure the efficient transmission of electricity from offshore wind farms? 
+
+
 
 
 
