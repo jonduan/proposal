@@ -379,6 +379,17 @@ In this situtation, the small town is unlikely to expand. Therfore, land could b
 
 
 
+##### Case 2: Wind Energy for a large city
+
+
+Consider a large city located near the coast (2 km) and expands upto 2 km inland. It has about 50000 households and various industrial regions. For simplicity it can be considered as a city with 70000 households, each consuming about 4.5 MWh of electricity annually.
+
+Use the following chart to perform a pro-con analysis on whether one must place new turbines at sea or on land to power this city. Please assume that the turbines that can be used are rated at 2 MW. The capacity factors at sea and on land are 0.45 and 0.25 respectively. The city is an important industrial and technological centre and thus is very likely to expand both, towards the coast and inland.
+
+
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b562d5fad4d543f2730d6a1df43d692e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/windmolenpark_op_zee.png)
+
 
 
 
