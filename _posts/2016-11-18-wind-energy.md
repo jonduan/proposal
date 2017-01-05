@@ -305,6 +305,28 @@ On the back side of the nacelle.
 
 In aerodynamics, downwind refers to direction along the velocity of the wind. A downwind turbine places the rotor downwind of the nacelle. Therefore, the wind first passes over the nacelle before engaging the rotor and the blades.
 
+----
+#### Week 5: Wind Energy > Pros & Cons: Wind Energy > Case 1: Wind energy for a small town
+
+
+Case 1: Wind energy for a small town
+
+Wind energy for a small town
+
+Consider a small town located 3 km from the coast. It has about 2500 households, each consuming about 4 MWh of electricity per annum. The average wind speed is about 8 ms-1, as compared to the 10 ms-1 about 7 km from the coast offshore.
+
+Use the following chart to perform a pro-con analysis on whether one must place new turbines at sea or on land to power this small town. Please assume that the turbines that can be used are rated at 1.5 MW. The capacity factors at sea and on land are 0.45 and 0.25 respectively. The small town in unlikely to expand in size in the future.
+
+![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/b562d5fad4d543f2730d6a1df43d692e/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/windmolenpark_op_zee.png)
+
+
+
+
+
+
+
+
+
 
 
 
