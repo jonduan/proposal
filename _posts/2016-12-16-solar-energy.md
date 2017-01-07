@@ -17,9 +17,16 @@ In 2016, countries from Chile to the United Arab Emirates broke records with dea
 Since 2009, solar prices are down 62 percent, with every part of the supply chain trimming costs. That’s help cut risk premiums on bank loans, and pushed manufacturing capacity to record levels. By 2025, solar may be cheaper than using coal on average globally, according to Bloomberg New Energy Finance.
 
 “These are game-changing numbers, and it’s becoming normal in more and more markets," said Adnan Amin, International Renewable Energy Agency ’s director general, an Abu Dhabi-based intergovernmental group. "Every time you double capacity, you reduce the price by 20 percent.”
+
 ![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGfjdxcZgZok/v1/-1x-1.png)
 
 
+The average 1 megawatt-plus ground mounted solar system will cost 73 cents a watt by 2025 compared with $1.14 now, a 36 percent drop, said Jenny Chase, head of solar analysis for New Energy Finance.
+
+
+The solar supply chain is experiencing “a Wal-Mart effect” from higher volumes and lower margins, according to Sami Khoreibi, founder and chief executive officer of Enviromena Power Systems, an Abu Dhabi-based developer.
+
+The speed at which the price of solar will drop below coal varies in each country. Places that import coal or tax polluters with a carbon price, such as Europe and Brazil, will see a crossover in the 2020s, if not before. Countries with large domestic coal reserves such as India and China will probably take longer.
 
 
 #### Week 6: Solar Energy > Intro - Solar Energy > Welcome to week 6
