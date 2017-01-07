@@ -29,6 +29,8 @@ The solar supply chain is experiencing “a Wal-Mart effect” from higher volum
 The speed at which the price of solar will drop below coal varies in each country. Places that import coal or tax polluters with a carbon price, such as Europe and Brazil, will see a crossover in the 2020s, if not before. Countries with large domestic coal reserves such as India and China will probably take longer.
 
 
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3YBfKoS0aAQ/v2/-1x-1.png)
+
 #### Week 6: Solar Energy > Intro - Solar Energy > Welcome to week 6
 https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/7bd261cdd99948168de61c0b530ec83c/9e97e68a218c41a398556d754113f484/
 
