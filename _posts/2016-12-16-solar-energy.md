@@ -8,6 +8,13 @@ tags:
   - renewable
 ---
 
+### [Solar beat coal](https://www.bloomberg.com/news/articles/2017-01-03/for-cheapest-power-on-earth-look-skyward-as-coal-falls-to-solar)
+
+Solar power is now cheaper than coal in some parts of the world. In less than a decade, it’s likely to be the lowest-cost option almost everywhere.
+
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGfjdxcZgZok/v1/-1x-1.png)
+
+
 
 
 #### Week 6: Solar Energy > Intro - Solar Energy > Welcome to week 6
