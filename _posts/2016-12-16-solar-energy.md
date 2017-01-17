@@ -8,6 +8,15 @@ tags:
   - renewable
 ---
 
+
+### US solar potential 
+
+https://energy.gov/maps/solar-energy-potential
+
+
+
+
+
 ### [Solar beat coal](https://www.bloomberg.com/news/articles/2017-01-03/for-cheapest-power-on-earth-look-skyward-as-coal-falls-to-solar)
 
 Solar power is now cheaper than coal in some parts of the world. In less than a decade, it’s likely to be the lowest-cost option almost everywhere.
