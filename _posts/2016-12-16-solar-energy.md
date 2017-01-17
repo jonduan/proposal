@@ -13,7 +13,7 @@ tags:
 
 https://energy.gov/maps/solar-energy-potential
 
-
+http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
 
 
 
