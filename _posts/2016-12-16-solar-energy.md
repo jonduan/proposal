@@ -9,8 +9,7 @@ tags:
 ---
 
 
-
-https://www.greentechmedia.com/articles/read/PV-Plants-Can-Rival-Frequency-Response-Services-From-Natural-Gas-Peakers
+[First Solar Proves That PV Plants Can Rival Frequency Response Services From Natural Gas Peakers](https://www.greentechmedia.com/articles/read/PV-Plants-Can-Rival-Frequency-Response-Services-From-Natural-Gas-Peakers)
 
 Last summer, First Solar and California grid operator CAISO ran a set of tests to show that utility-scale solar PV, instead of being a disruptive influence on the power grid, could actually help stabilize it.
 
