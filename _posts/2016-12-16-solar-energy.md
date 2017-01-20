@@ -23,6 +23,14 @@ All told, the data from CAISO, First Solar and the Department of Energy’s Nati
 
 Utility-scale solar PV is already causing California some grid challenges, in the form of the duck curve -- a deep midday drop in net load driven by lots of solar flooding onto the grid, and a steep ramp-up starting in the late afternoon that extends into evening as solar fades away.
 
+CAISO is also experiencing “periods of oversupply conditions, especially pronounced during weekends when electricity demand is low and renewable production is high.” Currently, when faced with potentially destabilizing conditions like this, CAISO has no choice but to curtail renewable power.
+
+“Significant levels of renewables curtailment took place during certain days of the spring of 2016,” the report noted, including one day in late April when more than 2,000 megawatts of renewable generation had to be taken offline.
+
+![](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/CAISO_Curtailment_XL_600_370.png)
+
+
+
 ### US solar potential 
 
 https://energy.gov/maps/solar-energy-potential
