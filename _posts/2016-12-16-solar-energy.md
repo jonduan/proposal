@@ -29,7 +29,10 @@ CAISO is also experiencing “periods of oversupply conditions, especially prono
 
 ![](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/CAISO_Curtailment_XL_600_370.png)
 
+The only blips came in the afternoon, when clouds passed over the plant, reducing First Solar’s output and shrinking the headroom needed to maneuver. “However, even during these periods the plant was demonstrating good AGC performance by closely following the commanded set point,” according to the report.
 
+
+![](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/CAISO_AGCchart_clouds_XL_600_289.png)
 
 
 
