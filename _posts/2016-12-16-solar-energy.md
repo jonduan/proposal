@@ -31,6 +31,9 @@ CAISO is also experiencing “periods of oversupply conditions, especially prono
 
 
 
+
+
+
 ### US solar potential 
 
 https://energy.gov/maps/solar-energy-potential
