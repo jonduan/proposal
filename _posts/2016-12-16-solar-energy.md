@@ -8,7 +8,7 @@ tags:
   - renewable
 ---
 
-
+## good news
 [First Solar Proves That PV Plants Can Rival Frequency Response Services From Natural Gas Peakers](https://www.greentechmedia.com/articles/read/PV-Plants-Can-Rival-Frequency-Response-Services-From-Natural-Gas-Peakers)
 
 In California, an important test for solar farms as grid-balancing agents
