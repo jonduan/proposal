@@ -21,6 +21,7 @@ Last summer, First Solar and California grid operator CAISO ran a set of tests t
 
 All told, the data from CAISO, First Solar and the Department of Energy’s National Renewable Energy Laboratory (NREL) indicates that a utility-scale solar farm, equipped with standard inverters and software controls, can serve to smooth out grid fluctuations from the solar itself or from other sources.
 
+Utility-scale solar PV is already causing California some grid challenges, in the form of the duck curve -- a deep midday drop in net load driven by lots of solar flooding onto the grid, and a steep ramp-up starting in the late afternoon that extends into evening as solar fades away.
 
 ### US solar potential 
 
