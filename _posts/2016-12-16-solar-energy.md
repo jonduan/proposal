@@ -19,6 +19,8 @@ January 19, 2017
 Last summer, First Solar and California grid operator CAISO ran a set of tests to show that utility-scale solar PV, instead of being a disruptive influence on the power grid, could actually help stabilize it.
 
 
+All told, the data from CAISO, First Solar and the Department of Energy’s National Renewable Energy Laboratory (NREL) indicates that a utility-scale solar farm, equipped with standard inverters and software controls, can serve to smooth out grid fluctuations from the solar itself or from other sources.
+
 
 ### US solar potential 
 
