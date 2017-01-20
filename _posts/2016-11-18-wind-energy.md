@@ -27,7 +27,7 @@ The problem isn’t unique to the U.K. grid operators. China and Germany are als
 
 
 
-State-of-the-art wind forecasting techniques allow utilities and grid operators to anticipate and plan for increases or decreases in wind energy output.
+**State-of-the-art**wind forecasting techniques allow utilities and grid operators to anticipate and plan for increases or decreases in wind energy output.
 With wind forecasting, changes in wind energy output are factored into grid operations much like variations in demand – both change over a matter of 30 minutes or even hours (not a matter of seconds, such as when fossil or nuclear plants trip unexpectedly off line, or a tree falls on a transmission).
 Wind energy is a natural partner with hydro, Canada’s heritage energy asset. The wind blows strongest in winter when water reservoirs are lowest; water reserves are often highest when wind resources are typically lower.
 ”  http://canwea.ca/wind-facts/why-wind-works/
