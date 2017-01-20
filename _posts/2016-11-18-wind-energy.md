@@ -9,6 +9,22 @@ tags:
   - technology
 ---
 
+## Overload 
+
+https://www.bloomberg.com/news/articles/2016-08-23/hurricane-force-gusts-in-u-k-prompt-record-payout-to-wind-farms
+
+Scottish wind farms received a record 5.5 million pounds ($7.2 million) to shut down this month after hurricane-force gusts produced more electricity than could be consumed. 
+
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ixBMRlnJErEQ/v2/-1x-1.png)
+
+It’s not just wind farms that receive payments to occasionally to switch off. National Grid paid other fuel types such as hydro, nuclear and oil 8.75 million pounds in the first three months of the year, compared to 10.08 million pounds for wind, it said. The company can also curb trading with other countries through interconnectors.
+
+
+![](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFW0.KKy33HE/v2/-1x-1.png)
+
+
+The problem isn’t unique to the U.K. grid operators. China and Germany are also struggling to absorb the influx of renewable power, forcing turbines to stand idle and focusing attention on the efficiency of investments. Even with double the installed wind capacity, China is producing less electricity from turbines than the U.S.
+
 
 
 [Week 5: Wind Energy > Intro - Wind Energy](https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/8b0ff754981f4364a80eec39b14ede03/8a2b73ee0fbf4d11a81369f765d095ac/)
@@ -508,7 +524,3 @@ In this case, how much energy expressed in kWh/day per person could be produced 
 Total power: 3.42⋅10⁹ (m²) x 2.2 (Wm⁻²) =7.52⋅10⁹ (W) = 7.524⋅10⁶ kW.
 Energy per person per day:
 7.524⋅10⁶ (kW) × 24 (h) / 127⋅10⁶ (persons) = 1.42 kWh/p/d
-
-
-
-
