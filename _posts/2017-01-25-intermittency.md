@@ -28,7 +28,10 @@ it turns out that renewable energy actually becomes more predictable as the numb
     
 ![](http://blogs.scientificamerican.com/plugged-in/files/2015/03/LargeNumberAveraging.png)
     
-    Data collected through the Atmospheric Radiation Measurement (ARM) program reveal how aggregating solar resources across a utility territory significantly reduces second-to-second variations in power output, even when only 20 locations are combined. (Source: Perez et al., 2009)    
+    Data collected through the Atmospheric Radiation Measurement (ARM) program reveal how aggregating solar resources across a utility territory significantly reduces second-to-second variations in power output, even when only 20 locations are combined. (Source: Perez et al., 2009) 
+    
+Because the grid operator is only concerned with balancing the total amount of renewable generation with the rest of the grid, the Law of Large Numbers causes the amount of reserve capacity required to balance renewables with the grid on a second-by-second basis to be a lot less than intuition suggests. In a study commissioned by the Electric Reliability Council of Texas, General Electric calculated how much new reserve capacity will be required as Texas increases the amount of wind energy installed. The report found that an additional 15,000 megawatts of installed wind energy only requires an additional 18 megawatts of new flexible reserve capacity to maintain the stability of the grid. In other words, the spare capacity of one fast-ramping natural gas power plant can compensate for the variability introduced by 5,000 new average-sized wind turbines.
+    
     
     
     
