@@ -30,7 +30,7 @@ His proposed hydraulic hydro storage system gives us a chance to store thousands
 Please find the slides at http://de.slideshare.net/EduardHeindl... and an alternative version of the video (slides + audio only) at http://youtu.be/m3p_daUDvI8
 
 
-
+--------
 
 
 ![](https://uploads.disquscdn.com/images/02d3c5a3fd6d664508b1a19197b72c87f4ae139b6e115a1f8c295152c1ccd5fb.jpg)
@@ -39,6 +39,19 @@ Please find the slides at http://de.slideshare.net/EduardHeindl... and an altern
 
 
 
+---------------------
+
+[Portugal runs for four days straight on renewable energy alone
+Zero emission milestone reached as country is powered by just wind, solar and hydro-generated electricity for 107 hours](https://www.theguardian.com/environment/2016/may/18/portugal-runs-for-four-days-straight-on-renewable-energy-alone)
+
+
+![](https://i.guim.co.uk/img/media/933b66d512f9d6cea81ccaa0653cfa2b586fb55a/0_0_5999_3600/master/5999.jpg?w=1920&q=55&auto=format&usm=12&fit=max&s=cdb2089ad825407bfe07196cb0e8ae33)
+
+
+As recently as 2013, renewables provided only about 23% of Portugal’s electricity. By 2015 that figure had risen to 48%
+
+
+-------------------------
 
 ### [A closer look at that power potential figure](https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/d9b1e2746d084fcbaa442c4e1e6ffa6e/513982f2e92242079c1414dfd75843bb/)
 
