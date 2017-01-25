@@ -55,3 +55,10 @@ One must forecast demand, similar to forecasting wind & sun, and the traditional
 Different kinds of power generation & demand are variables with distinctly different dispatch characteristics (even demand management can be viewed as dispatchable demand). Balancing sources & sinks of electricity requires finding a mix of generators (and increasingly, demand management strategies) which succeeds with high probability. The claim that intermittent power sources like wind & solar are uniquely incompatible with the existing grid ignores the fact that variability that is already part of grid management.
 
 Consequently, adding intermittent renewables like wind & solar is not as big of a leap as some claim: existing peaking & load-following generators can handle modest amounts (with upgrades in forecasting & scheduling). (20% wind is a figure that's been around for decades, more recently 30%)
+
+
+
+
+
+
+
