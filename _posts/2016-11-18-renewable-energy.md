@@ -11,6 +11,9 @@ tags:
 
 Useful data sources
 
+
+
+
 The website of the International Energy Agency offers useful data on countries. Go to countries. Select a country and then select statistics (you can find this under country links).
 http://www.iea.org/newsroom/news/2016/november/world-energy-outlook-2016.html
 
@@ -25,6 +28,15 @@ The next few decades will herald a global change in energy production. The age o
 His proposed hydraulic hydro storage system gives us a chance to store thousands of GWh at low cost and low environmental impact. The simple yet riveting idea is to lift a rock the size of a soccer stadium using established technologies thereby storing energy. Due to the fact that underground rocks are practically unlimited, the global change to solar power can continue.
 
 Please find the slides at http://de.slideshare.net/EduardHeindl... and an alternative version of the video (slides + audio only) at http://youtu.be/m3p_daUDvI8
+
+
+
+
+
+![](https://uploads.disquscdn.com/images/02d3c5a3fd6d664508b1a19197b72c87f4ae139b6e115a1f8c295152c1ccd5fb.jpg)
+
+85% of global renewable electricity generation is hydro.
+
 
 
 
