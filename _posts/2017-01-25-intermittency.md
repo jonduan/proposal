@@ -32,6 +32,7 @@ it turns out that renewable energy actually becomes more predictable as the numb
     
 Because the grid operator is only concerned with balancing the total amount of renewable generation with the rest of the grid, the Law of Large Numbers causes the amount of reserve capacity required to balance renewables with the grid on a second-by-second basis to be a lot less than intuition suggests. In a study commissioned by the Electric Reliability Council of Texas, General Electric calculated how much new reserve capacity will be required as Texas increases the amount of wind energy installed. The report found that an additional 15,000 megawatts of installed wind energy only requires an additional 18 megawatts of new flexible reserve capacity to maintain the stability of the grid. In other words, the spare capacity of one fast-ramping natural gas power plant can compensate for the variability introduced by 5,000 new average-sized wind turbines.
     
+Fortunately, experience has shown that it is possible to effectively model and predict the aggregate renewable power available to the grid. Both wind and solar depend on natural systems that can be modeled and forecasted with reasonable accuracy. Today, wind energy makes up over 10 percent of Texas’s annual electricity supply, thanks in part to effective wind generation forecasts. This is especially significant because Texas has a unique isolated grid, with no way to access extra conventional electricity generation from outside the state.
     
     
     
