@@ -26,4 +26,9 @@ tags:
   
     it turns out that renewable energy actually becomes more predictable as the number of renewable generators connected to the grid increases thanks to the effect of geographic diversity and the Law of Large Numbers.
     
+![](http://blogs.scientificamerican.com/plugged-in/files/2015/03/LargeNumberAveraging.png)
+    
+Data collected through the Atmospheric Radiation Measurement (ARM) program reveal how aggregating solar resources across a utility territory significantly reduces second-to-second variations in power output, even when only 20 locations are combined. (Source: Perez et al., 2009)    
+    
+    
     
