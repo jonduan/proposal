@@ -62,7 +62,9 @@ So much power was produced by Denmark’s windfarms on Thursday that the country
 
 On an unusually windy day, Denmark found itself producing 116% of its national electricity needs from wind turbines yesterday evening. By 3am on Friday, when electricity demand dropped, that figure had risen to 140%.
 
+-------
 
+[American Samoan Island Of Ta’u Now Running On 100% Solar Electricity (5,328 SolarCity Panels + 60 Tesla Powerpacks)](https://cleantechnica.com/2016/11/23/american-samoan-island-tau-now-running-100-solar-electricity-5328-solarcity-panels-60-tesla-powerpacks/)
 
 -------------------------
 
