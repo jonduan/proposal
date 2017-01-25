@@ -26,11 +26,19 @@ It’s not just wind farms that receive payments to occasionally to switch off. 
 The problem isn’t unique to the U.K. grid operators. China and Germany are also struggling to absorb the influx of renewable power, forcing turbines to stand idle and focusing attention on the efficiency of investments. Even with double the installed wind capacity, China is producing less electricity from turbines than the U.S.
 
 
-
+---------------------------------------------------
 **State-of-the-art**wind forecasting techniques allow utilities and grid operators to anticipate and plan for increases or decreases in wind energy output.
 With wind forecasting, changes in wind energy output are factored into grid operations much like variations in demand – both change over a matter of 30 minutes or even hours (not a matter of seconds, such as when fossil or nuclear plants trip unexpectedly off line, or a tree falls on a transmission).
 Wind energy is a natural partner with hydro, Canada’s heritage energy asset. The wind blows strongest in winter when water reservoirs are lowest; water reserves are often highest when wind resources are typically lower.
 ”  http://canwea.ca/wind-facts/why-wind-works/
+
+
+
+
+
+
+
+--------------------------------------
 
 
 [Week 5: Wind Energy > Intro - Wind Energy](https://courses.edx.org/courses/course-v1:DelftX+EnergyX+2T2016/courseware/8b0ff754981f4364a80eec39b14ede03/8a2b73ee0fbf4d11a81369f765d095ac/)
