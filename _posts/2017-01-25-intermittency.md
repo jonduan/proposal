@@ -33,6 +33,17 @@ it turns out that renewable energy actually becomes more predictable as the numb
 Because the grid operator is only concerned with balancing the total amount of renewable generation with the rest of the grid, the Law of Large Numbers causes the amount of reserve capacity required to balance renewables with the grid on a second-by-second basis to be a lot less than intuition suggests. In a study commissioned by the Electric Reliability Council of Texas, General Electric calculated how much new reserve capacity will be required as Texas increases the amount of wind energy installed. The report found that an additional 15,000 megawatts of installed wind energy only requires an additional 18 megawatts of new flexible reserve capacity to maintain the stability of the grid. In other words, the spare capacity of one fast-ramping natural gas power plant can compensate for the variability introduced by 5,000 new average-sized wind turbines.
     
 Fortunately, experience has shown that it is possible to effectively model and predict the aggregate renewable power available to the grid. Both wind and solar depend on natural systems that can be modeled and forecasted with reasonable accuracy. Today, wind energy makes up over 10 percent of Texas’s annual electricity supply, thanks in part to effective wind generation forecasts. This is especially significant because Texas has a unique isolated grid, with no way to access extra conventional electricity generation from outside the state.
-    
+
+![](http://blogs.scientificamerican.com/plugged-in/files/2015/03/RenewablesLoadBalance.png)
+This figure from the U.S. Department of Energy Office of Energy Efficiency and Renewable Energy demonstrates how wind and solar can combine to produce a roughly steady output over the day. (Source: DOE/EERE)
+
+http://www.ercot.com/content/cdr/html/CURRENT_DAYSTWPF.html
+Forecasted and Actual Wind Power Production  Print Version
+This Dashboard provides a graphical view of the wind power production for the current day and the Day-Ahead by COP HSL, Short Term Wind Power Forecast (STWPF) and Wind Generation Resource Power Potential (WGRPP.) The graph updates hourly with the most recent COP HSL and Day-Ahead 1430 COP HSL; the Actual Hourly Average is graphed up to the current hour ending. The Actual Wind Power Production value in the upper right corner is updated every 5 minutes along with the update timestamp.
+Current Day provides 24 hours of the most recent COP HSL/STWPF/WGRPP and Day-Ahead 1430 COP HSL/STWPF/WGRPP and up to the previous hour ending for the actual hourly average.
+Next Day provides 24 hours of most recent COP HSL/STWPF/WGRPP and Day-Ahead 1430 COP HSL/STWPF/WGRPP.
+The graph is updated every 5 minutes. The browser is automatically refreshed every 5 minutes.
+Note: Data shown on displays should not be relied upon for forecasting, scheduling, or other market purposes. ERCOT makes no representations or warranties regarding the correctness or veracity of the data shown here and shall not be responsible for any party’s reliance on any such information.
+
     
     
