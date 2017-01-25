@@ -59,6 +59,11 @@ Consequently, adding intermittent renewables like wind & solar is not as big of 
 
 
 
+----------------
+
+BY 2020 the TESLA GIGAFACTORY in NEVADA will be 100% complete it will the single largest industrial manufacturing plant in the world and it will be 100% powered 24/7 by Solar, Wind, Geothermal and battery storage and buffering.
+
+
 
 
 
