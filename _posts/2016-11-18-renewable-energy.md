@@ -51,6 +51,19 @@ Zero emission milestone reached as country is powered by just wind, solar and hy
 As recently as 2013, renewables provided only about 23% of Portugal’s electricity. By 2015 that figure had risen to 48%
 
 
+------------------
+
+
+
+[Wind power generates 140% of Denmark's electricity demand
+Unusually high winds allowed Denmark to meet all of its electricity needs – with plenty to spare for Germany, Norway and Sweden too](https://www.theguardian.com/environment/2015/jul/10/denmark-wind-windfarm-power-exceed-electricity-demand)
+
+So much power was produced by Denmark’s windfarms on Thursday that the country was able to meet its domestic electricity demand and export power to Norway, Germany and Sweden.
+
+On an unusually windy day, Denmark found itself producing 116% of its national electricity needs from wind turbines yesterday evening. By 3am on Friday, when electricity demand dropped, that figure had risen to 140%.
+
+
+
 -------------------------
 
 ### [A closer look at that power potential figure](https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/d9b1e2746d084fcbaa442c4e1e6ffa6e/513982f2e92242079c1414dfd75843bb/)
