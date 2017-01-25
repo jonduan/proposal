@@ -66,6 +66,10 @@ On an unusually windy day, Denmark found itself producing 116% of its national e
 
 [American Samoan Island Of Ta’u Now Running On 100% Solar Electricity (5,328 SolarCity Panels + 60 Tesla Powerpacks)](https://cleantechnica.com/2016/11/23/american-samoan-island-tau-now-running-100-solar-electricity-5328-solarcity-panels-60-tesla-powerpacks/)
 
+
+
+
+
 -------------------------
 
 ### [A closer look at that power potential figure](https://courses.edx.org/courses/course-v1:HarvardX+ENGSCI137x+2T2016/courseware/d9b1e2746d084fcbaa442c4e1e6ffa6e/513982f2e92242079c1414dfd75843bb/)
