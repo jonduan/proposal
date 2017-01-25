@@ -39,6 +39,13 @@ First we are going to look into the market of Wind Energy. Then we will look int
 
 
 
+
+### [](https://blogs.scientificamerican.com/plugged-in/wind-energy-experts-see-lower-costs-bigger-turbines-on-the-horizon/)
+
+
+
+
+
 #### Week 5: Wind Energy > 5.1 Market Analysis
 
 How many wind turbines are installed each year? 
