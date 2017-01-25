@@ -45,5 +45,13 @@ Next Day provides 24 hours of most recent COP HSL/STWPF/WGRPP and Day-Ahead 1430
 The graph is updated every 5 minutes. The browser is automatically refreshed every 5 minutes.
 Note: Data shown on displays should not be relied upon for forecasting, scheduling, or other market purposes. ERCOT makes no representations or warranties regarding the correctness or veracity of the data shown here and shall not be responsible for any party’s reliance on any such information.
 
-    
-    
+
+------------------------------
+
+https://cleantechnica.com/2016/12/25/cost-of-solar-power-vs-cost-of-wind-power-coal-nuclear-natural-gas/
+The FACT is that demand is intermittent, making the whole grid (with or without renewable energy) intermittent.
+One must forecast demand, similar to forecasting wind & sun, and the traditional way of supplying power has been to dispatch different types of generators: baseload generators like coal & nuclear cannot be ramped up & down to meet load, so they run nearly full capacity around the clock; load-following generators can be scheduled to meet expected demand; peaking generators (like gas turbines & hydropower dams) can be adjusted to meet rapid demand changes.
+
+Different kinds of power generation & demand are variables with distinctly different dispatch characteristics (even demand management can be viewed as dispatchable demand). Balancing sources & sinks of electricity requires finding a mix of generators (and increasingly, demand management strategies) which succeeds with high probability. The claim that intermittent power sources like wind & solar are uniquely incompatible with the existing grid ignores the fact that variability that is already part of grid management.
+
+Consequently, adding intermittent renewables like wind & solar is not as big of a leap as some claim: existing peaking & load-following generators can handle modest amounts (with upgrades in forecasting & scheduling). (20% wind is a figure that's been around for decades, more recently 30%)
