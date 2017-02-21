@@ -106,18 +106,18 @@ Watts/person
 $$160000 \ TW \cdot hours \cdot \frac{10^{12} \ Watts}{1 \ TW} \cdot \frac{1}{7.4 \times 10^{9} \ people \cdot 8766 \ hours }  = 2500 Watts / person$$
 
 
-Which particles have about the same mass? 
+Which particles have about the same mass?
 Proton
 Neutron
 
-Which particles appear in equal numbers in all uncharged atoms? 
+Which particles appear in equal numbers in all uncharged atoms?
 
 Proton
 
 Electron
 
 Protons and neutrons are very similar in mass; electrons are about 2000 times lighter than either of them. Uncharged atoms have equal numbers of protons and electrons. Heavier atoms generally have a greater number of neutrons than protons.
- 
+
 **Electric Grid Efficiency**
 
 What is the average efficiency of electric grids in developed countries? That is, what percentage of the electrical power generated at power plants actually makes it to end users in countries like Australia, the UK, and the US?
@@ -159,7 +159,7 @@ About four fifths (80%) of total energy appropriated by humans is from fossil fu
 
 Fossil fuels first overtook biomass (mostly trees and crops) as England's primary energy source around the year 1900, which you may find surprisingly recent.
 
-#### 
+####
 energy unit
  - efficiency   0< efficiency <1
 
@@ -222,7 +222,7 @@ $$\frac{$12}{1 \ MMBTU} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $11 \ per \ GJ$$
 
 
 
-The International Energy Agency says Russia used ~60,000 PJ (Petajoules) of primary energy in 2013. The Energy Information Administration says the US used 98 Quadrillion BTU of primary energy in that same year. Which country used more energy? 
+The International Energy Agency says Russia used ~60,000 PJ (Petajoules) of primary energy in 2013. The Energy Information Administration says the US used 98 Quadrillion BTU of primary energy in that same year. Which country used more energy?
 
 
 The US did. Russia used 60 Exajoules; the US used 103 Exajoules.
@@ -235,7 +235,7 @@ $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 1 MMBTU = 1,000,000 BTU
 
 EJ = 1,000PJ = 1000,000TJ =  1000,000,000GJ
-Exajoules 
+Exajoules
 Petajoules
 gigajoule
 
@@ -280,7 +280,7 @@ How much more energy-dense is oil than coal, in energy per weight?
 
 We set this up as a fraction, with oil on top and coal on the bottom. We could use any measurement of energy density: for instance, joules per gram, kWh per ton, or even BTUs per pound. We've chosen to use gigajoules per kilogram.
 
-\frac{ 0.046 \ GJ / \ kg }{ 0.027 \ GJ / kg } = 1.70
+$$\frac{ 0.046 \ GJ / \ kg }{ 0.027 \ GJ / kg } = 1.70$$
 
 
 Pound-for-pound, oil provides 70% more energy than coal.
@@ -290,26 +290,26 @@ Pound-for-pound, oil provides 70% more energy than coal.
 
 
 One challenge for running vehicles on natural gas is gas’ low volumetric energy density. How many times as much energy does gasoline have compared to natural gas, per volume (at standard temperature and pressure)?
-We set this up as a fraction, with gasoline on top and natural gas on the bottom. 
+We set this up as a fraction, with gasoline on top and natural gas on the bottom.
 
 $$\frac{ 35 \ GJ / \ m^3 }{ 0.04 \ GJ / m^3 } = 875$$
 
 Natural gas has a lot of energy per mass, but its low density means that oil carries 875 times as much energy per volume. This means that natural gas vehicles need to compress the gas substantially, storing at high pressure to keep its volume low.
 
 ###### The Power of Humanity
- 
+
 In 2015 humanity used 570 EJ of energy. What average power does this represent?
 
 
 Watts are joules per second. If we want an answer in terrawatts, we can convert our one-year amount of energy to terrajoules and divide by the number of seconds in a year.
 
- 
+
 
 $$\frac{570 \ EJ}{1 \ year} \cdot \frac{10^6 \ TJ}{1 \ EJ} \cdot \frac{1 \ year}{365 \cdot 24 \cdot 60 \cdot 60} = 18 \ TW$$
 
 
 ###### China's Power Consumption
- 
+
 
 
 
@@ -359,7 +359,7 @@ $$\frac{585 \ kW \cdot 1 \ hour \cdot \frac{3600 \ seconds}{ 1 \ hour}}{3 \ min 
 
 ### Energy Overview > Follow the Sankey > Sankey Diagram
 
-Sankey 
+Sankey
 
 Here's a Sankey diagram for the US, produced by Lawrence Livermore National Laboratory. We used this to make the simplified US Sankey diagram you saw in the video lecture. It's in units of Quadrillion BTU ("Quads"). 1 Quad is slightly more than 1 EJ. Click on the image for a larger version.
 
@@ -386,7 +386,7 @@ Total US primary energy was 97.5 Quads. Biomass provided 4.72, geothermal provid
 Remember that this chart uses the "accounting trick" David mentioned, where the primary energy from direct-to-electricity sources like hydro, wind, and solar is multiplied by 3 to represent the amount energy required from fossil fuels or nuclear power to generate the same amount of electricity.
 
 
-##### Sankey Diagram 
+##### Sankey Diagram
 
 Here's a Sankey diagram for the world in 2013, from an interactive tool freely available from the International Energy Agency. This is a great source for looking up the energy supplies and uses in different countries and regions since the 1970's. It has some important differences from the LLNL Sankey; for example, it shows imports and exports, shows the transformation of oil in refineries, and lumps residential and commercial energy use together as "Other." It uses units of "Million tons of oil equivalent" ("Mtoe") and petajoules. At the bottom you can see options to scroll through different years and look look at different graph types, like line graphs of some of the individual flows to easily visualize them over time. These diagrams do not use the "factor of 3" accounting that we discussed in the video and that is used in the LLNL diagram above, so the amount of energy flowing into electricity generation from renewables like wind and solar is equal to the actual amount of electricity they generate.
 
@@ -405,7 +405,7 @@ Figure 2. This Sankey diagram of the world's energy system in 2013 shows the flo
 
 
 
-####### Coal for Electricity Around the World
+###### Coal for Electricity Around the World
 
 Did coal's fraction of energy supplied for world electricity generation increase or decrease from 1990 until 2013? You can click on the "Power Station" box to see the composition of inputs to electricity generation.
 
@@ -413,24 +413,10 @@ Increase
 
 
 The change was from 41% to 49%, which is about a one-fifth increase.
- 
+
 
 ###### World Electricity Growth
 
 How much did world electricity generation grow from 1990 to 2013? Look at the actual generation coming out of the power plants on the diagram.
 
 The change was from 1017 Mtoe to 2006 Mtoe, so the amount roughly doubled.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
