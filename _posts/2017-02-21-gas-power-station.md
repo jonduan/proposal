@@ -45,8 +45,8 @@ It is essential that the dust should be prevented from entering into the compres
 ### [Comparison Between Closed Cycle Gas Turbine and Open Cycle Gas Turbine](https://me-mechanicalengineering.com/comparison-between-closed-cycle-gas-turbine-and-open-cycle-gas-turbine/)
 
 
-|    | Criterion                   | Closed                                                                                                                                          | Open                                                                                                                                          |
-|----|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
+|    | Criterion           | Closed | Open    |
+|----|--------------|----------|-----------------------|
 | 1  | Cycle of operation          | It works on closed cycle. The working fluid is recirculated again and again. It is a clean cycle.                                               | It works on open cycle. The fresh charge is supplied to each cycle and after combustion and expansion. It is discharged to atmosphere.        |
 | 2  | Working fluid               | The gases other than the air like Helium or Helium-Carbon dioxide mixture can be used, which has more favourable properties.                    | Air-fuel mixture is used which leads to lower thermal efficiency.                                                                             |
 | 3  | Type of fuel used           | Since heat is transferred externally, so any type of fuel; solid, liquid or gaseous or combination of these can be used for generation of heat. | Since combustion is an integral part of the system thus it requires high quantity liquid or gaseous fuel for burning in a combustion chamber. |
