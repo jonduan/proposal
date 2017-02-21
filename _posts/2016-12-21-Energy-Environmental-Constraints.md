@@ -149,8 +149,8 @@ It will only take a few days for most of the air pollution to fall out of the at
 
 
 
-In early 2016 oil prices are around $35/barrel, and since there are ~6.1 GJ of energy in 1 barrel of oil, it costs $5.7/GJ. Natural gas costs $2.5/MMBTU, which translates to $2.5/GJ, about half the price of oil. Coal costs only $1.6/GJ in the US, 1/4 the price of oil, though it has the largest regional variations. Electricity for large industrial customers is around $.07/kWh on average, which translates to $20/GJ, much higher than oil, and it's much higher yet in some areas with high electricity prices. Electricity for home consumers is usually significantly higher than for industrial customers, around $.13/kWh on average, which is $36/GJ, dramatically more expensive than oil (but more useful - electricity for a lightbulb is much more convenient than burning oil for light).
-These relationships were qualitatively the same when oil and gas prices were much higher before the 2014 crash (~$100/barrel and ~$5/MMBTU), with the main exception being that electricity for industrial customers was comparable to the price of oil rather than being much higher.
+In early 2016 oil prices are around \$35/barrel, and since there are ~6.1 GJ of energy in 1 barrel of oil, it costs \$5.7/GJ. Natural gas costs \$2.5/MMBTU, which translates to \$2.5/GJ, about half the price of oil. Coal costs only \$1.6/GJ in the US, 1/4 the price of oil, though it has the largest regional variations. Electricity for large industrial customers is around \$.07/kWh on average, which translates to \$20/GJ, much higher than oil, and it's much higher yet in some areas with high electricity prices. Electricity for home consumers is usually significantly higher than for industrial customers, around \$.13/kWh on average, which is \$36/GJ, dramatically more expensive than oil (but more useful - electricity for a lightbulb is much more convenient than burning oil for light).
+These relationships were qualitatively the same when oil and gas prices were much higher before the 2014 crash (~\$100/barrel and ~\$5/MMBTU), with the main exception being that electricity for industrial customers was comparable to the price of oil rather than being much higher.
 
 
 
@@ -195,9 +195,9 @@ A quick note on "heating values."  Fossil fuels contain some water, and whenever
 
 Gas vs. Coal
 
-In the US in 2016, coal costs $1.6/MMBTU (1 MMBTU = 1,000,000 BTU) and gas costs $.2/therm. Which is cheaper?
+In the US in 2016, coal costs \$1.6/MMBTU (1 MMBTU = 1,000,000 BTU) and gas costs \$.2/therm. Which is cheaper?
 
-Coal is cheaper. It costs = $1.5/GJ, while gas costs = $1.9/GJ.
+Coal is cheaper. It costs = \$1.5/GJ, while gas costs = \$1.9/GJ.
 
 
 $$\frac{$1.6}{1 \ MMBTU} \cdot \frac{0.947817 \ MMBTU}{1 \ GJ} = $1.51 \ per \ GJ$$
@@ -208,10 +208,10 @@ $$\frac{$0.2}{1 \ therm} \cdot \frac{9.48043 \ therms}{1 \ GJ} = $1.90 \ per \ G
 
 
 
-Electricity costs $.2/kWh and natural gas costs $12/MMBTU for residential consumers in Massachusetts, where David and Daniel live.
+Electricity costs \$.2/kWh and natural gas costs \$12/MMBTU for residential consumers in Massachusetts, where David and Daniel live.
 Which is cheaper on an energy basis?
 
-Gas is cheaper. It costs = $11/GJ, while electricity costs = $56/GJ.
+Gas is cheaper. It costs = \$11/GJ, while electricity costs = \$56/GJ.
 
 
 $$\frac{$0.2}{1 \ kWh} \cdot \frac{277.778 \ kWh}{1 \ GJ} = $56 \ per \ GJ$$
@@ -229,7 +229,7 @@ The US did. Russia used 60 Exajoules; the US used 103 Exajoules.
 
 $$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
 
-$$60,000 \ PJ \cdot \frac{1 \ EJ}{1000 \ PJ} = 60 EJ$$
+
 
 
 1 MMBTU = 1,000,000 BTU
