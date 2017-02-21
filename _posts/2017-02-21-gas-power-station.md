@@ -40,4 +40,3 @@ The system is sensitive to the component efficiency; particularly that of compre
 
 The open cycle plant has high air rate compared to the closed cycle plants, therefore, it results in increased loss of heat in the exhaust gases and large diameter duct work is needed.
 It is essential that the dust should be prevented from entering into the compressor to decrease erosion and depositions on the blades and passages of the compressor and turbine. So damages their profile. The deposition of the carbon and ash content on the turbine blades is not at all desirable as it reduces the overall efficiency of the open cycle gas turbine plant.
-
