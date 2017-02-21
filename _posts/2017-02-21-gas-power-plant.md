@@ -1,5 +1,11 @@
 ---
 published: true
+layout: post
+title: The gas power plant
+category: energy
+tags:
+  - gas
+  - power plant
 ---
 
 
