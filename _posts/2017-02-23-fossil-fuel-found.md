@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The found fossil fuel
 category: energy
@@ -9,7 +9,13 @@ tags:
 ---
 Few years ago, we were talking about the end of fossil fuel, today, we are talking about the end of fossil fuel, not because there is no enough fuel, but we may not need expensive fossil fuel any more if the renewables are cheap enough to substitute the fossil fuel.
 
+作者：Adobeeee Ma
+链接：https://www.zhihu.com/question/23676891/answer/25609701
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
+引用个例子，关于资源价格和替代品的影响。
+>>1980年，美国经济学家朱利安·L·西蒙和斯坦福大学的生态学家保罗·R·埃利希有一个赌局，关于不可再生资源的价格会不会上涨。埃利希精心挑选了五种金属：铬、铜、镍、锡、钨。然而在1990年剔除通货膨胀后，价格竟然下降了。埃利希所选的五种金属无疑是不可再生性资源，但也同任何其它资源一样由价格调节。当这五种金属越来越短缺时，其价格必定上升。但为什么现实中这五种金属越来越少，而价格反而下降，西蒙赢得了这场赌博呢？秘密就在于价格上升刺激供给的作用。经济学家罗塞尔·罗伯茨曾写过《看不见的心——一部经济学罗曼史》，这是一部以小说形式介绍经济学的书。这本书的主人公爱德华学校的经济学教师山姆·戈登在第一天给学生上经济学课时，向学生提了一个问题：世界现已探明的石油储藏量为五千三百一十亿桶，每天石油消耗为一百六十五万桶，我们这个世界什么时候将用完这些石油？他要求学生一分钟做出回答。许多学生开始用计算器计算。最后山姆·戈登告诉他们，答案是永远用不完。因为当石油越来越少，价格上升过高时，人们就不会用石油，而用其替代品做燃料了。只要石油价格上升到足够高，一定会有替代品出现，剩下的石油由于开发成本太高，无人开发，石油自然不会用完。
 
 ## New reserve of oil found
 
