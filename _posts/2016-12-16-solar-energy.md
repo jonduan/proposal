@@ -979,7 +979,7 @@ solar  fuel  > solar electric >  solar thermal 85%
 
 photovaltaics
 
-#### 
+#### photovaltaics
 
 1950 Bell lab , too expensive
 
@@ -1021,24 +1021,25 @@ triple junction cell
 ![](http://plasticphotovoltaics.org/images/lca_frame.png)
 - goal and scope definition
 
-  OPV 
-  HOTSPORT
-  GUIDE RESEARCH
-  POLICY DECISION
-   RIGOROUS STUDY
-   EXTENSIVE DOCUM
-   PEER REVIEW
-   REFERENCE FLOW：
-   functional
+OPV 
+HOTSPORT
+GUIDE RESEARCH
+POLICY DECISION
+RIGOROUS STUDY
+EXTENSIVE DOCUM
+PEER REVIEW
+REFERENCE FLOW：
+functional
+
 - inventory analysis
 
-	collect input
+collect input
 
-	material
-	process
-    
-    softwar 
-       order life cycle steps
+material
+process
+
+softwar 
+order life cycle steps
        
 Figure 2. Life cycle stages of a product and evaluation of relevant impacts associated with LCA inputs and releases.
 
