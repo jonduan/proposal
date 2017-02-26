@@ -668,35 +668,35 @@ Assumptions and notes:
 
 Land area of earth: 1.49*1014 m2, Surface area of earth: 5.1*1014 m2
 
-Solar:
+##### Solar:
 
 Land constraint numbers assume 10W/m2, based on the upper ends of Smil (2015), Hernandez (2014), McKay (2013). While some current solar farms exceed 15 Wm2, the do so only with excellent solar resource, it would be hard to exceed 10 W/m2 as a global average of solar PV systems distributed widely near energy loads.
 
 Physical maximum is very high; (surface area of earth)*(175 W/m2 avg. insolation)*20% efficiency gives 18000 TW, could even use 40% efficiency (multijunction cells) for 36000 TW
 
-Wind:
+##### Wind:
 
 Land use constraint numbers assume 1 W/m2. Physical maximum has been debated heavily, but the consensus is around 250 TW for land-based installations. We ignore flying wind turbines, which could bring the total over 500 TW. See Miller (2015) and Adams and Keith (2013)
 
-Biomass:
+##### Biomass:
 
 Land use constraint numbers assume .5 W/m2 based on Smil (2015) and Daniel's own estimates of Miscanthus
 
 Physical maximum of 25 TW from Field (1998) and Moriarty (2012) assuming 25% efficient conversion of biomass into electricity (including losses from collection, processing, and heat-to-electricity conversion)
 
-Nuclear:
+##### Nuclear:
 
 Land use constraint numbers assume 100 W/m2, based on the very low end of Smil (2015); looking at Smil's figures and published data on nuclear plants in the US, 500-1000 W/m2 seems most common, but we stick to a conservative figure for the large buildouts estimated here
 
 No obvious physical maximum; since nuclear power involves "burning" a fixed resource, we could choose different burn rates to get different power levels, in principle could get near infinite power though it wouldn't last very long and would be expensive.
 
-Hydro:
+##### Hydro:
 
 Physical maximum of 4.5 TW from Moriarty (2012) as the maximum resource capturable assuming near perfect capture of water from the highest possible points
 
 Land use constraint figures actually show the maximum "technically extractable" resource from Moriarty (2012) and WEC (2013), as the maximum that could reasonably be extracted even with technological developments. Since hydro plants can only be deployed in certain locations, they likely would never even reach 1% of the land surface; most estimates of power density are around 1-5 W/m2, but using this for just 1% of the land surface gives 150 TW, well above the actually available resource.
 
-References
+##### References
 
 A. S. Adams and D. W. Keith. (2013). Are global wind power resource estimates overstated?. Environmental Research Letters, 8: 0150210(9pp). doi:10.1088/1748-9326/8/1/015021.
 Field, C.B.; Behrenfeld, M.J.; Randerson, J.T.; Falkowski, P. (1998). "Primary production of the Biosphere: Integrating Terrestrial and Oceanic Components".Science 281 (5374): 237-240.
@@ -711,16 +711,26 @@ Hernandez et al (2014) Land Use efficiency of big solar. Environmental Science a
 #### Learning Objectives
 
 Gain awareness of the most important renewable technologies: Solar PV, Concentrated Solar, Wind, Hydro, Biomass and Geothermal, and their emerging importance in the energy system, and understand how regional resources can dictate their importance in different areas.
+
 Scalability: understand energy and power density, be able to say which technologies are scalable or not (or in between like Wind) on this basis.
+
 Solar resource: be able to find good data and use estimates of kWh/m^2/day for different regions at different times of year.
 Know the approximate size, cost and efficiency of modern c-Si cells.
+
 Be able to estimate LCOE of solar PV installation given insolation, know typical insolations for different regions and tracking vs not, be able to look up insolation data.
 Be familiar with how traditional c-Si solar cells work (the physicist view), and how some advanced designs try to improve on c-Si.
-Efficiency: know some of the major factors influencing efficiency, the cost-efficiency tradeoff, the indirect effects of efficiency (tracking needed, etc.).
+
+##### Efficiency: know some of the major factors influencing
+
+efficiency, the cost-efficiency tradeoff, the indirect effects of efficiency (tracking needed, etc.).
+
 Understand the concept of intermittency, ways we can manage it. Be able to compare the advantages/disadvantages of different methods of intermittency management.
+
 Know growth of solar PV in past 5ish years, falling costs. Be able to compare actual costs and growth to projections.
 Subsidies: understand the structure of major subsidies that support solar and other renewables, and the difference between subsidized and unsubsidized cost.
-Survey environmental impacts – land use, embodied CO2, and toxicity.
+
+##### Survey environmental impacts – land use, embodied CO2, and toxicity.
+
 Be able to estimate the levelized cost of electricity for solar PV systems, including looking up costs and insolation data on your own. Be able to make qualitative judgements about how the capital-cost-dominated nature of solar PV affects different types of investors.
 
 #### Solar > Four Views of Solar PV
@@ -746,7 +756,7 @@ boron
 
 
 
-Optional External Reading
+##### Optional External Reading
 
 If you'd like more detail on how PV modules work and how they're made, two good resources are MIT's Future of Solar Energy Appendix B, and the excellent website pveducation.org, which has lots of detailed readings, interactives, and quizzes, available for free.
 
@@ -760,8 +770,9 @@ Figure 1 shows the earth's energy budget, in watts per square meter, averaged ov
 
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/32459c0a9fefcb2fea1132e00589de6a/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_1_Solar_Resource_radiation_image.jpg)
 
-Image described below
-Figure 1. Earth's energy budget. Notice how only ~55% of incoming radiation makes it to the surface, on average. From http://science-edu.larc.nasa.gov/energy_budget/
+
+
+_Figure 1. Earth's energy budget. Notice how only ~55% of incoming radiation makes it to the surface, on average. From http://science-edu.larc.nasa.gov/energy_budget/_
 
 The solar flux at the top of the atmosphere is 1367 W/m2, but due to the rotation and curvature of the Earth, the yearly average over a fixed point on the surface is substantially lower: just 340 W/m2 as you see in the figure. About 45% of this is absorbed or reflected by the atmosphere on average (there is regional, weather-related variability), with an average of 187 W/m2 reaching the surface. Some of this is reflected – the figure shows 22 W/m2 on average, but it can vary widely; forests usually reflect around 10-15% of the incoming radiation, but snow can reflect over 60%. The rest of the chart shows other interesting flows, like longwave radiation released by the earth, and the absorption and re-radiation by greenhouse gases.
 
@@ -769,8 +780,8 @@ The chart doesn't show a complication that can be important for solar energy tec
 
 Turning to more specific data for different locations on earth, there are two common metrics that you'll encounter, Global Horizontal Irradiation (GHI) and Direct Normal Irradiation (DNI). GHI is the number from Figure 1, including all of the radiation falling on a horizontal surface (both the direct radiation and any "diffuse" radiation scattered by the atmosphere), and it's the most common metric for estimating solar PV performance. Direct Normal Irradiation includes only the direct radiation received by a surface tracking the sun; it's measured with tracking instruments with very narrow fields of view that miss most diffuse radiation, and it's most useful for estimating the performance of concentrating solar power systems. We'll focus on GHI, and some variants that involve tilted or tracking surfaces.
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/d0f6a7fe05a75f63a6b951513465eb92/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_2_daily_GHI.png)
-Image described below
-Figure 2. Global Horizontal Irradiation for Birmingham, Alabama, US, for January 1 and 2 and June 11 and 12, 1990. Notice how much higher it is for summer months than winter months. The daily average for June 11 and 12 is ~160 W/m2, close to the global yearly average GHI; for January 1 and 2 it's just 40 W/m2 (though there is clearly some effect from weather on all days, especially January 2). Data from NREL http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/hourly/
+
+_Figure 2. Global Horizontal Irradiation for Birmingham, Alabama, US, for January 1 and 2 and June 11 and 12, 1990. Notice how much higher it is for summer months than winter months. The daily average for June 11 and 12 is ~160 W/m2, close to the global yearly average GHI; for January 1 and 2 it's just 40 W/m2 (though there is clearly some effect from weather on all days, especially January 2). Data from NREL http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/hourly/_
 
 
 
@@ -779,26 +790,32 @@ Figure 2. Global Horizontal Irradiation for Birmingham, Alabama, US, for January
 
 Figure 3 below shows four maps of average daily insolation for the US from NREL: one for a "flat plate" collector, one for a collector tilted at a fixed angle equal to the latitude of the location (a good though imperfect rule of thumb to maximize output), one for a N-S axis tracking system (tracks the sun by rotating along a single North-South axis), and one for a two-axis tracking system that points panels directly at the sun at all times.
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/ab10c43215b1d060949379ed7d2a7292/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_US_resource.png)
-Image described below
-Figure 3. Daily solar insolation in the US, averaged over a year, in kWh/m2-day, for a flat plate, plate tilted at latitude, N-S axis tracking system tilted at latitude, and a two-axis tracking system. Notice how much tilt and single-axis tracking increase insolation. Two-axis tracking gives a fairly small increase over single-axis tracking. Individual images compiled from http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
+
+
+_Figure 3. Daily solar insolation in the US, averaged over a year, in kWh/m2-day, for a flat plate, plate tilted at latitude, N-S axis tracking system tilted at latitude, and a two-axis tracking system. Notice how much tilt and single-axis tracking increase insolation. Two-axis tracking gives a fairly small increase over single-axis tracking. Individual images compiled from http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/_
 
 The scale is in kWh/m2-day. Since solar panels' capacity is rated under test conditions of 1 kW/m2 (or 24 kWh/m2-day) we can divide the numbers from these figures by 24 to estimate the capacity factor of solar installations. For example, a flat plate in Boston (northeast US) gets 3-4 kWh/m2-day, corresponding to a capacity factor of 12.5-16%. Of course, real capacity factors will be slightly less than the maximum allowed by the insolation of the region. Notice how much tilt and tracking help capacity factor; latitude-tilt provides roughly a 20% increase over flat panels (though the exact amount varies by region), and single-axis tracking provides an additional 30-40% in most regions. An upcoming question will have you estimate whether these increases in capacity factor outweigh the increased capital cost for tilted or tracking systems
 
-NREL is a great source for this kind of data in the US. You can use their Solar Radiation Resource Maps tool http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/ to generate figures like those in Figure 3, with different kinds of tilt or tracking and even the option to look at monthly-average instead of yearly-average data. You can also use their more recent Map Search tool http://www.nrel.gov/gis/mapsearch/ to look for more higher resolution maps for GHI and latitude-tilt collectors for the US and a few other world regions like China, India, and some of S. America. Unfortunately, finding similar data for the rest of the world is challenging. A private company, SolarGIS, has free high-resolution GHI maps http://solargis.com/products/maps-and-gis-data/free/download/ for the entire world, and much more sophisticated data available for purchase.
+NREL is a great source for this kind of data in the US. You can use their Solar Radiation Resource Maps tool http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/ to generate figures like those in Figure 3, with different kinds of tilt or tracking and even the option to look at monthly-average instead of yearly-average data. You can also use their more recent Map Search tool http://www.nrel.gov/gis/mapsearch/ to look for more higher resolution maps for GHI and latitude-tilt collectors for the US and a few other world regions like China, India, and some of S. America.
+
+Unfortunately, finding similar data for the rest of the world is challenging. A private company, SolarGIS, has free high-resolution GHI maps http://solargis.com/products/maps-and-gis-data/free/download/ for the entire world, and much more sophisticated data available for purchase.
 
 ##### Solar > Four Views of Solar PV > The Cost of Solar Tracking
 
 http://solargis.info/
+
+
 http://rredc.nrel.gov/solar/old_data/nsrdb/1961-1990/redbook/atlas/
+
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
 1950*0.1/( 8766*9/24 )
 
-This comes out to $.087/kWh for the horizontal plates, $.076/kWh for the plates pointed south at latitude, and $.059/kWh for the tracking installation pointed south.
+This comes out to \$.087/kWh for the horizontal plates, \$.076/kWh for the plates pointed south at latitude, and \$.059/kWh for the tracking installation pointed south.
 Comparing the tracking installation to the horizontal plates, it will take about 7,140 hours of operation to make up the difference. This may sound like a lot, but it's only two years worth of daylight operation in Arizona.
 
 
-#####　Outsourcing European PV
+##### Outsourcing European PV
 
 
 $$Capacity = \frac{1150 kWh/(m^2 yr)}{8766 \ hours/year \cdot 1 kW} = 13.1\%$$
@@ -809,7 +826,7 @@ LCOE in this case counts only capital costs, making it a quick calculation:
 
 $$LCOE = \frac{CapCost \cdot CCF}{8766 \ hours/year \cdot Capacity}$$
 
-#####　### The Economist's View: Solar Price Trends
+#####  The Economist's View: Solar Price Trends
 
 In recent years the cost for solar PV panels has fallen at an astounding rate, repeatedly exceeding expert projections:
 
@@ -832,12 +849,18 @@ These plots are usually done on log-log axes, where data fitting a power curve w
 [![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/162240ba7580e71ef572a8a17092026c/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_solar_power_law_curve.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/162240ba7580e71ef572a8a17092026c/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_3_solar_power_law_curve.png)  
 <small>_**Figure 3.** PV module prices exhibiting power-law-like behavior. Data from the [Fraunhofer Institute](https://www.ise.fraunhofer.de/de/downloads/pdf-files/aktuelles/photovoltaics-report-in-englischer-sprache.pdf). Power law fit to data from 1986-2015 has C1 of ~5 and a of ~.4._</small>
 
-In contrast to a personal learning curve (perhaps a steep initial learning curve for riding a bicycle until one reaches a certain proficiency), what is relevant here is a whole-industry learning process in which all participants can benefit by what is learned by each. The first such economic learning curve described was for aircraft; other familiar examples of power law learning curve behavior are the price of computer memory (what was ~ $1/byte 50 years ago is today under $1 per gigabyte) and the computing power per dollar, which has increased as more transistors can be fabricated on a silicon wafer. What would have been a multi-million dollar supercomputer in 1980 is an inexpensive laptop today. Solar PV costs have fallen for many reasons, from reductions in silicon costs with scale of production to improved manufacturing processes with less waste. How long might we expect this power law trend to continue? Though there is no clear end in sight, there are some limiting factors, especially since there are many relevant costs some of which may not be as compressible as module costs.
+In contrast to a personal learning curve (perhaps a steep initial learning curve for riding a bicycle until one reaches a certain proficiency), what is relevant here is a whole-industry learning process in which all participants can benefit by what is learned by each. 
+
+The first such economic learning curve described was for aircraft; other familiar examples of power law learning curve behavior are the price of computer memory (what was ~ \$1/byte 50 years ago is today under \$1 per gigabyte) and the computing power per dollar, which has increased as more transistors can be fabricated on a silicon wafer. 
+
+What would have been a multi-million dollar supercomputer in 1980 is an inexpensive laptop today. Solar PV costs have fallen for many reasons, from reductions in silicon costs with scale of production to improved manufacturing processes with less waste. How long might we expect this power law trend to continue?
+
+Though there is no clear end in sight, there are some limiting factors, especially since there are many relevant costs some of which may not be as compressible as module costs.
 
 [![Image described below](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/98271f816824b5a436c9153e8063a171/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_4_costs_breakdown.png)](//d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/98271f816824b5a436c9153e8063a171/asset-v1:HarvardX+ENGSCI137x+2T2016+type@asset+block/Figure_4_costs_breakdown.png)  
 _**Figure 4.** Cost breakdown of industrial scale US PV installations. Data from [NREL](http://www.nrel.gov/docs/fy15osti/64746.pdf)._
 
-Even if modules prices fall at the rate from Figure 3, and assuming 35% yearly growth of cumulative PV production, they would still be around $.2/W a decade from now. Other hardware costs can likely decrease as well, but probably not by a large amount. There is much more uncertainty in the fate of "soft costs" related to development, permitting, taxes, overhead costs for developers, etc. These vary by region, [especially for rooftop systems](http://energytransition.de/2015/05/solar-twice-as-expensive-in-us-as-in-germany/).
+Even if modules prices fall at the rate from Figure 3, and assuming 35% yearly growth of cumulative PV production, they would still be around \$.2/W a decade from now. Other hardware costs can likely decrease as well, but probably not by a large amount. There is much more uncertainty in the fate of "soft costs" related to development, permitting, taxes, overhead costs for developers, etc. These vary by region, [especially for rooftop systems](http://energytransition.de/2015/05/solar-twice-as-expensive-in-us-as-in-germany/).
 
 ### References
 
@@ -855,7 +878,9 @@ In the video lecture you've learned that solar PV has the potential to supply mu
 Like many industrial processes involving extracted materials, toxicity is an issue with solar PV both in the extraction, production and disposal. In detail the issues here depend on which technology is used, which currently is most often crystalline silicon or thin film technology. Crystalline silicon (c-Si) PV fabrication uses many of the the same processes and materials as microelectronics production, the major issues being:
 
 1.  Purification of silicon involves conversion to Silane (SiH<sub>4</sub>) gas to produce molten silicon. Silane gas can autoignite if oxygen is present, presenting a significant explosion hazard. As the photovoltaic industry has grown during the past decade, a few such incidents have been reported (2006 in Taiwan, 2007 in Bangalore, both involving fatalities).
+
 2.  Silicon processing produces silicon tetrachloride (Si-Cl<sub>4</sub>), an enormously toxic substance, and there have been instances in the developing world of dumping into the environment. Also, there are significant occupational risks from dopants Phosphine, Arsine, and other chemicals require special handling and robust operating standards.
+
 3.  Silicon fabrication reactors are cleaned with Sulfur hexafluoride (SF<sub>6</sub>), the most potent greenhouse gas (long lived, and 25000 times worse than CO<sub>2</sub> per ton). The closed-loop process required is expensive for the developing world, so regulations are critical. According to an industry report, it is "imperative that replacement for SF<sub>6</sub> found .. (to avoid) undermining reductions in GHG emissions gained by using solar power".<sup>[<span class="hx-footnote1 hx-footnote-style">[1]</span>](#hxfoot1)</sup>
 
 In these steps and the cutting of wafers, there is significant waste (approximately 90% of the input metallurgical grade is wasted), and significant production of Si particulates. Overall, the production of PV quality silicon is a relatively expensive and energy-intensive process, which emits significant CO<sub>2</sub> in its production. Figure 1 shows the IPCC estimates for solar PV, including balance of plant emissions, compared with other energy technologies.<sup>[<span class="hx-footnote2 hx-footnote-style">[2]</span>](#hxfoot2)</sup> While several times less than fossil fuels or biomass emissions, s<span class="annotator-hl" tabindex="0" role="link" aria-describedby="aria-note-description-21">olar PV contributes significantly more emissions per unit of generated energy than hydropower, nuclear or wind</span>. Another way to look at this footprint is to consider the energy payback, which is the number of years of operating a panel to generate the energy used to make the panel and its associated infrastructure, which is just under 4 years for crystalline Si.<sup>[<span class="hx-footnote3 hx-footnote-style">[3]</span>](#hxfoot3)</sup>
@@ -919,7 +944,7 @@ Thin film PV production is a more varied technology. The environmental concerns 
 David mentioned that one way to exploit cheap, intermittent solar power in good regions is to produce fuels for the transportation sector. Let’s try analyzing how cheap solar power could bring down the cost of H2 produced via electrolysis.
 
 
-#####　Cost of Solar Electricity
+##### Cost of Solar Electricity
 
 Estimate the cost of electricity in a highly favorable site like the US southwest.
 
