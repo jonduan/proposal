@@ -1206,8 +1206,7 @@ Solar Energy is one of the fastest growing industries in the USA. In some states
 ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/db9e142bb87854b69005fddd3d4a40f6/asset-v1:DelftX+EnergyX+2T2016+type@asset+block/US_Solar_Irradiation.png)
 
 
-###
-Facts about the USA in 2016:
+### Facts about the USA in 2016:
 
 Mainland land area: 7,663,942 km²
 Population: 319 million
@@ -1237,13 +1236,14 @@ Total ~ 14561490/4087 TWh/year is 3562.9 times electricity consumption/year.
 Let's make an estimation on how much land is required to produce the electricity needs in the USA using Solar energy.
 
 
-    The solar farms are uniformly distributed over the country.
-    Assume PV modules with a conversion efficiency of 20%,
-    75% of the area of the solar farms is covered with PV modules.
+The solar farms are uniformly distributed over the country.
+Assume PV modules with a conversion efficiency of 20%,
+75% of the area of the solar farms is covered with PV modules.
     
     
     
 Energy per area: 1900 (kWh/m²/year) *0.20 * 0.75 = 285 (kWh/m²/year); = 0.285 TWh/km²/year.
+
 total area: 4087 (TWh/year)/ 0.285 (TWh/km2/year) = 14340 km²
 percentage of area: 14340 (km²) / 7663942 (km²) = 0.187 % of the total land area.
 
