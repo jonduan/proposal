@@ -1360,81 +1360,150 @@ Here you see all abbreviations
 General OPV
 
 OPV – Organic photovoltaic[1]
+
 PSC – Polymer solar cell[2]
+
 BHJ – bulk heterojunction[3] – active layer comprised of mixed donor and acceptor material
+
 HBL - Hole blocking layer[4]
+
 EBL - Electron blocking layer[4]
+
 HTL – Hole transport layer[4]
+
 ETL – Electron transport layer[4]
+
 FF - Fill factor[5][6]
+
 PCE - Power conversion efficiency[5][7]
+
 VOC - Open circuit voltage[5][8]
+
 ISC - Short circuit current[5]
+
 MPP – Maximum power point[5]
+
 Rsh – shunt resistance[9]
+
 Rs – Series resistance
+
 IV curve – current voltage curve[5][10]
+
 Eg – bandgap[11][12]
+
 HOMO – Highest occupied molecular orbital[13]
+
 LUMO – Lowest unoccupied molecular orbital[13]
+
 EQE - External quantum efficiency[14][15]
+
 QE - Quantum efficiency[14][15]
+
 IQE - Internal quantum efficiency[14][15]
+
 e - Electron
+
 h - Hole
+
 PTSC - Polymer tandem solar cell
+
 CiGS - Copper indium gallium selenide solar cells[16] - second generation solar cell
+
 CdTe - Cadmium telluride photovoltaics[17] - second generation solar cell
-Characterization
+
+##### Characterization
 
 AFM - Atomic force microscope[18]
+
 SEM – Scanning electron microscope[19]
+
 UV-vis - Ultraviolet–visible spectroscopy[20][21]
+
 NMR - Nuclear magnetic resonance spectroscopy[22][23]
+
 LBIC - Light beam induced current[24]
+
 SEC - Size exclusion chromatography[25][26]
+
 IPCE - Incident photon-to-current efficiency[14][15]
+
 CV - Cyclic voltammetry[27][28]
+
 IR - Infrared spectroscopy[29]
+
 XPS - X-ray photoelectron spectroscopy[30]
+
 TOF-SIMS - Time-of-flight secondary ion mass spectrometry[31]
-Materials
+
+##### Materials
 
 P3HT - Poly(3-hexylthiophene-2,5-diyl)[32] - polymer used in the active layer
-PEDOT:PSS - Poly(3,4-ethylenedioxythiophene) Polystyrene sulfonate[33] - used as a transparent, conductive polymer
+
+PEDOT:PSS - Poly(3,4-ethylenedioxythiophene) Polystyrene
+
+sulfonate[33] - used as a transparent, conductive polymer
+
 ZnO – Zinc oxide[34] – transparent conductive oxide
+
 ITO - Indium tin oxide[35] – transparent conductive oxide
+
 Flextrode – substrate made and used by DTU Energy Conversion and storage as an ITO replacement[36]
+
 C60 - Buckminsterfullerene[37]
+
 PCBM - Phenyl-C61-butyric acid methyl ester[38]
+
 PET – Polyethylene terephthalate[39] - Used as polymer carrier foil
+
 Donor unit - low band gap polymers are typically consisting of donor and acceptor units
+
 Acceptor unit - low band gap polymers are typically consisting of donor and acceptor units
+
 Donor material - Material used in the BHJ layer e.g. P3HT
+
 Acceptor material - Material used in the BHJ layer e.g. PCBM
+
 PT - Polythiophene[40] - Polymer used in the active layer
+
 Mn - Number average molecular weight[41]
+
 MW - Weight average molecular weight[41]
+
 DARP - Direct arylation polymerization
+
 P3MOCT - Poly[3-(2-methyl-2-hexyl)-oxycarbonylbithiophene] - Polymer used in the active layer
+
 V2O5 - Vanadium(V) oxide[42] - Used as a hole transport layer
 Degradation and stability
 
+
 ISOS – International summit on organic photovoltaic stability[43]
+
 R.H. - Relative humidity[44]
+
 ISOS-D - ISOS-Dark[43]
+
 ISOS-O - ISOS-Outdoor[43]
+
 ISOS-L - ISOS-Light[43]
+
 ISOS-T - ISOS-Thermal[43]
+
 ISOS-LT - ISOS-Light thermal[43]
-Fabrication
+
+##### Fabrication
 
 R2R - Roll to roll
-Life cycle analysis
+
+##### Life cycle analysis
+
 
 LCA - Life cycle analysis[45][46]
+
 EPBT - Energy pay back time[45] - how long it takes the solar cell to pay back the energy which was put into the production of it.
+
 ERF - Energy return factor[45] - How many times the energy put into production can be paid back.
+
 
 
 #### Plastic Photovoltaics
