@@ -1311,11 +1311,19 @@ The worldwide installed hydroelectricity power in 2010 was 1010GW. The worldwide
 
 
 The capacity factor describes the percentage of time that the power installation is running at rated capacity over a certain period of time. For example, a capacity of factor 50% means that the power plant will produce half the energy at rated capacity over a certain period. Therefore, the energy produced by the hydroelectric installations will be:
+
 $$E= power * time * capacity factor = 1010GW*24h*0.4=9696GWh/day=9.696TWh/day$$
+
 E=power∗time∗capacityfactor=1010GW∗24h∗0.4=9696GWh/day=9.696TWh/day
+
+
 The percentage would be then:
-$$\textbf{Hydro(%)}=\frac{9.696TWh*365days/year}{20200TWh/year}*100=\textbf{17.5%}$$\textbf{Hydro(%)}=\frac{9.696TWh*365days/year}{20200TWh/year}*100=\textbf{17.5%}
-Hydro(%)=9.696TWh∗365days/year/(20200TWh/year)∗100=17.5%
+
+$$\textbf{Hydro(%)}=\frac{9.696TWh*365days/year}{20200TWh/year}*100=\textbf{17.5%}$$
+
+
+
+$$Hydro(%)=9.696TWh∗365days/year/(20200TWh/year)∗100=17.5%$$
 
 
 #### Week 1: Introduction to Solar Energy > 1.6 Solar Light > Solar Light I
