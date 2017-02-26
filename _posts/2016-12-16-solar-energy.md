@@ -1047,29 +1047,34 @@ Figure 2. Life cycle stages of a product and evaluation of relevant impacts asso
 
 - impact assessment 
 
- 	input output
-    lcia
-    Climate change 
-    ozone depletion
-    human toxicity
-    
-    impact pentential
-    
- 
-	energy pay back time
+input output
+lcia
+Climate change 
+ozone depletion
+human toxicity
+
+impact pentential
+
+
+energy pay back time
     
     $$EPBT=\frac{\sum{E_{inputs}}}{E_{gen}/year}$$
+    
 - interpretation
-	identify key parameters
-    
-    energy balance 
-    material fluxes
-    
-    complete
 
-	process one -  two - H
-     Sivle ink
-     carbon ink
+identify key parameters
+
+energy balance 
+
+material fluxes
+
+complete
+
+process one -  two - H
+
+Sivle ink
+
+carbon ink
 
 0.3 years EPBT
 
