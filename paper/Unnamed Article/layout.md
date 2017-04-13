@@ -1,0 +1,11 @@
+sectionResearch_Cont.tex
+sectionResearch_Meth.tex
+sectionData_and_work.tex
+figures/image1/default_figure.png
+Figure_3_LCOE_interv.tex
+figures/image2/default_figure.png
+Figure_4_Average_Loa.tex
+sectionDISSERTATION_.tex
+longtable_ll_toprule_Time_.tex
+_First_macro_on.tex
+sectionREFERENCES_la.tex
