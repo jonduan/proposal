@@ -1,0 +1,159 @@
+\documentclass[13pt,xcolor=dvipsnames]{beamer}
+
+% Specify theme
+\usetheme{Madrid}
+% See deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html for other themes
+
+% Specify base color
+\usecolortheme[named=OliveGreen]{structure}
+% See http://goo.gl/p0Phn for other colors
+
+
+\definecolor{beamer@blendedblue}{rgb}{0.137,0.466,0.741}
+\definecolor{beamer@blendedgreen}{rgb}{0.365,0.592,0.192}
+% http://www.spycolor.com/5d9731
+% http://www.ginifab.com/feeds/pms/pms_color_in_image.php
+
+%\usecolortheme[orchid]{structure}
+% See http://goo.gl/p0Phn for other colors
+\setbeamercolor{structure}{fg=beamer@blendedgreen}
+
+
+
+% Specify other colors and options as required
+\setbeamercolor{alerted text}{fg=Maroon}
+\setbeamertemplate{items}[square]
+
+
+\geometry{paperwidth=140mm,paperheight=105mm}
+
+
+
+
+% Provides widescreen slide support.
+\usepackage[orientation=landscape,size=custom,width=16,height=9.75,scale=0.5,debug]{beamerposter}
+
+% UVic color hex values from:
+% https://www.uvic.ca/communicationsmarketing/assets/docs/UVic-Brand-Guidelines.pdf
+\definecolor{vicBlue}{RGB}{1, 38, 179}
+\definecolor{vicNavy}{RGB}{0, 40, 87}
+\definecolor{vicCyan}{RGB}{0, 116, 122}
+\definecolor{vicRed}{RGB}{ 241, 0, 50}
+\definecolor{vicYellow}{RGB}{250, 200, 0}
+\definecolor{vicGold}{RGB}{249, 185, 52}
+
+\setbeamercolor{title}{fg=vicNavy}
+\setbeamercolor{titlelike}{fg=vicNavy}
+\setbeamercolor{normal text}{fg=vicNavy}
+\setbeamercolor{item projected}{fg=vicNavy}
+\setbeamercolor{frametitle}{fg=vicNavy}
+%\setbeamercolor{alerted text}{fg=vicRed}
+%\setbeamercolor{block title}{fg=white,bg=vicRed}
+%\setbeamercolor{block body}{fg=white,bg=vicRed}
+%\setbeamercolor{block title example}{fg=white,bg=vicRed}
+%\setbeamercolor{block body example}{fg=white,bg=vicRed}
+\setbeamercolor{vicFooterAuthor}{fg=white, bg=vicGold}
+\setbeamercolor{vicFooterTitle}{fg=white, bg=vicNavy}
+
+
+\usefonttheme{professionalfonts}
+\usetheme{Boadilla}
+\setbeamertemplate{itemize items}[circle]
+
+\useinnertheme{rectangles}
+\setbeamertemplate{blocks}[default]
+
+%\setbeamercolor{block title}{fg=white,bg=vicRed}
+%\setbeamercolor{block body}{fg=vicNavy,bg=vicRed!25}
+%\setbeamercolor{block title example}{fg=white,bg=vicRed}
+%\setbeamercolor{block body example}{fg=white,bg=vicRed}
+
+
+
+\usepackage{ulem}
+\usepackage{array}% http://ctan.org/pkg/array
+\usepackage{url}
+\usepackage{multirow}
+
+
+% Packages
+\usepackage{booktabs}
+\usepackage{float}
+\usepackage{color}
+\usepackage{graphicx}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+% Title and author information
+\title[Incorporation of Renewable Energy]{Optimization of the Western Canada Power Grid:
+Incorporation of Renewable Energy}
+\author[Jun Duan]{\textbf {Jun Duan  \\
+\footnotesize Supervised by: Dr. G.C. Van Kooten }} 
+\institute[UVic]{University of Victoria}
+
+% auteur
+%http://tex.stackexchange.com/questions/62542/adding-one-more-information-in-my-front-page-beamer
+
+
+%\institute{University of Victoria}
+
+\titlegraphic{\includegraphics[width=1.5cm]{uvicecon}}
+
+%\titlegraphic{\includegraphics[width=\textwidth,height=.5\textheight]{uvicecon}}
+
+
+%\logo{\includegraphics[scale=0.2]{uvicecon}}
+%http://tex.stackexchange.com/questions/21356/adding-custom-image-in-title-slide
+
+
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+
+\section{Introduction}
+
+\begin{frame}{Forecasting functional data}
+\begin{itemize}[<+-| alert@+>]
+\item Observed values are discrete but underlying structures are continuous functions.
+\item Observed values may be noisy but underlying functions are smooth.
+\item \textbf{Problem:} To forecast the \textbf{whole function} for future time periods.
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Forecasting functional data}
+\structure{Some notation}
+
+Let $y_t(x_i)$ be the observed data in period $t$ at location $x_i$, $i=1,\dots,p$, $t=1,\dots,n$.
+\pause
+
+\begin{block}{}
+$$y_t(x_i) = f_t(x_i) + \sigma_t(x_i)\varepsilon_{t,i}$$
+where $\varepsilon_{t,i}$ is iid N(0,1) and $\sigma_t(x_i)$ allows the amount of noise to vary with $x$.
+\end{block}
+\pause
+
+\begin{enumerate}[<+-| alert@+>]
+\item We assume $f_t(x)$ is a smooth function of $x$.
+\item We need to estimate $f_t(x)$ from the data for $x_1 < x < x_p$.
+\end{enumerate}
+\end{frame}
+
+\end{document}

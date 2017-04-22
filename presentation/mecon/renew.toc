@@ -1,0 +1,5 @@
+\beamer@sectionintoc {2}{General Information}{3}{0}{1}
+\beamer@sectionintoc {3}{Colors}{13}{0}{2}
+\beamer@sectionintoc {4}{Blocks}{32}{0}{3}
+\beamer@sectionintoc {5}{Fonts}{38}{0}{4}
+\beamer@sectionintoc {6}{Features}{40}{0}{5}
