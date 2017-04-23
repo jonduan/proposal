@@ -17,7 +17,7 @@
 %					<https://github.com/hsrmbeamertheme/hsrmbeamertheme>.  It also borrows heavily
 %					from the work of Matthias Vogelgesang, (https://bloerg.net) and his Metropolis Mtheme,
 %					<https://github.com/matze/mtheme>.
-%
+%   Option can be added in \documentclass{???}
 %	Theme			::	newPxFont
 %	Options			::	progressbar
 %					::	sectionpages
@@ -29,6 +29,9 @@
 %					::	cblock
 %					::	minimal
 
+% I just add UVic color theme support. Now the color is based on UVicNavy.
+% Another UVic ECON color theme suuport is based on ECON blended green. 
+% All new color definition can be found in beamercolorthemesthlm.sty style file.   
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 %
@@ -72,55 +75,55 @@
 %\institute{University of Victoria \par \small{File: \jobname}}
 
 \hypersetup{
-pdfauthor = {Mark H. Olson: hendryolson@gmail.com},
-pdfsubject = {Beamer},
-pdfkeywords = {Beamer theme, sthlm},
-pdfmoddate= {D:\pdfdate},
-pdfcreator = {}
+	pdfauthor = {Mark H. Olson: hendryolson@gmail.com},
+	pdfsubject = {Beamer},
+	pdfkeywords = {Beamer theme, sthlm},
+	pdfmoddate= {D:\pdfdate},
+	pdfcreator = {}
 }
 
 \begin{document}
-
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-%
-%	TITLE PAGE
-%
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-\maketitle
-
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-%	FRAME: Theme Package Requirements
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-% \begingroup
-% \setbeamercolor{frametitle}{bg=\cnRed}
-% \setbeamercolor{normal text}{fg=\cnDarkGrey,bg=\cnLightRed}
-% \begin{frame}{Please use Metropolis Theme Instead}
-
-% Thank you for wanting to use sthlm.
-
-% \vspace{1em}
-
-% However, \textbf{you really should consider} using the Metropolis (mTheme) theme developed by Matthias Vogelgesang and the LaTeX community instead as it is very well maintained and documented.
-
-% \begin{center}
-% 	\cBlue{\url{https://goo.gl/r683yn}}
-% \end{center}
-% \end{frame}
-% \endgroup
-
-
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-%
-%	TABLE OF CONTENTS: OVERVIEW
-%
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-\section*{Overview}
-\begin{frame}{Overview}
-\tableofcontents
-% For longer presentations use hideallsubsections option
-%\tableofcontents[hideallsubsections]
+	
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	%
+	%	TITLE PAGE
+	%
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	
+	\maketitle
+	
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	%	FRAME: Theme Package Requirements
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	% \begingroup
+	% \setbeamercolor{frametitle}{bg=\cnRed}
+	% \setbeamercolor{normal text}{fg=\cnDarkGrey,bg=\cnLightRed}
+	% \begin{frame}{Please use Metropolis Theme Instead}
+	
+	% Thank you for wanting to use sthlm.
+	
+	% \vspace{1em}
+	
+	% However, \textbf{you really should consider} using the Metropolis (mTheme) theme developed by Matthias Vogelgesang and the LaTeX community instead as it is very well maintained and documented.
+	
+	% \begin{center}
+	% 	\cBlue{\url{https://goo.gl/r683yn}}
+	% \end{center}
+	% \end{frame}
+	% \endgroup
+	
+	
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	%
+	%	TABLE OF CONTENTS: OVERVIEW
+	%
+	%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+	
+	\section*{Overview}
+	\begin{frame}{Overview}
+	\tableofcontents
+	% For longer presentations use hideallsubsections option
+	%\tableofcontents[hideallsubsections]
 \end{frame}
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -137,9 +140,9 @@ pdfcreator = {}
 
 \begin{frame}[c]{Motivation}
 
-In order to improve the environmental quality, many countries are phasing out coal-fired power plantS and integrate \textbf{renewable} energy into \textbf{power grid}.  
+In order to improve the environmental quality, many countries are phasing out coal-fired power plants and integrate \textbf{renewable} energy into \textbf{power grid}.  
 
-For example, Alberta will phase out all coal-fired power plants and replace two-thirds of the lost electricity production by renewables by 2030.
+For example, Alberta will phase out all coal-fired power plants and replace two-thirds of the lost electricity production with renewables by 2030.
 
 
 The \textbf{goal} of current research is 
@@ -159,25 +162,25 @@ The \textbf{goal} of current research is
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 \begin{frame}[c]{Research Context}
-	
+
 The capacity of renewables such as wind and solar energy have been grown rapidly along with that the cost decreased continuously   
 
 It is challenging the stability and reliability of power system.
 \begin{itemize}
-	
-	\item intermittency of renewables:
-	 	
-	\begin{itemize}
-		\item rely on other dispatchable power sources as backup
-		\item huge amount of capacity payments
-	\end{itemize}
 
-	\item disrupt electricity systems: 
-		\begin{itemize}
-		\item almost zero marginal production cost
-		\item the investment of conventional assets decline
-		\end{itemize}	
-	
+\item Intermittency of renewables:
+
+\begin{itemize}
+	\item rely on other dispatchable power sources as backup
+	\item huge amount of capacity payments
+\end{itemize}
+
+\item Disrupt electricity system: 
+\begin{itemize}
+	\item almost zero marginal production cost
+	\item the investment of conventional assets decline
+\end{itemize}	
+
 
 \end{itemize} 
 
@@ -194,10 +197,10 @@ It is challenging the stability and reliability of power system.
 
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/abEnSourcem"}
-	\caption{Alberta Generation Sources MW}
-	\label{fig:abensource}
+\centering
+\includegraphics[width=0.9\linewidth]{"figure/abEnSourcem"}
+\caption{Alberta Generation Sources MW}
+\label{fig:abensource}
 \end{figure}
 
 
@@ -213,10 +216,10 @@ It is challenging the stability and reliability of power system.
 
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.8\linewidth]{"figure/capacity"}
-	\caption{Change in Alberta Capacity}
-	\label{fig:abensource}
+\centering
+\includegraphics[width=0.8\linewidth]{"figure/capacity"}
+\caption{Change in Alberta Capacity}
+\label{fig:abcapacity}
 \end{figure}
 
 
@@ -233,10 +236,10 @@ It is challenging the stability and reliability of power system.
 
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/abwindcapacitym"}
-	\caption{Alberta Wind Installed Capacity MW}
-	\label{fig:abensource}
+\centering
+\includegraphics[width=0.9\linewidth]{"figure/abwindcapacitym"}
+\caption{Alberta Wind Installed Capacity MW}
+\label{fig:abwindcapacity}
 \end{figure}
 
 
@@ -254,10 +257,10 @@ It is challenging the stability and reliability of power system.
 
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.8\linewidth]{"figure/Interconnection"}
-	\caption{Interconnections of Alberta and other jurisdictions}
-	\label{fig:Interconnection}
+\centering
+\includegraphics[width=0.8\linewidth]{"figure/Interconnection"}
+\caption{Interconnections of Alberta and other jurisdictions}
+\label{fig:Interconnection}
 \end{figure}
 
 
@@ -271,10 +274,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Research Questions}
 
 \begin{itemize}
-	\item Explore the viability of relying on wind power to replace upwards of 60\% of electricity generation in Alberta that would be lost if coal-fired generation is phased out
-	\item Examine the effect of flexible storage of electricity in Alberta power system with wind and solar sources
-	\item Investigate economic cost of electricity source by calibration
-	
+\item Explore the viability of relying on wind power to replace upwards of 60\% of electricity generation in Alberta that would be lost if coal-fired generation is phased out
+\item Examine the effect of flexible storage of electricity in Alberta power system with wind and solar sources
+\item Investigate economic cost of electricity source by calibration
+
 \end{itemize}
 
 
@@ -298,17 +301,17 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Load Duration Curve and Screening Curves}
 
 \begin{itemize}
-	\item The load duration curve captures the structure of the load  
-	\item The screening curves are the cost curves for generation assets
-	\begin{itemize}
-		\item Intercept represents fix cost/capital cost
-		\item Slope represents the variable operating cost/marginal cost
-		\item Total costs (capital plus operating) per unit of generating capacity vary with the
-		number of hours that the capacity is utilized to produce electricity each year.		
-	\end{itemize}
-		
-	\item By allocating the lower cost dispatchable generating unit, grid operator can achieve the \textbf{least cost} generating mix 
-	
+\item The load duration curve captures the structure of the load  
+\item The screening curves are the cost curves for generation assets
+\begin{itemize}
+\item Intercept represents fix cost/capital cost
+\item Slope represents the variable operating cost/marginal cost
+\item Total costs (capital plus operating) per unit of generating capacity vary with the
+number of hours that the capacity is utilized to produce electricity each year.		
+\end{itemize}
+
+\item By allocating the lower cost dispatchable generating unit, grid operator can achieve the \textbf{least cost} generating mix 
+
 \end{itemize}
 
 
@@ -323,10 +326,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Load Duration Curve and Screening Curves}
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.7\linewidth]{"figure/screen"}
-	%\caption{Alberta’s load data up to 2015 from AESO}
-	\label{fig:screen}
+\centering
+\includegraphics[width=0.7\linewidth]{"figure/screen"}
+%\caption{Alberta’s load data up to 2015 from AESO}
+\label{fig:screen}
 \end{figure}
 
 
@@ -343,10 +346,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Mathematical Programming}
 
 \begin{itemize}
-	\item A grid model is developed to examine the allocation of renewable and non-renewable generating sources   
-	\item The objective of optimization is to maximize the total operation profit or minimize total operation cost
-	\item Optimization is subjected to load conditions, technological constraints, decarbonization requirement and tax/subsidy policy 
-	
+\item A grid model is developed to examine the allocation of renewable and non-renewable generating sources   
+\item The objective of optimization is to maximize the total operation profit or minimize total operation cost
+\item Optimization is subjected to load conditions, technological constraints, decarbonization requirement and tax/subsidy policy 
+
 \end{itemize}
 
 
@@ -360,14 +363,14 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Mathematical Programming: Objective}
 
 %https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics
-	\begin{align}\label{eq1}
-	  \Pi & = \sum_{t=1}^T  [   P_{A,t} D_t  - \sum_{i=1}^I (OM_i + b_i + \tau \phi_i) Q_{i,t} \nonumber  \\
-	      & \qquad {} \quad  + \sum_{k=1}^K  [  (P_{k,t} - \delta ) X_{k,t} - (P_{k,t} + \delta) M_{k,t}  ] ]  \\
-	      & \quad - \sum_{i = 1}^I (a_i - d_i) \Delta C_i, \nonumber  \\
-	      & \quad i \in \{coal,CT gas, wind, etc \} , \nonumber  \\
-	      & \quad k \in \ \{ BC, MID, SK  \},\nonumber \\
-	      & \quad t \in \{1:8760\} ,  \nonumber      
-	\end{align}
+\begin{align}\label{eq1}
+\Pi & = \sum_{t=1}^T  [   P_{A,t} D_t  - \sum_{i=1}^I (OM_i + b_i + \tau \phi_i) Q_{i,t} \nonumber  \\
+& \qquad {} \quad  + \sum_{k=1}^K  [  (P_{k,t} - \delta ) X_{k,t} - (P_{k,t} + \delta) M_{k,t}  ] ]  \\
+& \quad - \sum_{i = 1}^I (a_i - d_i) \Delta C_i, \nonumber  \\
+& \quad i \in \{coal,CT gas, wind, etc \} , \nonumber  \\
+& \quad k \in \ \{ BC, MID, SK  \},\nonumber \\
+& \quad t \in \{1:8760\} ,  \nonumber      
+\end{align}
 
 
 \end{frame}
@@ -381,19 +384,19 @@ It is challenging the stability and reliability of power system.
 % no blank line allowed
 %https://tex.stackexchange.com/questions/203020/paragraph-ended-before-align-was-complete
 \begin{align}\label{eq2}
-	\sum_{i = 1}^I Q_{i,t} + \sum_{k=1}^K  [  M_{k,t} - X_{k,t} ]  &   \ge D_t,\quad \forall t = 1,...,T; k \in  \{ BC, MID, SK  \},   \\
-	%
-	 Q_{i,t} -    Q_{i,t-1}  & \le C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
-	%}
-	Q_{i,t} -     Q_{i,t-1}  & \ge C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
-	%
-	Q_{i,t} -    Q_{i,t-1}  & \ge C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
-	%
-	M_{k,t} & \le TRM_{k,t} ,  \quad \forall k, t=1,...,T; \\
-	%
-	X_{k,t} & \le TRX_{k,t} ,  \quad \forall k, t=1,...,T; \\
-	% non negative
-	Q_{i,t}, M_{k,t}, X_{k,t} & \ge 0 ,  \quad \forall k,i,t=1,...,T;
+\sum_{i = 1}^I Q_{i,t} + \sum_{k=1}^K  [  M_{k,t} - X_{k,t} ]  &   \ge D_t,\quad \forall t = 1,...,T; k \in  \{ BC, MID, SK  \},   \\
+%
+Q_{i,t} -    Q_{i,t-1}  & \le C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
+%}
+Q_{i,t} -     Q_{i,t-1}  & \ge C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
+%
+Q_{i,t} -    Q_{i,t-1}  & \ge C_I \times R_i ,  \quad \forall i,t = 2,...,T; \\
+%
+M_{k,t} & \le TRM_{k,t} ,  \quad \forall k, t=1,...,T; \\
+%
+X_{k,t} & \le TRX_{k,t} ,  \quad \forall k, t=1,...,T; \\
+% non negative
+Q_{i,t}, M_{k,t}, X_{k,t} & \ge 0 ,  \quad \forall k,i,t=1,...,T;
 \end{align}
 
 \end{frame}
@@ -406,20 +409,20 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Mathematical Programming: Result}
 
 \begin{itemize}
-	\item Resulting model is used for policy analysis in different scenarios
-	\begin{itemize}
-		\item Different wind speed profiles
-		\item Different intertie capacity/storage potential
-		\item Different nuclear capacity level 	 
-		\item Different level of carbon tax/feed-in tariff
-	\end{itemize}
-	\item Results 
-	\begin{itemize}
-		\item Green gas emission
-		\item Phasing out coal plants
-		\item Penetration of renewables 	 
-		\item Average costs of reducing carbon emissions 
-	\end{itemize}
+\item Resulting model is used for policy analysis in different scenarios
+\begin{itemize}
+\item Different wind speed profiles
+\item Different intertie capacity/storage potential
+\item Different nuclear capacity level 	 
+\item Different level of carbon tax/feed-in tariff
+\end{itemize}
+\item Results 
+\begin{itemize}
+\item Green gas emission
+\item Phasing out coal plants
+\item Penetration of renewables 	 
+\item Average costs of reducing carbon emissions 
+\end{itemize}
 \end{itemize}
 
 \end{frame}
@@ -434,12 +437,12 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Cost Calibration of Electricity}
 
 \begin{itemize}
-	\item \textbf{Missing money problem}: the whole market price doesn't reflect the average cost of generating capacity, then doesn't provide enough incentive for investment of generating assets.  
-	   
-	\item \textbf{Levelized costs of electricity (LCOE)} fails to take into account the timing of available power from intermittent sources and how this impacts other assets providing power to the grid at the time.  
-	
-	\item To understand the true \textbf{economic cost of electricity}, a comprehensive evaluation should consider the life time cost and expected profitability of the generating technologies.
-	
+\item \textbf{Missing money problem}: the whole market price doesn't reflect the average cost of generating capacity, then doesn't provide enough incentive for investment of generating assets.  
+
+\item \textbf{Levelized costs of electricity (LCOE)} fails to take into account the timing of available power from intermittent sources and how this impacts other assets providing power to the grid at the time.  
+
+\item To understand the true \textbf{economic cost of electricity}, a comprehensive evaluation should consider the life time cost and expected profitability of the generating technologies.
+
 \end{itemize}
 
 
@@ -454,10 +457,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Calibration by Positive mathematical programming}
 
 \begin{itemize}
-	\item Construct economic cost functions or production function of energy resources for grid optimization modeling   
-	\item Actual observed base-year operating levels can be recovered with calibrated cost functions in optimization
-	\item Resulting nonlinear model is used for policy analysis
-	
+\item Construct economic cost functions or production function of energy resources for grid optimization modeling   
+\item Actual observed base-year operating levels can be recovered with calibrated cost functions in optimization
+\item Resulting nonlinear model is used for policy analysis
+
 \end{itemize}
 
 
@@ -482,10 +485,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Data}
 
 \begin{itemize}
-	\item Alberta’s hourly load data from 2005 to 2016 from Alberta Electric System Operator (AESO)
-	\item Hourly wind speed data for 17 locations  2006 to 2015 from Statistic Canada
-	\item Hourly solar data for 28 locations  1996 to 2005 from Canadian Weather Energy and Engineering Datasets (CWEEDS)
-	
+\item Alberta’s hourly load data from 2005 to 2016 from Alberta Electric System Operator (AESO)
+\item Hourly wind speed data for 17 locations  2006 to 2015 from Statistic Canada
+\item Hourly solar data for 28 locations  1996 to 2005 from Canadian Weather Energy and Engineering Datasets (CWEEDS)
+
 \end{itemize}
 
 
@@ -502,10 +505,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Load Data}
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/monthLoad"}
-	\caption{Alberta’s Monthly Load 2005 to 2016 from AESO}
-	\label{fig:monthLoad}
+\centering
+\includegraphics[width=0.9\linewidth]{"figure/monthLoad"}
+\caption{Alberta’s Monthly Load 2005 to 2016 from AESO}
+\label{fig:monthLoad}
 \end{figure}
 
 
@@ -521,10 +524,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Wind Data}
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/fortVermilion"}
-	\caption{Alberta’s Fort Vermilion Average Wind Speed 2015 from Government of Canada}
-	\label{fig:wind}
+\centering
+\includegraphics[width=0.9\linewidth]{"figure/fortVermilion"}
+\caption{Alberta’s Fort Vermilion Average Wind Speed 2015 from Government of Canada}
+\label{fig:wind}
 \end{figure}
 
 
@@ -539,10 +542,10 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Solar Data}
 
 \begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/load_rad"}
-	\caption{Average Load and Solar Irradiance in January}
-	\label{fig:load_rad}
+\centering
+\includegraphics[width=0.9\linewidth]{"figure/load_rad"}
+\caption{Average Load and Solar Irradiance in January}
+\label{fig:load_rad}
 \end{figure}
 
 
@@ -566,13 +569,13 @@ It is challenging the stability and reliability of power system.
 
 
 \begin{itemize}
-	\item \textbf{Chapter 1} Background
-	\item \textbf{Chapter 2} General method of MP, PMP, Simulation
-	\item \textbf{Chapter 3} Load Duration Curve and Screening Curves: A Framework for Analysis
-	\item \textbf{Chapter 4} Wind and Emission Reduction Targets
-	\item \textbf{Chapter 5} Hybrid Renewable Energy Systems with Battery Storage
-	\item \textbf{Chapter 6} Calibration of Electricity Cost for Power System Optimization
-	\item \textbf{Chapter 7} Conclusion
+\item \textbf{Chapter 1} Background
+\item \textbf{Chapter 2} General method of MP, PMP, Simulation
+\item \textbf{Chapter 3} Load Duration Curve and Screening Curves: A Framework for Analysis
+\item \textbf{Chapter 4} Wind and Emission Reduction Targets
+\item \textbf{Chapter 5} Hybrid Renewable Energy Systems with Battery Storage
+\item \textbf{Chapter 6} Calibration of Electricity Cost for Power System Optimization
+\item \textbf{Chapter 7} Conclusion
 
 
 \end{itemize}
@@ -627,22 +630,22 @@ It is challenging the stability and reliability of power system.
 % \usepackage{booktabs}
 % http://stackoverflow.com/questions/790932/how-to-wrap-text-in-latex-tables
 \begin{table}[]
-	\centering
-	%\caption{TIMELINE}
-	\label{my-label}
-	\begin{threeparttable}
-		\begin{tabular}{p{0.25\linewidth}p{0.75\linewidth}}
-			\toprule
-			Time & Chapter \\ \midrule
-			2017 Summer & Chapters one  \\
-			2017 Winter & Chapter two: General methods of MP, PMP, and simulation \\
-			2017 Winter & Chapter three: Load Duration Curve and Screening Curves \\
-			2018 Spring & Chapter four is based on an existing paper \\
-			2018 Spring & Chapter five is under the second stage of research  \\
-			2018 Summer & Chapter six is at its early stage  \\
-			2018 Winter & Chapter seven  \\ \bottomrule
-		\end{tabular}
-	\end{threeparttable}
+\centering
+%\caption{TIMELINE}
+\label{my-label}
+\begin{threeparttable}
+\begin{tabular}{p{0.25\linewidth}p{0.75\linewidth}}
+\toprule
+Time & Chapter \\ \midrule
+2017 Summer & Chapters one  \\
+2017 Winter & Chapter two: General methods of MP, PMP, and simulation \\
+2017 Winter & Chapter three: Load Duration Curve and Screening Curves \\
+2018 Spring & Chapter four is based on an existing paper \\
+2018 Spring & Chapter five is under the second stage of research  \\
+2018 Summer & Chapter six is at its early stage  \\
+2018 Winter & Chapter seven  \\ \bottomrule
+\end{tabular}
+\end{threeparttable}
 \end{table}
 
 
