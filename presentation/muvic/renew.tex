@@ -196,26 +196,7 @@ It is challenging the stability and reliability of power system.
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"figure/abEnSourcem"}
-	\caption{Alberta Generation Sources}
-	\label{fig:abensource}
-\end{figure}
-
-
-
-\end{frame}
-
-
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-%	FRAME:
-%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-
-\begin{frame}[c]{Research Context}
-
-
-\begin{figure}
-	\centering
-	\includegraphics[width=0.9\linewidth]{"figure/abwindcapacitym"}
-	\caption{Alberta Wind Installed Capacity}
+	\caption{Alberta Generation Sources MW}
 	\label{fig:abensource}
 \end{figure}
 
@@ -253,6 +234,27 @@ It is challenging the stability and reliability of power system.
 
 \begin{figure}
 	\centering
+	\includegraphics[width=0.9\linewidth]{"figure/abwindcapacitym"}
+	\caption{Alberta Wind Installed Capacity MW}
+	\label{fig:abensource}
+\end{figure}
+
+
+
+\end{frame}
+
+
+
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME:
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\begin{frame}[c]{Research Context}
+
+
+\begin{figure}
+	\centering
 	\includegraphics[width=0.8\linewidth]{"figure/Interconnection"}
 	\caption{Interconnections of Alberta and other jurisdictions}
 	\label{fig:Interconnection}
@@ -269,9 +271,9 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Research Questions}
 
 \begin{itemize}
-	\item explore the viability of relying on wind power to replace upwards of 60\% of electricity generation in Alberta that would be lost if coal-fired generation is phased out
-	\item examine the effect of flexible storage of electricity in Alberta power system with wind and solar sources
-	\item investigate economic cost of electricity source by calibration
+	\item Explore the viability of relying on wind power to replace upwards of 60\% of electricity generation in Alberta that would be lost if coal-fired generation is phased out
+	\item Examine the effect of flexible storage of electricity in Alberta power system with wind and solar sources
+	\item Investigate economic cost of electricity source by calibration
 	
 \end{itemize}
 
@@ -296,12 +298,13 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Load Duration Curve and Screening Curves}
 
 \begin{itemize}
-	\item The load duration curve captures the structure of the load: the peak load, intermediate load and the based load  
+	\item The load duration curve captures the structure of the load  
 	\item The screening curves are the cost curves for generation assets
 	\begin{itemize}
-		\item intercept represents fix cost
-		\item slope represents the variable cost/marginal cost
-		
+		\item Intercept represents fix cost/capital cost
+		\item Slope represents the variable operating cost/marginal cost
+		\item Total costs (capital plus operating) per unit of generating capacity vary with the
+		number of hours that the capacity is utilized to produce electricity each year.		
 	\end{itemize}
 		
 	\item By allocating the lower cost dispatchable generating unit, grid operator can achieve the \textbf{least cost} generating mix 
@@ -400,11 +403,48 @@ It is challenging the stability and reliability of power system.
 %	FRAME:
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
-\begin{frame}[c]{Mathematical Programming: Constraints}
+\begin{frame}[c]{Mathematical Programming: Result}
 
+\begin{itemize}
+	\item Resulting model is used for policy analysis in different scenarios
+	\begin{itemize}
+		\item Different wind speed profiles
+		\item Different intertie capacity/storage potential
+		\item Different nuclear capacity level 	 
+		\item Different level of carbon tax/feed-in tariff
+	\end{itemize}
+	\item Results 
+	\begin{itemize}
+		\item Green gas emission
+		\item Phasing out coal plants
+		\item Penetration of renewables 	 
+		\item Average costs of reducing carbon emissions 
+	\end{itemize}
+\end{itemize}
+
+\end{frame}
+
+
+
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME:
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\begin{frame}[c]{Cost Calibration of Electricity}
+
+\begin{itemize}
+	\item \textbf{Missing money problem}: the whole market price doesn't reflect the average cost of generating capacity, then doesn't provide enough incentive for investment of generating assets.  
+	   
+	\item \textbf{Levelized costs of electricity (LCOE)} fails to take into account the timing of available power from intermittent sources and how this impacts other assets providing power to the grid at the time.  
+	
+	\item To understand the true \textbf{economic cost of electricity}, a comprehensive evaluation should consider the life time cost and expected profitability of the generating technologies.
+	
+\end{itemize}
 
 
 \end{frame}
+
 
 
 %-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -414,9 +454,9 @@ It is challenging the stability and reliability of power system.
 \begin{frame}[c]{Calibration by Positive mathematical programming}
 
 \begin{itemize}
-	\item construct economic cost functions or production function of energy resources for grid optimization modeling   
-	\item actual observed base-year operating levels can be recovered with calibrated cost functions in optimization
-	\item resulting nonlinear model is used for policy analysis
+	\item Construct economic cost functions or production function of energy resources for grid optimization modeling   
+	\item Actual observed base-year operating levels can be recovered with calibrated cost functions in optimization
+	\item Resulting nonlinear model is used for policy analysis
 	
 \end{itemize}
 
@@ -443,8 +483,8 @@ It is challenging the stability and reliability of power system.
 
 \begin{itemize}
 	\item Alberta’s hourly load data from 2005 to 2016 from Alberta Electric System Operator (AESO)
-	\item hourly wind speed data for 17 locations from 2006 to 2015 from Statistic Canada
-	\item hourly solar data for 28 locations from 1996 to 2005 from Canadian Weather Energy and Engineering Datasets (CWEEDS)
+	\item Hourly wind speed data for 17 locations  2006 to 2015 from Statistic Canada
+	\item Hourly solar data for 28 locations  1996 to 2005 from Canadian Weather Energy and Engineering Datasets (CWEEDS)
 	
 \end{itemize}
 
@@ -464,8 +504,27 @@ It is challenging the stability and reliability of power system.
 \begin{figure}
 	\centering
 	\includegraphics[width=0.9\linewidth]{"figure/monthLoad"}
-	\caption{Alberta’s load 2005 to 2016 from AESO}
+	\caption{Alberta’s Monthly Load 2005 to 2016 from AESO}
 	\label{fig:monthLoad}
+\end{figure}
+
+
+
+\end{frame}
+
+
+
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+%	FRAME:
+%-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+\begin{frame}[c]{Wind Data}
+
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\linewidth]{"figure/fortVermilion"}
+	\caption{Alberta’s Fort Vermilion Average Wind Speed 2015 from Government of Canada}
+	\label{fig:wind}
 \end{figure}
 
 
@@ -599,7 +658,7 @@ It is challenging the stability and reliability of power system.
 %\setbeamercolor{background canvas}{bg=\cneconGreen}
 \begin{frame}[plain]
 
-\centering{\cGrey{\Huge{THE \newline END}}}
+\centering{\cGrey{\Huge{THANK \newline YOU}}}
 
 \end{frame}
 \endgroup
