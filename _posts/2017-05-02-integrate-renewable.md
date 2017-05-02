@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Renewable Energy Analysis Lab - Talks
 category: renewables
@@ -33,4 +33,3 @@ Where should we put those battery?
                   <iframe src="https://player.vimeo.com/video/185371582?title=0&byline=0&portrait=0" width="560" height="315" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
                 </li>
               </ul>
-
