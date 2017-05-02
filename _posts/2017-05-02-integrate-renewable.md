@@ -8,7 +8,14 @@ tags:
   - integration
   - battery
 ---
-## A New Post
+## Battery
+
+How many battery we install?
+
+How big the battery is?
+
+Where should we put those battery?
+
 
               <ul>
                 <li> Prof. Kirschen describes research on using batteries to address the challenges of incorporating renewable energy into the grid.
