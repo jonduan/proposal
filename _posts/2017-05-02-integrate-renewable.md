@@ -27,6 +27,11 @@ balance the load and solar
 
 *   Prof. Kirschen seminar in University of Utah on Flexibility in Power Systems
 
+"Flexibility in Power Systems"
+
+Dr. Daniel Kirschen, Electrical Engineering, University of Washington
+
+Abstract: The stochastic nature of renewable energy sources, such as wind and solar, introduces a new form of uncertainty in power system operation. A standard answer to concerns about this increase in uncertainty is that the system should become more "flexible". However, there is as yet no agreement on exactly how much flexibility is needed or even a commonly accepted measure of flexibility. However, there is agreement on the fact that flexibility has a cost and that this cost should be minimized in a way that does not affect reliability or the ability to integrate renewable energy sources. This presentation will explore the short-term (i.e. operational) and long-term (i.e. investment) aspects of providing flexibility using conventional generation sources, storage and demand response.
 
 <iframe src="https://www.youtube.com/embed/swRiQvu8e_8" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 
