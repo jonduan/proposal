@@ -16,6 +16,10 @@ How big the battery is?
 
 Where should we put those battery?
 
+Help us smooth the variation of solar output.
+
+balance the load and solar 
+
 
 *   Prof. Kirschen describes research on using batteries to address the challenges of incorporating renewable energy into the grid.
 
