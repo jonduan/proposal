@@ -33,7 +33,10 @@ A pre-tax subsidy arises whenever the retail price to consumers is below than th
  Post-tax subsidies are larger than pre-tax subsidies given that they are the sum of pre-tax subsidies and tax subsidies.
  
  
- 
+**The deadweight** loss is a welfare loss for the whole society
+
+The deadweight loss measures the inefficiency caused by subsidies
+The deadweight loss stems from the fact that the value consumers put on the fuel is below the opportunity cost
  
  
  
