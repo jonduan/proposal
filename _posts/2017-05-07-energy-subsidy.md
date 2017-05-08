@@ -40,7 +40,7 @@ The deadweight loss stems from the fact that the value consumers put on the fuel
  
  
  
- 
+ ![](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/250266597166b761da45402aaf725cd8/asset-v1:IMFx+ESRx+1T2017+type@asset+block/m1p1q5base.png)
  
  
  
