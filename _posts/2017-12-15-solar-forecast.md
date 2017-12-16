@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: energy
 tags:
@@ -50,7 +50,3 @@ whereas Diffuse Horizontal Irradiance (DHI) is the amount of radiation that refl
 In the northern hemisphere, the further north an installation is located, the more it ought to be tilted. The optimal tilt difference is simply the difference between the tilt of a panel and its latitude. 
 
 Technology type refers to what type of silicon is used in the panel. Some panels move to track the sun, and tracking type refers to whether a panel is fixed or has some kind of tracking.
-
-
-
-
