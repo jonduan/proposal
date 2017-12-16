@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: The energy subsidy
 category: energy
@@ -46,13 +46,3 @@ The deadweight loss stems from the fact that the value consumers put on the fuel
  The more elastic the demand curve, the larger the deadweight loss
 
 As suggested by the answers of the questions 6, 7, and 8, a higher price elasticity means that a decrease in retail price will lead to a larger increase in consumption. If the decrease in retail price is due to subsidies, this will entail excess consumption and overproduction, and hence a larger deadweight loss.
-
-
-
- 
- 
- 
- 
- 
- 
- 
