@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 category: energy
 tags:
@@ -16,4 +16,3 @@ Maoneng said it had signed a 15-year PPA with AGL for 800,000MWh of renewable en
 
 
 The price for the PPA was not revealed – as is typical in Australia – but it comes as part of package, with a total cost of $76/MWh that includes an upgrade to the Bayswater coal plant, a new 250MW gas peaking plant (expensive), and 25MW of demand response.
-
