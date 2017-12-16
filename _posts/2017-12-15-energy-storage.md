@@ -21,3 +21,4 @@ how much energy storage – whether in batteries, pumped hydro or solar thermal 
 
 
 [New Finkel report finds no need to panic about energy storage](http://reneweconomy.com.au/new-finkel-report-finds-no-need-to-panic-about-energy-storage-42755/)
+A new report into energy storage commissioned by chief scientist Alan Finkel highlights the enormous opportunities for storage in Australia, but underlines how little is actually needed over the short to medium term, even at relatively high levels of wind and solar.
