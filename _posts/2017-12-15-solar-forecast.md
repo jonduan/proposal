@@ -55,6 +55,8 @@ Technology type refers to what type of silicon is used in the panel. Some panels
 ref:
 https://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks
 
+https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series
+
 https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
 
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
