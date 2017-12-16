@@ -60,3 +60,5 @@ https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 https://www.tensorflow.org/tutorials/seq2seq
+
+https://www.tensorflow.org/tutorials/recurrent
