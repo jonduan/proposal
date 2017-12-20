@@ -45,3 +45,16 @@ the unit showed off its fast reaction ability by switching from charging off of 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
 
 Solar power and energy storage (batteries) have fallen in price enough that they’re now competing with the cost of natural gas peaker plants in specific markets. New analysis is suggesting 10GW of natural gas peaker plants are at risk through 2027 in the USA specifically.
+
+
+
+
+
+
+
+
+
+
+
+
+
