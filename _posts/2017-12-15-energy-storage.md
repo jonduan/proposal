@@ -63,6 +63,18 @@ The facility, which is called the Hornsdale Power Reserve, will be the largest l
 
 The unit also got to show off its ability to switch quickly from charging to pushing electrons onto the power grid. According to the below image from RenewEconomy, it looks like during a 4 hour period the battery was able to switch state at least 14 times.
 
+A report in Minnesota suggested that right now, the net cost of a solar power plus storage power plant is cheaper than a natural gas peaker power plant – as seen in the right two columns in the graph below. In fact, energy storage alone – without the cheap electricity coming from a renewable plant – is almost the same cost as a peaker plant.
+
+
+### Energy Storage Paired with Solar Found to Be More Cost Effective in Minnesota Today than Natural Gas Peaking Plants 
+https://twin-cities.umn.edu/news-events/energy-storage-paired-solar-more-cost-effective-mn-today
+
+
+As federal policy on renewable energy is being rolled back, a new UMN-led report finds that when environmental benefits are considered combined energy storage and solar arrays can be a more cost-effective alternative in Minnesota – implementable today – to natural gas peaking plants, which are fired up only to meet peak demand.
+
+The report, “Modernizing Minnesota’s Grid: An Economic Analysis of Energy Storage Opportunities,” is the result of months-long effort led by the Energy Transition Lab (ETL) at the University of Minnesota’s Institute on the Environment. Lessons learned could also be applied to other Midwest states that are in the Midcontinent Independent System Operator (MISO) footprint.
+
+
 
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
