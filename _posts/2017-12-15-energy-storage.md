@@ -124,4 +124,10 @@ The Australian Energy Market Commission has finally agreed to recommend a new ru
 
 But its decision to put off the implementation of the 5-minute until July, 2021 – at the earliest – has been slammed by leading experts, who say the decision will simply reinforce the position of the fossil fuel generators currently fleecing wholesale energy markets, and delay the entry of new technologies,
 
-Professor Ross Garnaut, the eminent economist who is also chairman of Zen Energy, said the decision would cause an unnecessary delay in the introduction of modern technologies to stabilise the electricity market.
+
+Numerous battery storage projects are ready to be implemented, but most need the extra income that could be gained from a change to the 5-minute rule to make the projects viable and increase the “value stack” of the product.
+
+Some battery storage projects – such as the Tesla big battery in South Australia and another 30MW storage facility in the same state – are both being supported by federal or state payments, and are focused more on providing grid security services.
+
+after huge resistance from the fossil fuel generators, who have used the 30-minute settlement system to manipulate pricing over the last 10 years.
+
