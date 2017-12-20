@@ -38,3 +38,10 @@ The purpose of this battery was specifically to defend the power grid from trips
 According to the RenewEconomy, the data of the Tesla battery’s response was faster than the Australian Market Energy Operator (AEMO) data collection hardware could record.
 
 the unit showed off its fast reaction ability by switching from charging off of the grid to delivering electricity to the grid, at least 14 times within a 4 hour period.
+
+
+## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
+
+https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
+
+Solar power and energy storage (batteries) have fallen in price enough that they’re now competing with the cost of natural gas peaker plants in specific markets. New analysis is suggesting 10GW of natural gas peaker plants are at risk through 2027 in the USA specifically.
