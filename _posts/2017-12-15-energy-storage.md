@@ -34,3 +34,5 @@ https://flipboard.com/@flipboard/-tesla-battery-races-to-save-australia-g/f-1c5d
 "Tesla’s world record sized 100MW/129MWh lithium ion battery reacted within milliseconds when an Australia coal power plant removed itself from the power grid last Thursday. Technically, the Tesla battery responded to the trip event, and finished its work, before the coal plant’s backup plant finished its start up process."
 
 The purpose of this battery was specifically to defend the power grid from trips like this after outages in the summer of 2016.
+
+According to the RenewEconomy, the data of the Tesla battery’s response was faster than the Australian Market Energy Operator (AEMO) data collection hardware could record.
