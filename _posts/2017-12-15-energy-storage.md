@@ -40,6 +40,14 @@ According to the RenewEconomy, the data of the Tesla battery’s response was fa
 the unit showed off its fast reaction ability by switching from charging off of the grid to delivering electricity to the grid, at least 14 times within a 4 hour period.
 
 
+The Tesla power plant did two amazing things.
+
+First, the power plant responded to the grid frequency challenge before the offending coal plant actually finished tripping itself from the power grid. That’s not like telling the future, but it’s so fast you’d start questioning things.
+
+And secondly, it finished its work of stabilizing the grid and shut back down before the regular backup plant even started its work. Because of the slower nature of fossil fuels generator, literally spinning up a massive turbine, they’re designed to deliver far more energy than is needed to the power grid. As a form of insurance.
+
+This makes our grid more stable, and in the long run, it’ll save significant amounts of money.
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
@@ -47,6 +55,9 @@ https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
 Solar power and energy storage (batteries) have fallen in price enough that they’re now competing with the cost of natural gas peaker plants in specific markets. New analysis is suggesting 10GW of natural gas peaker plants are at risk through 2027 in the USA specifically.
 
 
+Other, more aggressive suggestions don’t see a place for gas peaker plants after 2020 in the USA. It seems the age of the renewable energy plus energy storage power plant is upon us.
+
+Part of the use of Tesla’s 100MW/129MWh project is an example of this in the real world. So is the collection of projects in California that partially replaced the natural gas plant at Aliso Canyon (which Tesla also participated in). Elsewhere in California there are discussions to replace two additional peaker plants in the near future, and one large gas power plant, that regulators say are systemically important to the grid with batteries.
 
 
 
