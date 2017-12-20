@@ -25,3 +25,12 @@ Modeling 100% renewable energy scenarios has become a popular activity among aca
 
 [New Finkel report finds no need to panic about energy storage](http://reneweconomy.com.au/new-finkel-report-finds-no-need-to-panic-about-energy-storage-42755/)
 A new report into energy storage commissioned by chief scientist Alan Finkel highlights the enormous opportunities for storage in Australia, but underlines how little is actually needed over the short to medium term, even at relatively high levels of wind and solar.
+
+
+## Tesla battery races to save Australia grid from coal plant crash – injecting 7MW in milliseconds
+
+https://flipboard.com/@flipboard/-tesla-battery-races-to-save-australia-g/f-1c5dc39e33%2Felectrek.co
+
+"Tesla’s world record sized 100MW/129MWh lithium ion battery reacted within milliseconds when an Australia coal power plant removed itself from the power grid last Thursday. Technically, the Tesla battery responded to the trip event, and finished its work, before the coal plant’s backup plant finished its start up process."
+
+The purpose of this battery was specifically to defend the power grid from trips like this after outages in the summer of 2016.
