@@ -74,7 +74,7 @@ As federal policy on renewable energy is being rolled back, a new UMN-led report
 
 The report, “Modernizing Minnesota’s Grid: An Economic Analysis of Energy Storage Opportunities,” is the result of months-long effort led by the Energy Transition Lab (ETL) at the University of Minnesota’s Institute on the Environment. Lessons learned could also be applied to other Midwest states that are in the Midcontinent Independent System Operator (MISO) footprint.
 
-
+“Energy storage is a linchpin for Minnesota: It has the potential to reduce our system costs, increase electric grid resiliency, and even decrease greenhouse gas emissions in our broader coal-dependent region,” said Ellen Anderson, director of the Energy Transition Lab. “While the federal government questions the reliability of renewable energy, states like Minnesota are stepping up to show it’s possible to connect renewables and storage to reduce both costs and greenhouse gas emissions, while maintaining a reliable grid.”
 
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
