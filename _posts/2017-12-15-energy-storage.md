@@ -48,6 +48,22 @@ And secondly, it finished its work of stabilizing the grid and shut back down be
 
 This makes our grid more stable, and in the long run, it’ll save significant amounts of money.
 
+
+
+## Tesla 100MW battery flexes muscles early this morning – delivers 70MWh of ‘stored wind power’, shows off fast switching
+
+https://electrek.co/2017/11/30/tesla-100mw-battery-flexes-muscles-early-this-morning-delivers-70mw-of-stored-wind-energy-shows-off-fast-switching/
+
+
+The 100MW/129MWh Tesla battery delivered in 100 days has begun testing. And – for the first time – on Thursday at 4:30 PM in Australia, early this morning in the US, the power plant delivered 70MW of ‘stored wind power’ during the peak electricity demand period.
+
+Elon Musk, on March 9th of this year, promised via a tweet that he could deliver this battery within 100 days – or it’d be free.
+
+The facility, which is called the Hornsdale Power Reserve, will be the largest li-ion battery ever deployed at 100MW/129MWh. The plant is located next to Neoen’s ‘Hornsdale Windfarm.’ It was commissioned by the South Australian government, though the total price of it has not been revealed. It was part of a $390 million energy project. Tesla beat 90 other competitive bids for this process.
+
+The unit also got to show off its ability to switch quickly from charging to pushing electrons onto the power grid. According to the below image from RenewEconomy, it looks like during a 4 hour period the battery was able to switch state at least 14 times.
+
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
@@ -59,7 +75,7 @@ Other, more aggressive suggestions don’t see a place for gas peaker plants aft
 
 Part of the use of Tesla’s 100MW/129MWh project is an example of this in the real world. So is the collection of projects in California that partially replaced the natural gas plant at Aliso Canyon (which Tesla also participated in). Elsewhere in California there are discussions to replace two additional peaker plants in the near future, and one large gas power plant, that regulators say are systemically important to the grid with batteries.
 
-
+The two Tesla battery power plants – and peaker plants in general – are participating in an electricity market that pays for filling gaps with fast response time electricity during times when electricity demand changes (like in California as the sun goes down and everyone goes home).
 
 
 
