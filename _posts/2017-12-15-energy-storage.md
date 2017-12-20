@@ -105,6 +105,8 @@ The two Tesla battery power plants – and peaker plants in general – are part
 
 Major CEOs of power companies have also suggested, in a much more aggressive time frame, that peaker plants will go away entirely by 2020 in the USA.
 
+What matters though is that energy storage is going to become a big player in the utility-scale peaker plant market – and we’ve already crossed a tipping point. A tipping point where the energy storage projects that are already planned are enough to build factories that will deliver to us the learning curves that will lower the pricing even further, allowing energy storage to take over bigger markets.
+
 
 ## Have We Reached Peak Peaker? ‘I Can’t See Why We Should Build a Gas Peaker After 2025’
 The trend lines aren’t looking very good for natural-gas peaker plants.
