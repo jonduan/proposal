@@ -76,6 +76,8 @@ The report, “Modernizing Minnesota’s Grid: An Economic Analysis of Energy St
 
 “Energy storage is a linchpin for Minnesota: It has the potential to reduce our system costs, increase electric grid resiliency, and even decrease greenhouse gas emissions in our broader coal-dependent region,” said Ellen Anderson, director of the Energy Transition Lab. “While the federal government questions the reliability of renewable energy, states like Minnesota are stepping up to show it’s possible to connect renewables and storage to reduce both costs and greenhouse gas emissions, while maintaining a reliable grid.”
 
+In addition to showing that storage plus solar already could be more cost effective than peaking gas plants, including environmental benefits, the analysis shows that the deployment of storage in Minnesota is projected to increase the use of low-cost renewable energy generation dispatched in MISO and to reduce the need for expensive transmission investments.
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
