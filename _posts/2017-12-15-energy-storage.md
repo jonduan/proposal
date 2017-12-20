@@ -116,3 +116,12 @@ https://www.greentechmedia.com/articles/read/battery-storage-is-threatening-natu
 
 ![](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/STORAGE_VERSUS_PEAKERS_2018-2027_2146_960_80.jpg)
 
+## Garnaut slams AEMC move to delay 5-minute settlement switch
+
+http://reneweconomy.com.au/garnaut-slams-aemc-move-to-delay-5-minute-settlement-switch-89819/
+
+The Australian Energy Market Commission has finally agreed to recommend a new rule that would change the  settlement period for the electricity spot price from 30 minutes to five minutes – a development that could underpin massive investment in battery storage in Australia.
+
+But its decision to put off the implementation of the 5-minute until July, 2021 – at the earliest – has been slammed by leading experts, who say the decision will simply reinforce the position of the fossil fuel generators currently fleecing wholesale energy markets, and delay the entry of new technologies,
+
+Professor Ross Garnaut, the eminent economist who is also chairman of Zen Energy, said the decision would cause an unnecessary delay in the introduction of modern technologies to stabilise the electricity market.
