@@ -36,3 +36,5 @@ https://flipboard.com/@flipboard/-tesla-battery-races-to-save-australia-g/f-1c5d
 The purpose of this battery was specifically to defend the power grid from trips like this after outages in the summer of 2016.
 
 According to the RenewEconomy, the data of the Tesla battery’s response was faster than the Australian Market Energy Operator (AEMO) data collection hardware could record.
+
+the unit showed off its fast reaction ability by switching from charging off of the grid to delivering electricity to the grid, at least 14 times within a 4 hour period.
