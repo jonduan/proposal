@@ -84,6 +84,10 @@ Connexus, Minnesota’s largest distribution cooperative, was a participant in t
 
 “We have been assessing energy storage to understand its potential benefits to our distribution system and members. Just like solar PV, with continuing drop in storage pricing, it is now becoming cost effective in specific applications,” said Brian Burandt, Vice President of Power Supply and Business Development at Connexus. “While we expect broad applications will be enabled with ongoing cost reductions and performance enhancements, we believe the technology is ready today for application on our system. That will save our member-owners and Minnesotans on electric costs, but in tandem, facilitate renewable energy growth to reduce greenhouse gas emissions.”
 
+http://energytransition.umn.edu/energy-transition-lab-publications/workshop-report-final/
+
+
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
@@ -97,9 +101,9 @@ Part of the use of Tesla’s 100MW/129MWh project is an example of this in the r
 
 The two Tesla battery power plants – and peaker plants in general – are participating in an electricity market that pays for filling gaps with fast response time electricity during times when electricity demand changes (like in California as the sun goes down and everyone goes home).
 
+![](https://electrek.files.wordpress.com/2017/12/solar-storage-minnesota-gas-peaker-chart.jpg?quality=82&strip=all)
 
-
-
+Major CEOs of power companies have also suggested, in a much more aggressive time frame, that peaker plants will go away entirely by 2020 in the USA.
 
 
 
