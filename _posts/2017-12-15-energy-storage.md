@@ -112,3 +112,5 @@ The trend lines aren’t looking very good for natural-gas peaker plants.
 https://www.greentechmedia.com/articles/read/battery-storage-is-threatening-natural-gas-peaker-plants
 
 
+![](https://dqbasmyouzti2.cloudfront.net/assets/content/cache/made/content/images/articles/STORAGE_VERSUS_PEAKERS_2018-2027_2146_960_80.jpg)
+
