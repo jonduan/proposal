@@ -106,6 +106,9 @@ The two Tesla battery power plants – and peaker plants in general – are part
 Major CEOs of power companies have also suggested, in a much more aggressive time frame, that peaker plants will go away entirely by 2020 in the USA.
 
 
+## Have We Reached Peak Peaker? ‘I Can’t See Why We Should Build a Gas Peaker After 2025’
+The trend lines aren’t looking very good for natural-gas peaker plants.
 
+https://www.greentechmedia.com/articles/read/battery-storage-is-threatening-natural-gas-peaker-plants
 
 
