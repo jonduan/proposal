@@ -78,6 +78,8 @@ The report, “Modernizing Minnesota’s Grid: An Economic Analysis of Energy St
 
 In addition to showing that storage plus solar already could be more cost effective than peaking gas plants, including environmental benefits, the analysis shows that the deployment of storage in Minnesota is projected to increase the use of low-cost renewable energy generation dispatched in MISO and to reduce the need for expensive transmission investments.
 
+Furthermore, it shows that as standalone storage becomes more economic, it will be able to compete with and displace new gas combustion turbines installed to meet peak demand. Beyond 2022, storage was found to be more cost effective than a simple cycle gas-fired peaking plant for meeting Minnesota’s capacity needs.
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
