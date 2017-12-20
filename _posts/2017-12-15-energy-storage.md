@@ -82,6 +82,8 @@ Furthermore, it shows that as standalone storage becomes more economic, it will 
 
 Connexus, Minnesota’s largest distribution cooperative, was a participant in the workshops and is already pursuing procurement of a 20MW, 40MWh energy-storage system. It will be one of largest storage projects of its kind in the Midwest. According to Connexus, responses to its Request for Proposals have been encouraging, with prices even more competitive than anticipated.
 
+“We have been assessing energy storage to understand its potential benefits to our distribution system and members. Just like solar PV, with continuing drop in storage pricing, it is now becoming cost effective in specific applications,” said Brian Burandt, Vice President of Power Supply and Business Development at Connexus. “While we expect broad applications will be enabled with ongoing cost reductions and performance enhancements, we believe the technology is ready today for application on our system. That will save our member-owners and Minnesotans on electric costs, but in tandem, facilitate renewable energy growth to reduce greenhouse gas emissions.”
+
 ## Solar + batteries prepping to take over 10GW of US natural gas peaker power plant market
 
 https://electrek.co/2017/12/13/solar-batteries-to-take-10gw-natural-gas/
