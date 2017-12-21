@@ -41,6 +41,15 @@ Solar energy export (feed-in) data from my home over the last billing period: Ea
 The darker green the cell, the more energy exported, while orange cells represent lower export amounts. Grey cells indicate zero export.
 
 
+The question of ‘controlled load’ hot water
+
+Neither of the graphs above takes into account the separate controlled load circuit that my house has for hot water.
+
+Ausgrid (the network company, not my retailer) have a separate meter for my hot water, and they can switch the element on and off as they like throughout the day.
+
+This helps them to better distribute energy loads across thousands of households who also have controlled load hot water, and my retailer charges me a cheaper rate for the energy that does go towards water heating in my house.
+
+
 
 
 
