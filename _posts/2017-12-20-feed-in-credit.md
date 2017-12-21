@@ -34,6 +34,13 @@ It’s interesting to observe that the red ‘high consumption’ cells start to
 solar output 19kWh/day,
 ssuming 6 peak sun hours per day and a conservative efficiency rate of 75%
 
+![](https://1bug6h3twe4ikg0cg1c750qt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/solar-export-heat-graph-1024x478-copy.jpg)
+
+Solar energy export (feed-in) data from my home over the last billing period: Each row in the ‘heat map’ table above represents a day in the 87 day billing cycle, while each column represents a half-hour block of time during that day.
+
+The darker green the cell, the more energy exported, while orange cells represent lower export amounts. Grey cells indicate zero export.
+
+
 
 
 
