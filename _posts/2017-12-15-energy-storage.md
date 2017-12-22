@@ -37,6 +37,13 @@ A recent report by Everoze titled “Batteries Beyond the Spin – The dawning e
 
 The report is based on experience with a 10MW battery energy storage system at the Kilroot Power Station in Northern Ireland. A key observation of the report is batteries provide 100 per cent of their output as digital inertia, vs synchronous generators which are limited to 7-14 per cent of total capacity.
 
+This would mean the 100MW Tesla Big battery could provide the equivalent inertial response to 700-1400MW of traditional generation.
+
+The Everoze report concludes “adopting digital inertia can slash the cost of delivering inertial response as well as improving the quality of power response following events”.
+
+The battery industry insists that we can address system security, reliability, affordability and lower emissions while accepting the digital era has spread to the energy system, and that we are moving beyond the steam age.
+
+
 ##  Tesla battery
 http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
 Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
