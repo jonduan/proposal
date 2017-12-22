@@ -14,6 +14,8 @@ tags:
 http://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/
 The Tesla big battery is having a big impact on Australia’s electricity market, far beyond the South Australia grid where it was expected to time shift a small amount of wind energy and provide network services and emergency back-up in case of a major problem.
 
+Data from AEMO (and gathered above by Dylan McConnell from the Climate and Energy College) shows that the Tesla big battery responded four seconds ahead of the generator contracted at that time to provide FCAS (frequency control and ancillary services), the Gladstone coal generator in Queensland.
+
 
 ### Question
 
