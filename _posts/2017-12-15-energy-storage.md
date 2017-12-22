@@ -9,6 +9,18 @@ tags:
 ---
 ## Energy Storage
 
+
+
+
+Presumably, the aim will be to take advantage of quick changes in wholesale prices, or simply to charge up when prices are low and discharge when they are high, and to help meet peak demand (which it did later Thursday, see update below).
+
+The battery is also contracted by the government to provide fast-response stability services to the grid. A full explainer of what it can and cannot do can be found here.
+
+
+AEMO called on the Tesla big battery to ramp up to fill in the gaps as the amount of wind generation died off and temperatures soared. It fed 70MW into one 5-minute period, and over the 30 minute settlement period (5pm) 59MW, and  11MW into the next one.
+
+Not only did it help the grid right through a peak when there was little wind, and moderate wholesale eletricity prices, it also meant one expensive gas peaking plant did not have to be switched on.  
+
 ## Tesla big battery outsmarts lumbering coal units after Loy Yang trips
 
 http://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/
