@@ -40,11 +40,23 @@ This part of the battery is designed to last 10 minutes, which sounds short but 
 
 The other 30MW of capacity will have three hours storage, and will be used as load shifting by Neoen for the Hornsdale wind farm, where it will be located.
 
+Please note: The 30MW and 70MW ratings mean exactly that – it is the capacity at the connection point.
 
 
 
+### How much will it cost?
+
+Those details are confidential and media estimates have ranged from $50 million to $200 million. The best indication may have come from Musk himself, who reportedly said that failure to meet the 100-day-we’ll-finish-it-or-it’s-free offer would cost the company about $US50 million. But that refers only to the component contracted to the government, so the 70MW part. So, it is likely to be a number less than $A100 million, but not a lot less.
+
+### How long will the batteries last?
+
+RenewEconomy understands the batteries carry guarantees for 15 years, although these guarantee contracts allow for some level of degradation each year. So, for instance, after 15 years, the batteries may only be operating at around 60-65 per cent of their initial rates capacity, so will then be replaced by newer, more efficient and cheaper equipment.
 
 
+### How many people will work on the project?
+About 100 people will work on construction, about the same as on the construction of the third stage of the Hornsdale wind project. Indeed, it will be more or less the same crew, with the addition of Tesla engineers. This is the biggest thing for Tesla Energy, so they will be sending enough to make sure it is done properly. Maybe Even Musk might be looking for a motel room in Jamestown, although he is known to sleep on the factory floor.
+### How big will the installation be?
+About 1 hectare. the batteries are installed in waterproof cabinets rather than in containers or special buildings.
 
 
 ## Tesla big battery shows off its flexibility in final testing
