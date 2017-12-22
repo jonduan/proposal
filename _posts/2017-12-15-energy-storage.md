@@ -9,8 +9,8 @@ tags:
 ---
 ## Energy Storage
 
-
-
+## Tesla big battery shows off its flexibility in final testing
+http://reneweconomy.com.au/tesla-big-battery-shows-off-its-flexibility-in-final-testing-56982/
 
 Presumably, the aim will be to take advantage of quick changes in wholesale prices, or simply to charge up when prices are low and discharge when they are high, and to help meet peak demand (which it did later Thursday, see update below).
 
