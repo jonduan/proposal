@@ -44,6 +44,9 @@ The other 30MW of capacity will have three hours storage, and will be used as lo
 
 
 
+
+
+
 ## Tesla big battery shows off its flexibility in final testing
 http://reneweconomy.com.au/tesla-big-battery-shows-off-its-flexibility-in-final-testing-56982/
 
