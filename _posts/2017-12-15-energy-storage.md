@@ -20,6 +20,8 @@ It will provide much needed network support, so if there are more network failur
 
 It can respond to faults in an instant – in milliseconds – while the big gas generators are still asleep in the back of the bus.  The gas generators take at least six seconds before responding at all, and up to 10 minutes to get dressed.
 
+Over the longer term, South Australia and other grids will need more battery storage, but also more forms of storage that is  longer term (hours and days) and bigger capacity. This could come from pumped hydro, solar thermal, and even hydrogen. Battery storage will likely remain the quickest to respond, and the cheapest over short periods, so will play a critical role.
+
 
 ## Tesla big battery shows off its flexibility in final testing
 http://reneweconomy.com.au/tesla-big-battery-shows-off-its-flexibility-in-final-testing-56982/
