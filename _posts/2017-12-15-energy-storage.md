@@ -14,6 +14,16 @@ tags:
 
 that most gas peaking plants operate for just a few hours a year, when prices are really high.
 
+t also plays a less visible role of providing important network services such as frequency control and ancillary services (FCAS).
+
+The trick here is that Tesla is actually providing a service, it is not necessarily putting this output into the grid. If called on, it will, but most of the time it is there for exactly what these services are called – contingency and regulation.
+
+### Contingency, 
+McConnell explains, are for those events when a large power station trips off, and the battery can act quickly to “hold the grid’ together while bigger but slower moving machinery is fired up.
+
+### Regulation 
+is basically the throttle controls that the Australian Energy Market Operator wants to be able to deploy to make the minor adjustments needed to keep the grid stable. The battery, like other spinning machinery, offers these services – and is paid for them – but is mostly on standby.
+
 ##  Tesla battery
 http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
 Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
