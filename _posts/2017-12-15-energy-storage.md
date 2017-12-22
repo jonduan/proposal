@@ -26,6 +26,8 @@ Over the weekend was again illustrating its rapid fire charging and discharging.
 
 The interesting thing here is the speed with which Tesla responded to the contingency FCAS market, which is triggered after frequency gets to 49.8Hz. That was pretty much instantaneous. And they did it from a standing start, unlike the other generators.
 
+Again, the Tesla big battery repeated its dose of last week, hopping in with a milli-second respond to help arrest the fall in frequency caused by the sudden loss of 353MW of capacity.
+
 ### Question
 
 [‘Finkel’s new energy report’ isn’t new and it isn’t by Finkel](https://theconversation.com/finkels-new-energy-report-isnt-new-and-it-isnt-by-finkel-87763)
