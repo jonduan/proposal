@@ -53,7 +53,7 @@ As its November 2017 issues paper states:
 
 The problem with the AEMC and its application to public policy is that it seeks to attributes blame for frequency stability on new variable technologies like wind and solar (the AEMC likes to call them intermittent), and not the old clunkers that seem to trip on a very frequent basis.
 
-
+It at least is looking at how it can change market rules to encourage the anticipated huge resource in household battery storage, and how that can help the grid. It also wants to recognise the importance of large scale storage, be it battery, pumped hydro or solar thermal.
 
 
 ##  Tesla battery
