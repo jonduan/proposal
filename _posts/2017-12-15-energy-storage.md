@@ -44,6 +44,18 @@ The Everoze report concludes “adopting digital inertia can slash the cost of d
 The battery industry insists that we can address system security, reliability, affordability and lower emissions while accepting the digital era has spread to the energy system, and that we are moving beyond the steam age.
 
 
+
+The AEMC know that times are changing and have a process underway to review Frequency Control Frameworks.
+
+As its November 2017 issues paper states:
+
+“Sometimes, large generating units and transmission lines may trip unexpectedly and stop producing or transmitting electricity. These events tend to result in larger changes in system frequency and more significant impacts on the safety and reliability of the power system. Controlling frequency is therefore critically important”.
+
+The problem with the AEMC and its application to public policy is that it seeks to attributes blame for frequency stability on new variable technologies like wind and solar (the AEMC likes to call them intermittent), and not the old clunkers that seem to trip on a very frequent basis.
+
+
+
+
 ##  Tesla battery
 http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
 Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
