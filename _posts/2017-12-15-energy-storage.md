@@ -24,6 +24,21 @@ Over the longer term, South Australia and other grids will need more battery sto
 
 But work by Lloyds Register found that a battery of around 100MW could have been sufficient to do the job of dealing with those sudden changes in frequency and voltage in those dramatic seconds when one tower after another collapsed and three major transmission lines failed. Whether the system would have been able to ride through the remaining issues is not known, but batteries would have given it a fighting chance.
 
+It  will change the way we think about energy, from the old baseload, peak load paradigm, to a new one based around the cheapest form of new generation “base cost renewables” (wind and solar), and then flexible or dispatchable generation to fill in the gaps. (See graph above).
+
+
+
+
+![](http://reneweconomy.com.au/wp-content/uploads/2017/06/baseload-to-smart-grid.jpg)
+
+In South Australia, this level of wind and solar had reached saturation point with wind and solar accounting already for 50 per cent of demand. But storage will allow those penetrations to jump significantly.
+
+Of the 100MW/129MWh in this array, around 70MW of capacity is contracted to the South Australian government to provide grid stability and system security. It will likely mostly provide frequency and ancillary services (FCAS) when needed (such as a major system fault, generator trip or transmission failure).
+
+This part of the battery is designed to last 10 minutes, which sounds short but is long enough to keep the grid stable while slower machines such as gas generators can respond.
+
+
+The other 30MW of capacity will have three hours storage, and will be used as load shifting by Neoen for the Hornsdale wind farm, where it will be located.
 
 
 
