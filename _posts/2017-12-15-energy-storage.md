@@ -18,7 +18,7 @@ They can also provide a whole range of what are called “network services” �
 
 It will provide much needed network support, so if there are more network failures, or if the big gas generators trip again like they did in March then battery storage will play a critical role in keeping the grid stable and the lights on, particularly with its fast response capabilities.
 
-
+It can respond to faults in an instant – in milliseconds – while the big gas generators are still asleep in the back of the bus.  The gas generators take at least six seconds before responding at all, and up to 10 minutes to get dressed.
 
 
 ## Tesla big battery shows off its flexibility in final testing
