@@ -24,6 +24,19 @@ McConnell explains, are for those events when a large power station trips off, a
 ### Regulation 
 is basically the throttle controls that the Australian Energy Market Operator wants to be able to deploy to make the minor adjustments needed to keep the grid stable. The battery, like other spinning machinery, offers these services – and is paid for them – but is mostly on standby.
 
+
+![](http://reneweconomy.com.au/wp-content/uploads/2017/12/hornsdale-power-reserve-copy.jpg)
+
+
+## Regulation
+
+http://reneweconomy.com.au/speed-of-tesla-big-battery-leaves-rule-makers-struggling-to-catch-up-36135/
+The problem is that market rules and pricing mechanisms are not designed around technologies like batteries that can go from 0 per cent to 100 per cent full power in a fraction of a second.
+
+A recent report by Everoze titled “Batteries Beyond the Spin – The dawning era of digital inertia on the Island of Ireland” summarises a Queens University Belfast study commissioned by AES, another global leader in energy storage.
+
+The report is based on experience with a 10MW battery energy storage system at the Kilroot Power Station in Northern Ireland. A key observation of the report is batteries provide 100 per cent of their output as digital inertia, vs synchronous generators which are limited to 7-14 per cent of total capacity.
+
 ##  Tesla battery
 http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
 Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
