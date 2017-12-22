@@ -22,6 +22,12 @@ It can respond to faults in an instant – in milliseconds – while the big gas
 
 Over the longer term, South Australia and other grids will need more battery storage, but also more forms of storage that is  longer term (hours and days) and bigger capacity. This could come from pumped hydro, solar thermal, and even hydrogen. Battery storage will likely remain the quickest to respond, and the cheapest over short periods, so will play a critical role.
 
+But work by Lloyds Register found that a battery of around 100MW could have been sufficient to do the job of dealing with those sudden changes in frequency and voltage in those dramatic seconds when one tower after another collapsed and three major transmission lines failed. Whether the system would have been able to ride through the remaining issues is not known, but batteries would have given it a fighting chance.
+
+
+
+
+
 
 ## Tesla big battery shows off its flexibility in final testing
 http://reneweconomy.com.au/tesla-big-battery-shows-off-its-flexibility-in-final-testing-56982/
