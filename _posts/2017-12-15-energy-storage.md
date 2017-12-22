@@ -9,6 +9,10 @@ tags:
 ---
 ## Energy Storage
 
+## Tesla big battery outsmarts lumbering coal units after Loy Yang trips
+
+http://reneweconomy.com.au/tesla-big-battery-outsmarts-lumbering-coal-units-after-loy-yang-trips-70003/
+The Tesla big battery is having a big impact on Australia’s electricity market, far beyond the South Australia grid where it was expected to time shift a small amount of wind energy and provide network services and emergency back-up in case of a major problem.
 
 
 ### Question
@@ -130,4 +134,6 @@ Numerous battery storage projects are ready to be implemented, but most need the
 Some battery storage projects – such as the Tesla big battery in South Australia and another 30MW storage facility in the same state – are both being supported by federal or state payments, and are focused more on providing grid security services.
 
 after huge resistance from the fossil fuel generators, who have used the 30-minute settlement system to manipulate pricing over the last 10 years.
+
+
 
