@@ -16,6 +16,10 @@ The Tesla big battery is having a big impact on Australia’s electricity market
 
 Data from AEMO (and gathered above by Dylan McConnell from the Climate and Energy College) shows that the Tesla big battery responded four seconds ahead of the generator contracted at that time to provide FCAS (frequency control and ancillary services), the Gladstone coal generator in Queensland.
 
+But in reality, the response from the Tesla big battery was even quicker than that – in milliseconds – but too fast for the AEMO data to record.
+
+Importantly, by the time that the contracted Gladstone coal unit had gotten out of bed and put its socks on so it can inject more into the grid – it is paid to respond in six seconds – the fall in frequency had already been arrested and was being reversed.
+
 
 ### Question
 
