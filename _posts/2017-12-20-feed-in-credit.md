@@ -30,7 +30,7 @@ Cells in green signify that we drew no electricity from the grid, while yellow c
 It’s interesting to observe that the red ‘high consumption’ cells start to disappear towards the end of September – right about the time the average temperatures got high enough to obviate the need for heating (using either ducted AC or oil heaters)."
 
 
-4.4kW solar system(s),
+## 4.4kW solar system(s),
 solar output 19kWh/day,
 ssuming 6 peak sun hours per day and a conservative efficiency rate of 75%
 
@@ -41,7 +41,7 @@ Solar energy export (feed-in) data from my home over the last billing period: Ea
 The darker green the cell, the more energy exported, while orange cells represent lower export amounts. Grey cells indicate zero export.
 
 
-The question of ‘controlled load’ hot water
+## The question of ‘controlled load’ hot water
 
 Neither of the graphs above takes into account the separate controlled load circuit that my house has for hot water.
 
@@ -50,9 +50,9 @@ Ausgrid (the network company, not my retailer) have a separate meter for my hot 
 This helps them to better distribute energy loads across thousands of households who also have controlled load hot water, and my retailer charges me a cheaper rate for the energy that does go towards water heating in my house.
 
 
+![](https://1bug6h3twe4ikg0cg1c750qt-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/hot-water-controlled-load-heat-map-1024x475-copy.jpg)
+
+Scott at CATCH Power has informed me that solar can indeed be used to offset controlled loads, and judging by the heat map below for my controlled load charges (where darker red means higher charge), it seems that this is indeed what’s happening. The heaviest charges come in the evening, while all the daytime charges are lighter.
 
 
-
-
-
-
+This was a great bit of personal news to get at the end of a record-breaking year for the Australian solar industry as a whole – and a great anecdote about how solar can enable households to produce their own clean energy while saving money.
