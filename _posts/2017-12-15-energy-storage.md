@@ -28,6 +28,8 @@ The interesting thing here is the speed with which Tesla responded to the contin
 
 Again, the Tesla big battery repeated its dose of last week, hopping in with a milli-second respond to help arrest the fall in frequency caused by the sudden loss of 353MW of capacity.
 
+This time, the battery injected 16MW for frequency control before returning to take advantage of the price spike caused by the sudden loss of capacity (prices jumped 50 per cent to $119/MWh).
+
 ### Question
 
 [‘Finkel’s new energy report’ isn’t new and it isn’t by Finkel](https://theconversation.com/finkels-new-energy-report-isnt-new-and-it-isnt-by-finkel-87763)
