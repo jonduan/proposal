@@ -9,6 +9,18 @@ tags:
 ---
 ## Energy Storage
 
+
+
+http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
+Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
+
+They can also provide a whole range of what are called “network services” – and providing frequency control and “synthetic inertia” are the top of that list. In all, there are about 20 different things it can do in its “value stack” – think of it as the Swiss army knife of the energy system. In practice, one installation may focus on only one or just a few of those pitons.
+
+It will provide much needed network support, so if there are more network failures, or if the big gas generators trip again like they did in March then battery storage will play a critical role in keeping the grid stable and the lights on, particularly with its fast response capabilities.
+
+
+
+
 ## Tesla big battery shows off its flexibility in final testing
 http://reneweconomy.com.au/tesla-big-battery-shows-off-its-flexibility-in-final-testing-56982/
 
