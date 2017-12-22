@@ -20,6 +20,11 @@ But in reality, the response from the Tesla big battery was even quicker than th
 
 Importantly, by the time that the contracted Gladstone coal unit had gotten out of bed and put its socks on so it can inject more into the grid – it is paid to respond in six seconds – the fall in frequency had already been arrested and was being reversed.
 
+It is contracted to provide such grid services by the South Australia government.
+
+Over the weekend was again illustrating its rapid fire charging and discharging. (See graph above). The rapid re-bidding is likely to change the market forever, particularly when the 5-minute settlement rule finally comes into effect in 2021.
+
+The interesting thing here is the speed with which Tesla responded to the contingency FCAS market, which is triggered after frequency gets to 49.8Hz. That was pretty much instantaneous. And they did it from a standing start, unlike the other generators.
 
 ### Question
 
