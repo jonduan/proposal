@@ -11,6 +11,10 @@ tags:
 
 
 
+
+that most gas peaking plants operate for just a few hours a year, when prices are really high.
+
+##  Tesla battery
 http://reneweconomy.com.au/explainer-what-the-tesla-big-battery-can-and-cannot-do-42387/
 Battery storage can do a bunch of different things – smooth out the output from renewables when clouds come over or the wind dies down, store power for sale at peak times or high prices, or for night-time use, and even remove the need for new grid infrastructure.
 
